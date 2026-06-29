@@ -124,7 +124,7 @@ async def transcribe_file_async(mp3_path):
                     
                     output_file_path = OUTPUT_FOLDER / f"{mp3_path.stem}.json"
                     with open(output_file_path, "w", encoding="utf-8") as out_file:
-                        #out_file.write("".join(full_transcript))
+                        
                         json.dump(full_transcript.model_dump(), out_file, indent=2, ensure_ascii=False)
                     
                     print(f"Completed: {mp3_path.name}")
