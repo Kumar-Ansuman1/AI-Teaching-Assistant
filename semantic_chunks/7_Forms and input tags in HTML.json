@@ -1,0 +1,108 @@
+{
+    "chunks": [
+        {
+            "tutorial_number": 7,
+            "video_title": "Forms and input tags in HTML",
+            "topic": "Introduction to HTML Forms and Their Purpose",
+            "start": 0.0,
+            "end": 22.8,
+            "text": "In this video, we will learn what forms are and what an input tag is inside a form. Using a form is a very important element of some websites because it is through forms that you submit data from client to server. These are the forms that you see on contact pages, Google Forms, or inquiry forms. The date and time, where to go from and to, all these details that we enter on a flight or railway ticket are also submitted through HTML forms."
+        },
+        {
+            "tutorial_number": 7,
+            "video_title": "Forms and input tags in HTML",
+            "topic": "Engagement Request and Upcoming Topics",
+            "start": 22.8,
+            "end": 37.2,
+            "text": "In the last video, very few people liked it, I request you all to definitely like this video with high energy so that we can maintain high energy throughout the course. So let's go to the computer screen, we will look at forms, input tags, and some best practices. Let's roll the intro."
+        },
+        {
+            "tutorial_number": 7,
+            "video_title": "Forms and input tags in HTML",
+            "topic": "Setting Up Project and Configuring VS Code Live Preview",
+            "start": 46.6,
+            "end": 143.7,
+            "text": "So guys, I've come to my computer screen and now see, I'm quickly going to create a folder here, which I'm going to name Video Six because this is the sixth video, I'll right-click, open with code, I've already told you all this. And here I'm quickly going to create index.html and inside it, by putting an exclamation mark, what I'll do is, I'll view word wrap, turn on screen cast mode, and you'll see here I'll write forms. Let's learn it, okay. So I have set the title here for this forms page, and by setting the title, the title will actually be visible on our page. Here I want to tell you about a very important setting, the show preview one. Many of you had also pointed out in the comments that you have to click so many times, so can we do something about it? Yes, you can. Click on the gear here, then click on settings below, and after clicking on settings, simply do this. Here, write live preview, live preview. And we can actually set it such that whenever we click, it opens in an external browser, okay. So now look, I'll close everything, as soon as I click here, it will open in an external browser. And I'll go to my browser, and definitely access the Sigma Web Development course playlist by clicking on the star and bookmarking it here. But right now I want to tell you that as soon as we click here, look, it opened. So if you want that, do it. But sometimes what happens is that you might prefer a side-by-side view, and you'd want to do that when you're actually working on a design using HTML CSS. So whenever you're working on a design, you'll definitely want to see its live preview here. Which is why this extension was made, and it was made different from live server precisely so that you can see the preview on the side."
+        },
+        {
+            "tutorial_number": 7,
+            "video_title": "Forms and input tags in HTML",
+            "topic": "Understanding the HTML Form Tag and GET/POST Methods",
+            "start": 143.7,
+            "end": 208.8,
+            "text": "Now here we will learn about forms. What is a form? You know the name, a form means, like a railway form, we fill it out and our reservation is done. Along with that, we fill out IIT JEE forms, NEET forms, forms for any exam, so that our data can reach those who need it, okay. So this is a form. There is an HTML form tag, as soon as you write form, press enter, it will ask you the first question: what is the action of your form, GET or POST. I'll tell you a very quick difference between GET request and POST request. You're saying we'll look at this later when we study backend. A GET request is a very simple request, and we send POST requests in most cases when we also need to provide a lot of data. For example, whenever our form is posted, we will use a POST request in most cases. And what is a GET request? It's a very simple request, just to tell the server something, and that's it, or to hit the server with a request, that's it. But if you haven't understood this yet, that should be fine, there's no problem because we're going to do this in detail later. So I wrote form action = post here, now I can show some input tags inside it."
+        },
+        {
+            "tutorial_number": 7,
+            "video_title": "Forms and input tags in HTML",
+            "topic": "Introduction to Input Tags and Text Input Type",
+            "start": 208.8,
+            "end": 257.4,
+            "text": "I'll tell you what input tags are: what elements will come inside your form, such as you can enter a date, you can enter a name in the form, you can ask for a phone number, you can ask for your age, which can only be a number. You'd want to put such things in the form. So here I want to tell you that the input tag that you put inside the form, and there is a label tag that is used to label that input. So what I'll do here, you see, the simplest input tag is type equals text. So I'll put the input with type equals text here, and you can see here if I zoom out and show you. So look, input type is equal to text, name is equal to username, placeholder is enter your username, and it will actually look something like this. That means you can say \"Enter your username\" here, and the user on the other side will have to enter their username."
+        },
+        {
+            "tutorial_number": 7,
+            "video_title": "Forms and input tags in HTML",
+            "topic": "Adding a Form Heading and Humorous Subtitle Observation",
+            "start": 257.4,
+            "end": 299.9,
+            "text": "I'll write an H1 here and I'll write, say, \"Form to Apply for TA for Sigma Web Dev TA, Sigma Web Development Course TA.\" Suppose we are hiring Teaching Assistants for the Sigma Web Development course, then we can write something like this here. By the way, I've added subtitles. If you haven't accessed the playlist, make sure to access it. And along with that, I'll show you one more thing, so these subtitles are quite funny, I'll show you here. Write Sigma Batch OP and your village land. \"And give your village land to me.\" I mean, if some English person is watching this, or someone who doesn't know Hindi at all, they'll say, \"Brother, this was fine until here, what happened? 'And give your village land to me.'\" I found this quite funny."
+        },
+        {
+            "tutorial_number": 7,
+            "video_title": "Forms and input tags in HTML",
+            "topic": "Understanding Label and ID Attributes for Form Inputs",
+            "start": 299.9,
+            "end": 357.6,
+            "text": "Anyway, now you can see that I have put the H1 here, which is our heading, this is our main heading. Enter your username, this is our input tag. Along with the input tag, we use the label tag. Now whose label is this? So for equals, I will write its ID. Suppose I write its ID as username, and for equals, what will I do? For equals, I will put its ID. Now, what is this ID? I'll tell you this later, for now, just understand that it's a unique identifier for an element. To uniquely identify this element, just like your Aadhaar number cannot belong to anyone else. Similarly, this ID username has been assigned to it, and now it cannot be assigned to anyone else; this is what an ID is. I'll explain more in detail later, but for now, understand this much. So I wrote label for = username, and this input. And you can see here that the label will appear here. So here I see I haven't actually put anything inside the label. So I'll put \"Enter your username.\" And you can see that as soon as I put this here, you'll see \"Enter your username,\" and after that, you can enter your username here. Along with that, you can enter your expertise here, or anything else."
+        },
+        {
+            "tutorial_number": 7,
+            "video_title": "Forms and input tags in HTML",
+            "topic": "Implementing Radio Buttons and Using Divs for Layout",
+            "start": 357.6,
+            "end": 399.4,
+            "text": "Suppose I want to ask here what your gender is. So I can do something like this here. And you see, \"Enter your gender,\" and as soon as I did this, I can ask you here whether it's male or female. Now what happens here is that sometimes we wrap it in a div. What is a div? A div is our block element, okay. And what are inline and block elements, I haven't told you yet in this course, but I will tell you in upcoming videos. So for now, just understand that I'm putting it in a div to give it a new space, okay. So as soon as I put it in a div, it will come in a new space. Yes, there's also a BR tag, okay. There's also a BR tag, which creates a line break. But I don't prefer the BR tag, and you will get to know why we would never want to pollute our HTML with the BR tag. You will find this out in upcoming videos."
+        },
+        {
+            "tutorial_number": 7,
+            "video_title": "Forms and input tags in HTML",
+            "topic": "Radio Button Grouping with Name Attribute and Checkboxes",
+            "start": 399.4,
+            "end": 493.6,
+            "text": "Now look here, \"Enter your username,\" here, what is male or female? Now look here, as soon as I click on female, this radio button gets selected. I'm clicking on male, and it's getting selected. Why is this happening? Because for its label, I set \"for equals female\" and put \"ID female\" here, do you see? And along with that, you see, I have put the same names for both of them. So here, I put name equals gender for this input tag, and also for this input radio tag. And as soon as we wrote type equals radio here, it means it's a radio button, and if we made their names the same, then only one of these two can be selected at a time. That means if I select this, only this will be selected, if I select that, only that will be selected. Now I'll show you something. If I mess up the ID in the label's form, and here too, in the form's ID, let's say I don't mess up the first one, but I mess up the second one. So when I click on the female of the second one, look, it won't select. I'm clicking, but it's not selecting. I'm clicking on male, and it's selecting. So to select female, I'll have to click here like this. You see, what I should always do is put the ID of the input tag for \"for equals\". So you can see here that I have put label for = female. Along with that, we have an input tag which is type equals checkbox. Now look here, if I put an input of type equals checkbox. I'll do this by putting it inside a div. As soon as I right-click and format the document, our document will become very good, meaning its formatting and indents will become very good. Now look here, \"Subscribe to Newsletter,\" I can check this here. And the difference between a radio button and a checkbox is that you can check different checkboxes. Here, if you want to give one of the options like male or female, or any other options, you can select it like this."
+        },
+        {
+            "tutorial_number": 7,
+            "video_title": "Forms and input tags in HTML",
+            "topic": "Textarea and Select Tags for Multi-line Input and Dropdowns",
+            "start": 493.6,
+            "end": 634.7,
+            "text": "After this, we have a text area and a select tag. And I'll show you what that is too. So the text area and select tag work something like this. Now, as soon as you copy the text area here, I'll show you by pasting it here, the actual text area. So, a text area works for input type equals text, but it has row and column attributes that help you resize it. Now look here, the placeholder inside it that I've given is \"Enter your comment here.\" So I've given \"Enter your comment here\" as the text inside it. Ideally, what we'll do is keep it empty, or at least we won't give it a new line. So I'll just paste it here, \"Enter your comment here.\" And now it will go completely to the left side. I'll show you. So it has reached completely to the left side, look, \"Enter your comment here,\" and here any user can put their comment. Now look, I've put the content of the text area as \"Enter your comment here.\" So ideally, you wouldn't want to do this; you'd want to keep the text area empty. And you'd want to put a label, and you can say label for equals comment, and we'll definitely put an ID here whenever we put \"for\". So inside \"for\" is the ID of the element it's for, okay. Now look here, if I write \"Enter your comment\" here. So what will happen? If I write \"Enter your comment,\" then \"Enter your comment\" will appear here. Now you'll say, \"Hey, this isn't styled properly.\" It's not styled properly because we'll style it with CSS later. For now, I'll just put a BR tag, but I don't recommend the BR tag. I'm telling you this again, I absolutely do not recommend the BR tag because BR tags cause problems. By the way, you should know that the BR tag is a line break tag; it creates a line break like this. Right now, everything might seem fine to you, and you might be thinking, \"What's the problem with the BR tag?\" But I'll tell you, the BR tag is something that I don't recommend, okay. It's not that you shouldn't use it at all, but I don't recommend using it all the time. What happens is, people think the easiest thing to do is just put a BR tag and keep adding new spaces. I strongly oppose this. So I'll copy this, and I'll show you the select tag like this. And you see here that as soon as I put the select tag here, I put it inside a div. So in select, you get some options. The syntax for select is something like this: you can use any one of the three options: apple, banana, and cherry. Now look here, any one of the three can be used. And here, what I did was, I set value equals apple, first created a select tag, gave it name equals fruits, then option value equals apple, option value equals banana, option value equals cherry. When we parse the data of this form, I will tell you in the JavaScript part how to take this data and send it to the server."
+        },
+        {
+            "tutorial_number": 7,
+            "video_title": "Forms and input tags in HTML",
+            "topic": "Advanced Form Attributes: Action, Method, Name, and Placeholder",
+            "start": 634.7,
+            "end": 711.6,
+            "text": "So there are still many things remaining about forms that I'm going to tell you. So stay tuned for that, okay. This was about forms. I had to tell you all the elements of a form in this video, and along with that, I told you about the select tag and all these things. Regarding forms, these other attributes, like action, as I told you, you can submit the form to any page using action, where it will handle the form, so you can provide that data here. Then there's the method, whether it's a GET request or a POST request. I'll tell you the difference between these two in upcoming videos, but I've told you in a very rough way. That a GET request is a very simple request, a POST request is used when a large amount of data needs to be sent to the server. Because a GET request has a limit, you can send a lot of data in a POST request. Okay, we never send passwords in a GET request; we always send them with the help of a POST request. Okay, now I've explained the method here. What happens in name? Name equals username means we mark it with a name. When we mark it with a name, the server will know which key this value corresponds to. So the key-value pair that the server needs will go according to the name; its name and value will go, okay. So we'll also see this when we do server-side processing. What does placeholder mean? Placeholder means what will be written inside it. For example, here, \"Enter your username\" is a placeholder. If I click on it, \"Enter your username\" is not actually written inside it. If I type anything, look, it appears. But \"Enter your username\" is just telling me here that I need to enter a username inside it."
+        },
+        {
+            "tutorial_number": 7,
+            "video_title": "Forms and input tags in HTML",
+            "topic": "Input Attributes for Validation (Required, Pattern) and Behavior (Autofocus)",
+            "start": 711.6,
+            "end": 770.6,
+            "text": "Then, what does \"required\" mean? It means you will have to make it required, you will have to enter its value, otherwise your form will not be submitted. So we will use this a lot. Then after this, we have autofocus. What does autofocus do? Autofocus automatically focuses the cursor, so I'll show you the magic of autofocus here. So if you've written autofocus inside the input tag here. Okay. So I wrote autofocus in \"Enter your username.\" Now I'll reload it, and you'll see that when I type on it, it will automatically stay focused, okay. So, by using autofocus, whenever you type, it will be typed right here, okay. I hope you're understanding these things. Now, regarding validation attributes, I've already told you about \"required.\" You can give a pattern where you can give a regular expression pattern. Now don't get confused, don't say, \"Hey, what kind of talk is this? We don't know regular expressions.\" So that's why I'm here, I'll teach you everything. Just understand that we will only accept a particular pattern. If we put pattern equals this, then you cannot put anything other than this pattern. Okay, so you should know this here."
+        },
+        {
+            "tutorial_number": 7,
+            "video_title": "Forms and input tags in HTML",
+            "topic": "Course Promotion and Final Call to Action",
+            "start": 770.6,
+            "end": 870.9,
+            "text": "So I hope you guys are enjoying this video. And along with that, please write \"Sigma Batch OP\" in the comment section. And go to the first video and please review this course. Because many people still ask me whether they should do this course or not. When it's a free course, people don't value it. They say, \"Hey, this course is free, so should we watch it or take a paid course?\" And I also want to give a note to those who told me, \"Hey, we've taken a paid course, what should we do now? Should we get our money's worth or join the Sigma Batch?\" Guys, join the Sigma Batch, cut your losses and join the Sigma Batch. Because, look, I don't think I need to tell you about the quality of this course. So you guys come and do this, and you'll get everything here. I'm telling you, don't misunderstand \"free\" to mean that I was going to sell you this very course for ₹10,000. Yes, that was the amount we had fixed. I was going to sell you this course for ₹10,000. And I think there is nothing wrong in selling any course. If anyone is selling, there is nothing wrong in selling any course. But the thing is, if you've bought another course and you still feel from your heart that Sigma is a great course, which it is, then you should join, cut your losses and join, because once you build your career, all these things will seem like nothing to you in the future. In the future, when you look back, you'll also say, \"Yes, we took a paid course, and then we took a free course, which helped us understand.\" And once your career is made, all these things won't even matter in the future, man. So do what is right for you, and work understanding your right and wrong. I hope you guys are understanding things. So like the video, access the playlist, subscribe to the channel, and in the comment section below, write \"Sigma Batch OP\" and transfer the land of both your village and uncle to my name. That's all for this video for now, guys. Thank you so much guys for watching this video and I will see you next time."
+        }
+    ]
+}

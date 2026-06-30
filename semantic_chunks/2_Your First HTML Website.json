@@ -1,0 +1,364 @@
+{
+    "chunks": [
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Course Introduction and Expectations",
+            "start": 0.0,
+            "end": 20.0,
+            "text": "In the last video, you all gave a lot of love.It's my pleasure to keep this course free, man. A like is due for this free course.You know, when I started web development, there was no comprehensive course of this quality.Forget free or paid, there was no such course at all.So I can understand how much it means to some people for this course to be free.And trust me, I'll live up to the expectations."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Video Goals: Creating Your First Website & iPhone Order",
+            "start": 20.3,
+            "end": 32.0,
+            "text": "With that said, like this video because in this video we are going to create our first website.And in this video, I am going to order an iPhone 15 Pro Max, why, how, what, we will see all that later in the video."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Community Engagement and Excitement",
+            "start": 32.3,
+            "end": 43.2,
+            "text": "For many of you, this will be the first website of your life.So it's going to be a lot of fun, you guys are excited, right?Write \"I am excited\" in the comments, and I will heart all those comments that write \"I am excited\"."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Video Agenda: HTML/CSS/JS Linking, Resources, VS Code & Earning",
+            "start": 43.5,
+            "end": 111.7,
+            "text": "In this video, we will learn how to link an HTML website with CSS and JavaScript.Along with that, in this video, I am going to give you notes, cheat sheets, and many other resources.I will tell you some techniques that I have learned over the years and they will literally 10x your web development speed.In this video, we will also see how to make your VS Code awesome so that your VS Code screen looks absolutely killer.In this video, I will also tell you how to earn money from web development."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Call to Action and Intro",
+            "start": 112.1,
+            "end": 115.0,
+            "text": "So let's start with full energy, let's roll the intro."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Starting the Practical Session",
+            "start": 124.6,
+            "end": 141.3,
+            "text": "Alright guys, so we have come inside our computer screen.And before moving forward in the video, I want to tell you all to definitely access this playlist.Secondly, we are very close to 5 million subscribers.So if you haven't hit subscribe, please do it.In today's video, we are now going to create our first website, as I already told you."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Initial VS Code Setup and Git Repository Introduction",
+            "start": 142.0,
+            "end": 158.3,
+            "text": "So the first thing we will do is customize our VS Code.So this is the folder where we started our web development series.Now I have to give you the source code of this web development series, so I will configure Git here.Right now, it's not at all necessary for you to know Git."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Git Repository Creation with GitHub Desktop",
+            "start": 158.7,
+            "end": 258.4,
+            "text": "But I will fire up GitHub Desktop here. And here, what I will do is add a new repository.And here, what I will do is add a new repository.I will click on add here, click on create new repository.I will name it Sigma Web Dev Course.And this is in our folder, so I will select this folder.I will initialize this repository with readme and here I will write source code for Sigma Web Development Course.I will click on create repository.Doing this will create a repository here named Sigma Web Dev Course.Whatever things were relevant from the first video, I will put them all here.So these were the two files relevant from the first video, so I will name it video one.Right click, new folder, I will create a video one here.And I will move both these files into the video one folder.I am not pushing all these videos to Git because these are sample videos, you use your own sample videos.So now whatever source code there is, I will keep updating it here and keep pushing it to Git here.Now, how to push to Git here, you don't really need to learn this, but this procedure is very simple."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Understanding Git and GitHub for Collaboration",
+            "start": 258.4,
+            "end": 345.5,
+            "text": "I definitely want to tell you why Git is used, Git is used by web developers or general coders when they need to collaborate their code with other people.So what will happen is that you will work with many programmers and those programmers will collaborate with your source code.And to do this kind of collaboration, they will also push some code, you will also push some code.Maybe one person is editing one file, another person is editing another file, so GitHub comes into use here.And what is GitHub Desktop? GitHub Desktop is a utility for using Git.The difference between Git and GitHub is that Git is open source, but GitHub is a Microsoft-owned company that helps you host repositories on its web interface using Git.I will tell you more about Git in upcoming videos."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Publishing and Syncing Code to GitHub",
+            "start": 345.7,
+            "end": 428.0,
+            "text": "But I am pushing this repository to my CodeWithHarry GitHub account, so you will find the link to the repository in the description, so as I keep giving you links, if you follow them, you will get all the code.And I will talk more about this later, I am making this video course impactful in such a way that absolute beginners can follow it.So as soon as I click on publish repository, this code, this folder will sync with my GitHub account.So all the code that I am going to upload here, will go to my GitHub account and keep syncing.Whatever changes are made here will be there, if someone makes changes there, I can pull them here.With one click, I can pull by fetching origin here.I will teach you all this, we will dedicate a whole video to Git.Don't worry at all, I did this so that I can give you the code."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Creating Project Folder and HTML File",
+            "start": 428.3,
+            "end": 457.0,
+            "text": "Now I will create a folder named video two here.And inside this video two folder, I will go, press shift right click and open with VS Code.So here is open with code, you will get this option if you have installed VS Code as I told you.If you have made some changes and haven't checked those checkboxes that I showed you, then you might face a problem.So we will say no to this, dismiss the notification.Now whatever file I create here, for example, if I create index.html here, that file will also be created here.So everyone knows about this now."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Course Scope for Beginners",
+            "start": 457.3,
+            "end": 505.0,
+            "text": "And I know there are many intermediate people here who are saying that they already know all these things, but I am making this course in such a way that all beginners can also follow along."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Creating HTML, CSS, and JavaScript Files",
+            "start": 505.4,
+            "end": 529.7,
+            "text": "So I will create three files here, one I created here is index.html.The second file I am going to create is style.css and the third file I am going to create is script.js.And the names of these files can be anything, but I just want to keep these files self-explanatory so that by looking at their names, it's clear what they are doing.Index.html is an HTML file, script.js is a JavaScript file, style.css is a style sheet.So I have created these three files here."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "HTML Boilerplate and VS Code Word Wrap",
+            "start": 530.1,
+            "end": 555.3,
+            "text": "Now I will go into index.html and put an exclamation mark, and as soon as I put an exclamation mark, you see, this code has appeared here.I will click on view word wrap so that you can see this code.With word wrap, the horizontal scroll bar disappears, I checked word wrap here.Now here you see that this code, we will understand it, but for now, understand that this code is HTML code, it is used to create a website."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Introduction to VS Code Extensions",
+            "start": 555.7,
+            "end": 612.7,
+            "text": "Now come to the extensions tab of VS Code.Extensions are used to enhance the functionality of VS Code. We use extensions to make VS Code even better.We use extensions to make VS Code even better.VS Code extensions make it easier for us to write code."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Installing VS Code Icons Extension",
+            "start": 613.2,
+            "end": 655.2,
+            "text": "Okay, so which extension will we use?First, I will put some extensions here that will make our VS Code absolutely killer.If your friends see it, they will say, \"Dude, this is a hacker, a hacker.\"Okay, so what I will quickly do here is VS Code icons.Okay, there's an extension called VS Code icons, as soon as I install it, you will know.That whatever file it is, like you see here, its icon has appeared.Earlier this icon was not appearing, if you rewind the video and see, you will find all these nice icons here.Thanks for installing VS Code icons.Here I will activate it.And here you can see that our icons look nice.In the coming time, if we create a folder, for example, if I create a folder, an icon like this will appear.So these icons look a bit better."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Exploring VS Code Themes",
+            "start": 655.5,
+            "end": 706.7,
+            "text": "We will come back to the extensions tab and here there are many good themes that you can use.There are some themes, Jellyfish theme.One is GitHub theme, there are many themes.You can use these themes."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Demonstrating GitHub and Jellyfish Themes",
+            "start": 707.6,
+            "end": 758.4,
+            "text": "But I can only apply one theme at a time.This is the default VS Code theme that shows you VS Code like this.Now if I change my theme, my VS Code will look in a different way.I will show you which one I prefer when it comes to theme.First, I will show you the GitHub theme here, how it looks.So GitHub theme is a theme officially provided by GitHub.Now here you see GitHub dark, GitHub light, GitHub dimmed, GitHub color blind.I like this one a bit better because the colors in it are, sorry, not this one, I will choose GitHub dark here because the colors here are highlighted separately.Another popular theme is Jellyfish.And here, many people like the Jellyfish theme.If I install this, your VS Code will look something like this, you can see.Jellyfish, it will look like this."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Managing Themes and Extensions",
+            "start": 758.9,
+            "end": 858.8,
+            "text": "After this, there is a material theme which is also quite popular. And if I use the material theme here, material theme.And if I use the material theme here, material theme.And these are material theme icons, we had to install the material theme.If you have also installed material theme icons, then you can change which extension controls your icons.And here we have installed many extensions.I will also tell you how to delete extensions.Here, VS Code material theme icons are showing like this.And if you want, you can use VS Code icons.If I want the material themes icon to be removed.So I will simply remove it like this here.And here all my extensions are visible, like the material theme icon.And suppose I want to use these, I will select it, and if I want, I can also uninstall it.And sometimes when we uninstall anything, reload is required, so I will have to click on reload required.And when I click on reload required, my VS Code will reload.So you can customize your VS Code according to your preference.Here, for my VS Code icons, I will select VS Code icons so that my icons look like this, I like this a bit."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Introduction to Prettier and React Snippets Extensions",
+            "start": 859.2,
+            "end": 926.0,
+            "text": "I also quite like the Jellyfish theme. After this, there is another extension called Prettier, I will not install it right now.After this, there is another extension called Prettier, I will not install it right now.But I just want to tell you all.There's another extension, ES7, you'll know about it when we do React.And yes, we will do React in this course for all those asking.Sorry for the spoilers, but we are going to do React in this course.So here is ES7 + React, Redux, React Native snippets, this is an extension that gives you React snippets.We will use this when we do React.For now, we will not install this."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Installing and Understanding Live Preview",
+            "start": 926.6,
+            "end": 946.2,
+            "text": "But now, the most important extension we have is called Live Preview.We will install this extension called Live Preview.Because this is a very useful extension.All the extensions I told you about mostly help you change the look and feel of VS Code.But the extension I am telling you about today, Live Preview, will actually be useful to you."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Creating Your First HTML Page Content",
+            "start": 946.6,
+            "end": 1035.5,
+            "text": "Let's come to our HTML CSS JavaScript files.So here are our HTML CSS and JavaScript files.This is the HTML file.This is some code that tells the website how to look.Okay, so here I am saying that \"document\" should appear in the title. I will write here Harry Bhai's first website.I will write here Harry Bhai's first website.Harry Bhai's course's first website, of the course's first website.Harry Bhai's first website would be a lie.Your first website, you all write your name in it.Okay, whatever your name is, your first website.And if I write inside the body here, hey this is my first website.And everyone write congratulations in the comments below, all those whose first website this is, write congratulations.Congratulations for my first website, okay.And congratulate each other, create a complete atmosphere in the comment section.I will also come, I will also come to the comment section, okay.And I give my heart to all of you, wrote hey this is my first website."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Using Live Preview for Website Display",
+            "start": 1035.8,
+            "end": 1054.9,
+            "text": "Now how do I see this, the biggest question people have.So look, there are two ways to see it, the extension we installed, Live Server, Live Preview, sorry.Earlier Live Server was also very popular, but Microsoft released Live Preview, so this is the latest extension. I will recommend this.Live Server also works."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Live Reloading with Live Preview",
+            "start": 1055.4,
+            "end": 1258.9,
+            "text": "But I am not going to run Live Server right now, I am going to use Live Preview.After installing Live Preview, you see this icon here.You see it above, if you click it, your website will look something like this. Now you say that I want to see this website here in the browser because my website will be visible in the browser, right?Now you say that I want to see this website here in the browser because my website will be visible in the browser, right?So if you want to see this in the browser, click here, open in browser, it will open in the browser.And should I tell you something fun, listen to the fun thing too.You can close it from here now.And here you can write, Harry Bhai's course is good, suppose you wrote it, okay.I am praising my course.But yeah, it is what it is, Harry Bhai's course is good.Okay, I wrote it here and you noticed one thing here.I didn't even reload this website, but even after that, it updated the content here that I had written in this VS Code.Meaning, whatever I write here, it will be updated here without reloading.Will it happen or not?Clap, there should be applause for us, man.Okay, it will happen.And here, hey this is my first website, Harry Bhai's course is good.Now if I write here Sigma Harry Bhai's course is good.Sigma Harry Bhai's course is good, Sigma Harry Bhai's course is good.Okay, so here you all saw how this extension will help us.Even if you reload it, it won't make any difference because it's live reloading.So there are two things, sometimes we want our page.That it gets previewed right here.I'll close this so you can see the white code.Sometimes we want to see our code right here.Because we want to see its live preview.So suppose I am writing anything, Harry Bhai's course is good and this is Sigma course.And suppose I write something else here, I can write many things here.So I will write here, I will keep looking here.And I can also make it smaller or bigger like this.So I will see a live update here.If you have ever seen any of my old videos, I have used this extension, Live Server.Either this extension wasn't available then or I didn't know about it, it is what it is, okay.Now when something new comes, it takes time to find out.But this is something that you should use.Because I use this in my daily life, I do web development, man, okay."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Instructor's Web Development Experience and Code Access",
+            "start": 1259.3,
+            "end": 1322.7,
+            "text": "Many people used to ask if I also do web development or just teach it. Oh man, I do it too, I make websites, I don't just make videos, I also work by making websites.Oh man, I do it too, I make websites, I don't just make videos, I also work by making websites.And yes, I also earn a lot of money by making websites.Now all this code that I am writing, you will all find it on GitHub.So whenever you go to the description of any video, of any video in this course, you will get the code for that corresponding video, you don't have to worry about that."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Introduction to Linking HTML, CSS, and JavaScript",
+            "start": 1323.2,
+            "end": 1358.0,
+            "text": "Now I will close this because my preview is visible here.Now understand HTML CSS JavaScript that we talked about, about which we talked so much in the previous video, now I will tell you how to link all three.Now you will say, \"Okay, you created index.html, that's great, the title is also visible here, look, Harry Bhai's course's first website,\" suppose I change its name to Sigma Web Development Course.So this will change, Sigma, Sigma Web Development Course, here Sigma Web Development Course is written and you can see here that it has been updated.So this will keep updating, it will be a live update."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Writing Basic CSS and Explaining the Need for Linking",
+            "start": 1358.9,
+            "end": 1456.8,
+            "text": "Now I want my background to turn red, okay. Such tasks are done with CSS. So I can write here body and background color red, okay.Such tasks are done with CSS.So I can write here body and background color red, okay.This is the syntax of CSS.I will teach CSS and I will teach it in such a way that you won't be able to forget it even if you want to.Don't worry about what's written here, for now, understand that this is CSS which makes the body's color red, okay.And here you see, will the body's color be red or not?Tell me in the comment section.Now let me tell beginners that it won't be red, okay.Why won't it be? Beginners will think it will turn red, but it won't, the world isn't that good.This HTML file is currently running, it doesn't know about this CSS file.Now what's happening in my house, what does my neighbor know, man.Now suppose I made lentils here and I expect, suppose my neighbor made rice.And suppose I expect that we eat it together.It doesn't happen, right? Yes, sometimes we can eat, but you understand what I'm saying, right?So we will have to link, you will have to link, you will have to go and tell the neighbor that we will eat together, I am making lentils, you make rice.There will be a handshake here.So how will that handshake happen?"
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Linking External CSS File to HTML",
+            "start": 1457.3,
+            "end": 1545.3,
+            "text": "In HTML, you will tell where your CSS file is.So there is a link tag होता है.And you will also know the reason for not using Notepad here.As soon as I write link here, look here, link colon CSS, as soon as I select it.So here, look, it did half my work, it also wrote rel is equal to stylesheet, I would have to type this manually in Notepad.This is the syntax of HTML.I would have to write this, but here it has automatically appeared, okay.Now style.css, it's my luck that its name is also style.css and here also style.css is given.If its name was Harry.css, I would write Harry.css here.And guess what, now my background is red here.Now if I want the color of my text to be white, then I can make the text color white here.I can write color white here.Now nothing will work here.I wrote color white, so look, it turned white.Only valid CSS syntax will work and we will talk about this further in this course."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Writing Basic JavaScript and the Need for Linking",
+            "start": 1545.7,
+            "end": 1621.5,
+            "text": "So this worked, our CSS.Now how will this JavaScript run?If I write alert here and I write welcome to Sigma Web Development Course.Suppose I wrote here welcome to Sigma Web Development Course.So what will happen, will an alert appear here?Hey, why didn't the alert appear?Let me tell you that this syntax is absolutely correct.There is no problem in the syntax.And I will teach JavaScript very well too.So don't worry about what's written here.Understand that this is JavaScript code that will flash \"welcome to Sigma Web Development Course\" very simply on the screen.Why didn't it flash?Has my computer broken down?"
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Linking External JavaScript File to HTML",
+            "start": 1622.3,
+            "end": 1712.5,
+            "text": "No, brother, my computer is perfectly fine.I want to tell you that I will have to include the script.And scripts are included just before the body.Okay.Now as soon as I include the script here, in SRC I will write script.js.How did I write this?First I wrote script here.Okay.What did I write first here, script.Emmet abbreviation, what is Emmet?Emmet is a plugin that is built-in in VS Code, as you select, it will auto-complete.Now if I am writing script here and selecting the colon SRC one, it means I want to give a source file.You can also type it manually if you want.But the suggestions you get here make your coding powers even faster. They make you an amazing developer.They make you an amazing developer.And they increase your powers.So that you don't get into trouble.And as soon as possible, your soul as a developer can be satisfied."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Confirming HTML, CSS, and JavaScript Functionality",
+            "start": 1713.2,
+            "end": 1748.4,
+            "text": "SRC is equal to script.js, you can see here I have included this.Now I will come here and you see, here comes welcome to Sigma Web Development Course.Everyone write in the comments, my soul is satisfied.Write it, because I know your soul is satisfied after seeing this box.This JavaScript also ran.CSS was already running.JavaScript also ran, now your soul is satisfied.I will reload it, it will come again.I will click OK, it will close.So as I visit this website, I will see an alert here.This is called an alert in JavaScript.I will tell you later what happens in JavaScript.Don't say you didn't tell about alert.I don't want to start weirdly, I will finish HTML, then CSS, then JavaScript.So don't worry at all."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Web Development Best Practices and VS Code Customization",
+            "start": 1748.9,
+            "end": 1855.5,
+            "text": "And along with this, whatever best practices I am telling you, keep them in mind.Because what I am telling you comes from my experience, from a lot of experience, and it will definitely help you.As I said Live Server, you can use it if you want.Nothing wrong in that.Use Live Preview, it's from Microsoft.Okay.Awesome.Now I want all of you to write Sigma Batch OP in the comments.Everyone, if you are enjoying the course, then put Sigma Batch OP in the comments, it will be absolutely fun to see.Yeah man, this is a batch, so what if it's a free course, it's a batch, so write Sigma Course OP with a hashtag, it will be fun.Now many people commented in the previous video on how to do this mouse wheel thing.So you simply have to go to settings, write mouse wheel here.And here you have to check the editor mouse wheel zoom.Then you press control and with the mouse wheel, I have pressed control here, as soon as I do this with the mouse wheel, I will be able to zoom in.And if I right-click here and do command palette, then I can also toggle screencast mode here.Then whatever I write here, you will get to see it.I didn't toggle screencast mode in this video because you already know what I'm typing, okay.So I can also toggle screencast mode like this, meaning I can turn it on so that you can see all the things I'm doing below."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Understanding Client-Server Interaction with an E-commerce Example",
+            "start": 1855.9,
+            "end": 2041.3,
+            "text": "In the previous video, we talked about how websites work, and you understood what we talked about very well. Now I will take the example of iPhone 15 Pro Max and show you by placing an order how client-server interaction happens whenever a user orders an iPhone, okay.Now I will take the example of iPhone 15 Pro Max and show you by placing an order how client-server interaction happens whenever a user orders an iPhone, okay.So you will find it interesting, I will show you here.So guys, to explain how a website works, I have come to apple.com.Now look, apple.com is a website, okay, data must have come from their server till here, okay.Whatever these HTML files are.I will quickly click on pre-order here.And after this, I will simply, when I am recording, this hasn't even arrived by the way, they are saying that it will arrive on September 22nd.I will select 15 Pro Max.Color, let's just take anything, let's take black titanium, what's the harm.Let's take 256 GB.Let's take no trade-in.No Apple coverage.After this, you see here what they did, communication with their server is ongoing, ongoing, ongoing.So the bottom line is, the HTML CSS JavaScript is.You can see, I viewed its page source here, so it is visible to me like this here.And here is our original website, meaning the one we were working on.Now I will quickly checkout here, continue as guest.I'll show you something fun, as soon as I click on inspect and then on network, you see two-way communication is happening with Apple's servers.Which means that here, as I keep performing actions, JavaScript is communicating with the server and the server is taking appropriate actions and sending me data.I will say here I would like to be delivered, continue to shipping address.I will put in name etc.It will deliver on 19th October.Shipping, when it arrives, I will tell you, I will keep you updated, okay.Yes, everything is fine, I have read the terms and conditions, I completely agree, place your order.Oh, I agreed, place your order.Like the video because I even order iPhones to explain web development to you all."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Summarizing HTML, CSS, JS Roles in Web Interaction",
+            "start": 2041.7,
+            "end": 2138.3,
+            "text": "Here we have the OTP, I will confirm the OTP.And my purchase is done here.In total, what happened was that I made a request to the apple.com server, I said, \"Dude, give me an iPhone 15 Pro Max,\" apple.com said, \"Take it, brother.\"So this kind of communication between the server and the client happens through JavaScript, without loading the page.As you saw, I selected iPhone here, then I clicked on different things, so all those things, how they happen, they happen with the help of JavaScript.The styling, how does it happen, with the help of CSS.And all that is written is HTML.I hope you remember this example.And when the phone arrives, I will definitely show you.Otherwise, many people will say, \"Oh, this is fake, this is fake, this is fake.\"Oh, I will show you, when this phone arrives, I will unbox it right in front of you.So this is how your websites work, how a client communicates with a server.I hope you understood with this example."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Community Engagement: iPhone Giveaway Ideas",
+            "start": 2138.6,
+            "end": 2152.0,
+            "text": "Now tell me in the comment section, if I want to giveaway this iPhone.So what would be the best thing so that you all also know that I did a genuine giveaway and I can also do a giveaway, tell me in the comment section, I don't know much about all this.So if you have knowledge about this, tell me."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Accessing Course Notes and Cheat Sheets",
+            "start": 2152.5,
+            "end": 2234.9,
+            "text": "Now I want to tell you where you will find notes and cheat sheets.If you go to codewithharry.com/notes, you will find notes and you can download notes here.Along with that, below you will find cheat sheets.For example, if I want to access the HTML cheat sheet, then I can access the cheat sheet here, all the elements are here.But for now, stay in this course, I will tell you about all the elements.Along with that, if you want to download my handwritten HTML notes, then you can download PDF notes from here.I have written these by hand, you will enjoy reading them.In this course, I will tell you everything, but if you download these notes, you will enjoy it even more.I will make your learning experience so smooth that you will also say, \"It was amazing, boss.\""
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Request for Initial Course Review",
+            "start": 2235.5,
+            "end": 2308.4,
+            "text": "Now I want all of you to do one thing, put an initial review of this course in this first video.I want all of you to go to this video and in this video, go to the comment section and post an initial review.I want you all to write in the comment section below this first video how you liked this course and give me stars out of five.Give it a star rating and tell me, we are talking about the initial review.I know the course hasn't progressed much yet.But looking at the quality and all these things, you have to comment below in the first video.So if you all do this, I will genuinely feel good.Go to the first video and rate this course."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Earning Money through Web Development Freelancing",
+            "start": 2308.8,
+            "end": 2330.9,
+            "text": "Now we will talk about how you can earn money after doing this course.So the first way to earn money from web development is very simple, you freelance.Freelance as a web developer.You all make websites.There are many websites that you can create and by creating them, you will earn a lot of money.Many people get APIs integrated and by integrating APIs, many people earn a lot of money."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Using ChatGPT to Enhance Web Development Productivity",
+            "start": 2331.4,
+            "end": 2415.7,
+            "text": "Many people say that ChatGPT has arrived, now that ChatGPT has arrived, nothing will be possible, ChatGPT does everything, but this is not true.ChatGPT makes building websites even easier for you, in my opinion.And when you use ChatGPT, you become a giga chat developer.So use ChatGPT as much as possible and you can save your time.In fact, to tell you the truth, ever since ChatGPT came, I have been able to deliver more to my freelancing clients.As many websites as I had to build from scratch, I get more than half the work done by ChatGPT, and the work that ChatGPT cannot do, I do, finally package and deliver it.And I don't have to answer anyone whether I used ChatGPT or did it without ChatGPT.You can deliver everything very easily, use ChatGPT."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Strategies for Finding Freelance Web Development Clients",
+            "start": 2416.5,
+            "end": 2539.3,
+            "text": "ChatGPT cannot do everything, you have to use ChatGPT and then create websites and deliver them to freelance clients.Where will you find freelancing clients?You can go to a website like Fiverr.Yes, I know it's a bit difficult to get work on Fiverr.But you can go to buyer requests here, Fiverr has a buyer request option, do some research.Now if you go here, you can match with buyers here.If I show you images, then buyer requests appear like this here.You can give your pitch to these people, saying, \"Hey, I have done these things and I am suitable for this work.\"So you will start getting work from here.As your gig gets good reviews, you will earn more money.For example, suppose you have a Fiverr gig, and no one has ever ordered from it, then you will never easily get work.But if, say, five or six people ordered on one of your gigs and everyone gave you five stars, then things become easier for you from there.Because buyers, they want that the people they are getting work done from should have good credibility because they also need work, right?And they are also paying money, so they also want that since they are paying money, their money should not be wasted.So here are Fiverr, Upwork, and many other freelancing websites where you can try.But even before trying, you should know how to build good websites.And today, you will get tasks like responsive, using cutting-edge technologies, suppose you want to integrate ChatGPT API.No one will tell you to create a design for them, or a simple navbar.I'm saying most clients don't get these tasks done, nowadays ChatGPT does all this."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Earning Money through a Web Developer Job",
+            "start": 2539.7,
+            "end": 2604.2,
+            "text": "You can earn more money by building complex websites.Then the second thing is, get a job as a web developer.If you get a job as a web developer, which you will if you become a good web developer.Then you will get a job.And it's not like jobs have decreased.In fact, the demand for senior developers is increasing and their packages are also increasing, and people are earning more money in coding than they used to.If you are a very basic developer, then yes, ChatGPT will replace you."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Earning Money by Selling Services and One-to-One Help",
+            "start": 2604.6,
+            "end": 2643.9,
+            "text": "After this, you can sell your services.By creating an Instagram account.In an Instagram account, if you upload any kind of images and you get a little bit of attraction where you talk about websites and all these things, then clients start approaching you.Many clients approach me and tell me, \"Dude, I want a website built.\"I'm not saying you need a lot of followers, you can start with a very small following too.After this, you can give one-to-one help to people, you will also find clients for this on Instagram or other social media.You can say at the end of your reel that if you want to learn anything, come to my DMs, I will tell you, and you can easily find clients here, trust me if you know the work."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Earning Money by Selling Web Development Courses",
+            "start": 2644.4,
+            "end": 2727.4,
+            "text": "After this, you can sell courses.Which I was probably going to sell this course, I have uploaded it for free now.But this course was going to be paid for you all, that's the truth, and if you had gotten this course paid, everyone would have definitely paid for this course.Now it's not necessary that you have to create a web development course, there are many things within web development, like how to use ChatGPT API, make a course on that, make a ChatGPT course, if you know how to build websites, then selling courses will be easy for you.The course economy is very huge.Many people contacted me to buy this course, asking me to launch this course as a paid course on their platform.But I didn't do it because I wanted to give this course for free, I had decided, I had also posted it.Until the last moment, people contacted me saying, \"Dude, please don't put the course for free,\" but I put it."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "The Value of This Free Course and Future Content",
+            "start": 2727.8,
+            "end": 2759.7,
+            "text": "So you will have to write Sigma Batch OP in the comment section now.And you will have to like it too.Now, overall, many course sellers have suffered losses due to this course being uploaded for free, because when iPhone 15, 16, 19 Pro Max is available for free, then who will ask for BlackBerry, that too a paid BlackBerry.And I am saying this because of how much effort I have put into it and how much of my experience I have put into it.Only I know that, you will also know in the upcoming videos.So stay tuned, you are going to get a lot of things in this course in the upcoming videos.I am aware of the fact that we are taking a very slow start.But remember my words, we'll raise the bar like anything."
+        },
+        {
+            "tutorial_number": 2,
+            "video_title": "Your First HTML Website",
+            "topic": "Course Conclusion and Next Steps",
+            "start": 2800.3,
+            "end": 2807.9,
+            "text": "So access the playlist, like the video, transfer your village land to my name.Thank you so much guys for watching this video and I will see you next time."
+        }
+    ]
+}

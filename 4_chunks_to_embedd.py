@@ -10,7 +10,7 @@ load_dotenv()
 
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
-PERSIST_DIRECTORY = "./chroma_gemini_db"
+PERSIST_DIRECTORY = "./chroma_db"
 
 
 def load_json_to_langchain_docs(folder_path):
@@ -23,9 +23,9 @@ def load_json_to_langchain_docs(folder_path):
 
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-                segments = data.get("segments", [])
+                chunks = data.get("chunks", [])
 
-                for idx, segment in enumerate(segments):
+                for idx, segment in enumerate(chunks):
                     text_content = segment.get("text", "")
                     if not text_content.strip():
                         continue
@@ -33,6 +33,7 @@ def load_json_to_langchain_docs(folder_path):
                     metadata = {
                         "tutorial_number": int(segment.get("tutorial_number", 0)),
                         "video_title": segment.get("video_title", ""),
+                        "topic": segment.get("topic", ""),
                         "start": float(segment.get("start", 0.0)),
                         "end": float(segment.get("end", 0.0)),
                         "source": file_name
@@ -44,7 +45,7 @@ def load_json_to_langchain_docs(folder_path):
     return docs
 
 
-folder_path = "./jsons"
+folder_path = "./semantic_chunks"
 documents = load_json_to_langchain_docs(folder_path)
 
 print(f"Loaded {len(documents)} segments. Vectorizing ...")
@@ -55,4 +56,4 @@ vector_store = Chroma.from_documents(
     persist_directory=PERSIST_DIRECTORY
 )
 
-print("Chroma Store built successfully using Gemini Embeddings!")
+print("Chroma Store built successfully !")

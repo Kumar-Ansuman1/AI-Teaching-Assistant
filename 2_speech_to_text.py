@@ -1,7 +1,6 @@
 import os
 import base64
 import asyncio
-import time
 from pathlib import Path
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage
@@ -14,7 +13,7 @@ import json
 load_dotenv()
 
 SOURCE_FOLDER = Path("./audios")
-OUTPUT_FOLDER = Path("./jsons")
+OUTPUT_FOLDER = Path("./transcribed_chunks")
 
 MAX_CONCURRENT_TASKS = 1
 semaphore = asyncio.Semaphore(MAX_CONCURRENT_TASKS)
@@ -31,7 +30,7 @@ class TranscriptSegment(BaseModel):
     )
 
     end: float = Field(
-        description="End timestamp in seconds where the spoken text ends, the start and end shouldn't be greater than 10 seconds"
+        description="End timestamp in seconds where the spoken text ends"
     )
 
     text: str = Field(
@@ -56,9 +55,8 @@ Tasks:
 2. If speech is Hindi, translate it into English.
 3. Preserve meaning and context.
 4. Return timestamped segments.
-5. The start and end shouldn't be greater than 10 seconds.
-6. Extract the 'tutorial_number' strictly from the leading integer/number written at the very starting of the audio file name.
-7. Extract the 'video_title' exactly as the remaining descriptive title of that video from the file name, ignoring the leading number and any file extensions. Every segment must carry these identical file metadata values
+5. Extract the 'tutorial_number' strictly from the leading integer/number written at the very starting of the audio file name.
+6. Extract the 'video_title' exactly as the remaining descriptive title of that video from the file name, ignoring the leading number and any file extensions. Every segment must carry these identical file metadata values
 
 CRITICAL FORMATTING RULE: 
 Return ONLY a raw, plain JSON object. Do NOT wrap your response in markdown code blocks (do not use ```json or ```). Start your response directly with the opening curly brace  and end with the closing curly brace .
