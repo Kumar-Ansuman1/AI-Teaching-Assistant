@@ -1,0 +1,1509 @@
+{
+  "segments": [
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 0.0,
+      "end": 2.98,
+      "text": "In this video, I will tell you what IDs and classes are."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 2.98,
+      "end": 7.28,
+      "text": "The concept of IDs and classes is one of the most confusing concepts."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 7.28,
+      "end": 12.0,
+      "text": "In fact, when I was learning HTML in my early days, I used to get very confused with IDs and classes."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 12.3,
+      "end": 18.78,
+      "text": "ID means a unique identifier, meaning if you give an ID to one element, you ideally won't give that ID to another element."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 18.78,
+      "end": 25.38,
+      "text": "But class means that if you want to give a certain type of property to multiple elements, then you will give it multiple classes."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 25.38,
+      "end": 29.58,
+      "text": "For example, you can give the class named 'red' to a div and also to a form."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 29.58,
+      "end": 34.98,
+      "text": "Similarly, you can give the class named 'BG red' to an article tag and also to a header tag."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 35.28,
+      "end": 41.88,
+      "text": "Do like this video because now we are going to the computer screen and we are going to look at these things very closely."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 41.88,
+      "end": 42.98,
+      "text": "Let's roll the intro."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 52.68,
+      "end": 53.78,
+      "text": "Alright guys, so I'm back."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 53.78,
+      "end": 58.58,
+      "text": "And if you haven't accessed the Sigma Web Development course, then access the playlist."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 58.58,
+      "end": 103.78,
+      "text": "Click here to bookmark, click here to save, and the source code is continuously being uploaded to GitHub. Now I will quickly come here to the folder and create a folder for video number 9. So I will create a folder for video 9 here. Here I will write video 9, and after creating the folder for video 9, I will Shift+Right-click and Open with Code. And here you can see that it has opened in VS Code. Now here I will write index.html, put an exclamation mark and press Enter. And along with that, now I will tell you what ID and classes are."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 103.78,
+      "end": 128.78,
+      "text": "Now I will quickly come here to the folder and create a folder for video number 9. So I will create a folder for video 9 here. Here I will write video 9, and after creating the folder for video 9, I will Shift+Right-click and Open with Code. And here you can see that it has opened in VS Code. Now here I will write index.html, put an exclamation mark and press Enter. And along with that, now I will tell you what ID and classes are."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 129.28,
+      "end": 130.78,
+      "text": "You must have an Aadhaar card, right?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 130.78,
+      "end": 132.88,
+      "text": "If not, you must have some ID."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 132.88,
+      "end": 134.88,
+      "text": "Now don't write in the comments that I don't have an ID."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 135.08,
+      "end": 142.38,
+      "text": "Whenever you go somewhere, you have to show your ID in some of the cases to prove your identity, that I am this person."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 142.38,
+      "end": 149.48,
+      "text": "Now, if you want to understand about ID and classes in HTML, then ID is what your identity is, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 149.48,
+      "end": 151.28,
+      "text": "What is it? It's your identity."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 151.28,
+      "end": 153.28,
+      "text": "So listen to a story here, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 153.88,
+      "end": 156.68,
+      "text": "This is John, okay, and this is Harry, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 156.68,
+      "end": 158.08,
+      "text": "These two are very good friends."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 158.08,
+      "end": 160.08,
+      "text": "They are very good friends, just"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 160.08,
+      "end": 164.48,
+      "text": "they don't share their lunch, and otherwise, they are very good friends, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 164.48,
+      "end": 169.08,
+      "text": "In terms of food, they are not one, and they are friends in all other matters, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 169.08,
+      "end": 174.08,
+      "text": "Now here you can see that John and Harry both have their own Aadhaar card IDs."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 174.08,
+      "end": 177.08,
+      "text": "So this is my Aadhaar number,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 177.08,
+      "end": 180.08,
+      "text": "and John's Aadhaar number looks something like this, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 180.08,
+      "end": 184.08,
+      "text": "So this is John's Aadhaar number, and this is my Aadhaar number, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 184.08,
+      "end": 186.68,
+      "text": "Our Aadhaar numbers can never be the same."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 186.68,
+      "end": 200.08,
+      "text": "Or if, suppose, our friend becomes, suppose my friend becomes Tanya, and John's friend becomes, suppose, Shruti, okay? So their Aadhaar numbers will also be different, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 200.08,
+      "end": 204.08,
+      "text": "This is it, and this is Tanya's Aadhaar number, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 204.08,
+      "end": 205.08,
+      "text": "This is Tanya's Aadhaar number."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 205.08,
+      "end": 208.08,
+      "text": "Now, these Aadhaar numbers will be different for every person."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 208.08,
+      "end": 214.08,
+      "text": "So John and Harry were friends, John's friend became Shruti, this is her Aadhaar number, Tanya's this."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 214.08,
+      "end": 216.08,
+      "text": "None of these four numbers are the same."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 216.08,
+      "end": 220.08,
+      "text": "These four Aadhaar numbers, if I told you any one Aadhaar number among them,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 220.08,
+      "end": 222.08,
+      "text": "I said 35345,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 222.08,
+      "end": 224.08,
+      "text": "you will understand that it's about Harry."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 224.08,
+      "end": 228.08,
+      "text": "And if I said 5456567,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 228.08,
+      "end": 230.08,
+      "text": "you will understand that it's about Shruti."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 230.08,
+      "end": 235.08,
+      "text": "And if I said 3456856863,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 235.08,
+      "end": 237.08,
+      "text": "you will understand that it's about Tanya."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 237.08,
+      "end": 240.08,
+      "text": "So this Aadhaar number uniquely identifies Tanya,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 240.08,
+      "end": 242.08,
+      "text": "Harry, Shruti, and John."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 242.08,
+      "end": 244.08,
+      "text": "So what is this?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 244.08,
+      "end": 246.08,
+      "text": "This is their Aadhaar number,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 246.08,
+      "end": 247.08,
+      "text": "meaning this is their ID."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 247.08,
+      "end": 249.08,
+      "text": "This Aadhaar number will not be given to anyone else, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 249.08,
+      "end": 253.08,
+      "text": "Along with that, suppose John and Harry spent their childhood together."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 253.08,
+      "end": 256.08,
+      "text": "They grew up together, and they studied in the same class."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 256.08,
+      "end": 259.08,
+      "text": "And the name of that class was Class 10th, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 259.08,
+      "end": 260.08,
+      "text": "Suppose they are both in 10th class."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 260.08,
+      "end": 261.08,
+      "text": "Okay, suppose, man."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 261.08,
+      "end": 262.08,
+      "text": "What's wrong with supposing?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 262.08,
+      "end": 264.08,
+      "text": "And suppose Shruti is in Class 9th."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 264.08,
+      "end": 266.08,
+      "text": "And Tanya is also in Class 9th, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 266.08,
+      "end": 268.08,
+      "text": "So both are in Class 9th, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 268.08,
+      "end": 271.08,
+      "text": "Tanya is also in Class 9th, and Shruti is also in Class 9th."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 271.08,
+      "end": 272.08,
+      "text": "So what is Shruti's class? It's 9th."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 272.08,
+      "end": 274.08,
+      "text": "Tanya's class can also be 9th, right?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 274.08,
+      "end": 276.08,
+      "text": "Shruti won't study alone in a class, right?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 276.08,
+      "end": 278.08,
+      "text": "Or Harry won't study alone in 10th class."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 278.08,
+      "end": 279.08,
+      "text": "There are other children in the class too."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 279.08,
+      "end": 282.08,
+      "text": "So class means that in one class, there are Harry and John."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 282.08,
+      "end": 284.08,
+      "text": "So can one person have multiple classes?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 284.08,
+      "end": 286.08,
+      "text": "Yes, one person can have multiple classes."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 286.08,
+      "end": 290.08,
+      "text": "Like, suppose Harry is in Class 10th, and he goes to a tuition where he is in Class 10A."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 290.08,
+      "end": 292.08,
+      "text": "Suppose there are also classes in that tuition."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 292.08,
+      "end": 294.08,
+      "text": "So there can be more than one class."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 294.08,
+      "end": 295.08,
+      "text": "One is Class 10th for him,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 295.08,
+      "end": 296.08,
+      "text": "and one is Class 10A."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 296.08,
+      "end": 300.08,
+      "text": "And along with that, suppose Harry wears a red colored T-shirt, so his class is also red, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 300.08,
+      "end": 302.08,
+      "text": "So class does not mean a studying class."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 302.08,
+      "end": 304.08,
+      "text": "Class means that he has been classified into this class."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 304.08,
+      "end": 305.08,
+      "text": "Understand it like that."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 305.08,
+      "end": 307.08,
+      "text": "Now come here, leave John, Harry, Shruti for now."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 307.08,
+      "end": 308.08,
+      "text": "Okay, should I delete this?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 308.08,
+      "end": 311.08,
+      "text": "I'll zoom out and delete it, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 311.08,
+      "end": 312.08,
+      "text": "It has no meaning here now."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 312.08,
+      "end": 314.08,
+      "text": "Now come to index.html and understand this."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 314.08,
+      "end": 316.08,
+      "text": "Suppose I created a div here, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 316.08,
+      "end": 318.08,
+      "text": "And I gave it the class 'red', okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 318.08,
+      "end": 322.08,
+      "text": "And I created a span and also gave it the class 'red', okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 322.08,
+      "end": 326.08,
+      "text": "Can I give the classes I have given to different elements or the same class? Yes, I can."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 326.08,
+      "end": 330.08,
+      "text": "But if I want to put an ID in any one element, suppose I put its ID as 'first-div'."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 330.08,
+      "end": 332.08,
+      "text": "I can put anything as ID."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 332.08,
+      "end": 336.08,
+      "text": "So I cannot give this ID to any other element because this is its Aadhaar card, of this element."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 336.08,
+      "end": 338.08,
+      "text": "Even if it's another div, I still can't put it."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 338.08,
+      "end": 342.08,
+      "text": "Then I will have to put some other ID, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 342.08,
+      "end": 344.08,
+      "text": "I put the ID as 'second-div', okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 344.08,
+      "end": 347.08,
+      "text": "And here I will write 'second' and here I will write 'first', okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 347.08,
+      "end": 352.08,
+      "text": "So this concept of ID and classes, I personally tell you, I understood it very late when I was learning web development in my early days."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 352.08,
+      "end": 356.08,
+      "text": "Nobody told me that ID uniquely identifies an element."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 356.08,
+      "end": 366.08,
+      "text": "And the class, you can apply multiple classes to one element, and you can also apply the same class to multiple elements, understand? Like if I gave this a red class, I can also give it a BG yellow class, okay? BG yellow."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 366.08,
+      "end": 368.08,
+      "text": "I can give this one class."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 368.08,
+      "end": 371.08,
+      "text": "And if we give multiple classes to an element, we give it with a space."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 371.08,
+      "end": 376.08,
+      "text": "Like if I want to put multiple classes in this element, then what will I do?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 376.08,
+      "end": 379.08,
+      "text": "First, I will write 'red' here, then put a space and write 'BG yellow'."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 379.08,
+      "end": 381.08,
+      "text": "So this way I can give multiple classes to the same element."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 381.08,
+      "end": 383.08,
+      "text": "Can I give multiple IDs to the same element?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 383.08,
+      "end": 384.08,
+      "text": "Have you ever seen anyone with two Aadhaar cards?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 384.08,
+      "end": 387.08,
+      "text": "Well, if someone gets it made from somewhere else, I don't know, but it doesn't happen ideally, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 387.08,
+      "end": 388.08,
+      "text": "Aadhaar cards don't happen."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 388.08,
+      "end": 391.08,
+      "text": "One person has one Aadhaar number,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 391.08,
+      "end": 395.08,
+      "text": "and Aadhaar numbers of different people cannot be the same, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 395.08,
+      "end": 398.08,
+      "text": "One person cannot have multiple, different people cannot have the same."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 398.08,
+      "end": 400.08,
+      "text": "But the class, meaning if I say what color T-shirt you wear,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 400.08,
+      "end": 403.08,
+      "text": "or you can wear a red colored T-shirt, five people can wear it, no problem."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 403.08,
+      "end": 405.08,
+      "text": "You will find them if you go on the street."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 405.08,
+      "end": 410.08,
+      "text": "And you will find multiple people who like mangoes, or who like bananas, or who like grapes."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 410.08,
+      "end": 412.08,
+      "text": "So they are in the banana class, or they are in the grapes class, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 412.08,
+      "end": 413.08,
+      "text": "In the mango class."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 413.08,
+      "end": 415.08,
+      "text": "So we can classify into a class,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 415.08,
+      "end": 417.08,
+      "text": "and we can give the same class to different elements."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 417.08,
+      "end": 418.08,
+      "text": "So I hope you understood this."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 418.08,
+      "end": 420.08,
+      "text": "Now I will write some CSS here,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 420.08,
+      "end": 422.08,
+      "text": "and don't say that I am not teaching CSS, but writing it."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 422.08,
+      "end": 425.08,
+      "text": "What I am writing in CSS now, you guys,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 425.08,
+      "end": 427.08,
+      "text": "just understand that I am writing some alien language, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 427.08,
+      "end": 428.08,
+      "text": "Inside style.css."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 428.08,
+      "end": 430.08,
+      "text": "But I am trying to make a point."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 430.08,
+      "end": 432.08,
+      "text": "I will click here,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 432.08,
+      "end": 434.08,
+      "text": "and here its preview looks something like this: first and second."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 434.08,
+      "end": 435.08,
+      "text": "I will just show you one thing."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 435.08,
+      "end": 438.08,
+      "text": "First, how do we target a class in CSS?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 438.08,
+      "end": 439.08,
+      "text": "By putting a dot."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 439.08,
+      "end": 440.08,
+      "text": "Dot red means red class."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 440.08,
+      "end": 442.08,
+      "text": "And hash first-div means hash means ID,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 442.08,
+      "end": 443.08,
+      "text": "dot means class."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 443.08,
+      "end": 444.08,
+      "text": "Okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 444.08,
+      "end": 447.08,
+      "text": "If I say that the first div,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 447.08,
+      "end": 449.08,
+      "text": "make its background color red, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 449.08,
+      "end": 451.08,
+      "text": "So by making the background color of the first div red,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 451.08,
+      "end": 452.08,
+      "text": "its background color will become red, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 452.08,
+      "end": 453.08,
+      "text": "These are selectors in CSS."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 453.08,
+      "end": 456.08,
+      "text": "And now I don't want to confuse you at all,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 456.08,
+      "end": 458.08,
+      "text": "and I can comment like this in CSS, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 458.08,
+      "end": 459.08,
+      "text": "But we will learn all these things later."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 459.08,
+      "end": 461.08,
+      "text": "Now by doing dot red, what will I do?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 461.08,
+      "end": 462.08,
+      "text": "I will write 'background-color: red' here."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 462.08,
+      "end": 465.08,
+      "text": "And along with that, in dot BG yellow, what will I do?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 465.08,
+      "end": 467.08,
+      "text": "Dot BG yellow, which will be mine,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 467.08,
+      "end": 468.08,
+      "text": "I have to put a dot."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 468.08,
+      "end": 469.08,
+      "text": "Dot means class."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 469.08,
+      "end": 470.08,
+      "text": "It means class BG yellow."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 470.08,
+      "end": 473.08,
+      "text": "And I will make the background color yellow."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 473.08,
+      "end": 474.08,
+      "text": "Sorry, I will make its color red."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 474.08,
+      "end": 475.08,
+      "text": "I will not make the background color red."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 475.08,
+      "end": 476.08,
+      "text": "Dot red means its color should be red."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 476.08,
+      "end": 478.08,
+      "text": "So look, its color became red, and the background color became yellow."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 478.08,
+      "end": 481.08,
+      "text": "So this is how you can use IDs and classes in CSS."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 481.08,
+      "end": 482.08,
+      "text": "I hope you understood this."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 482.08,
+      "end": 485.08,
+      "text": "Now one very important thing to note here is that IDs and classes are attributes of an element."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 485.08,
+      "end": 487.08,
+      "text": "This is an ID attribute, and this is a class attribute."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 487.08,
+      "end": 489.08,
+      "text": "So if I say what are ID classes, are they elements? No."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 489.08,
+      "end": 490.08,
+      "text": "They are attributes of elements."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 490.08,
+      "end": 492.08,
+      "text": "Now there is one more use of ID."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 492.08,
+      "end": 493.08,
+      "text": "I will tell you what another use of ID is."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 493.08,
+      "end": 496.08,
+      "text": "If I take you to Wikipedia and write 'coding',"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 496.08,
+      "end": 497.08,
+      "text": "then this page of Wikipedia comes up."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 497.08,
+      "end": 499.08,
+      "text": "Suppose I go to some other page, a big page."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 499.08,
+      "end": 503.08,
+      "text": "So you will see that when you go to any page on Wikipedia,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 503.08,
+      "end": 506.08,
+      "text": "you can take the link of that particular place."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 506.08,
+      "end": 507.08,
+      "text": "I will show you how this happens."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 507.08,
+      "end": 508.08,
+      "text": "I go to some other page."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 508.08,
+      "end": 510.08,
+      "text": "I scroll down,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 510.08,
+      "end": 512.08,
+      "text": "and here I will inspect and see what its ID is."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 512.08,
+      "end": 513.08,
+      "text": "Its ID is this, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 513.08,
+      "end": 514.08,
+      "text": "So I will copy its ID, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 514.08,
+      "end": 517.08,
+      "text": "And if I put # and this ID here,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 517.08,
+      "end": 520.08,
+      "text": "now if I press Enter, it will directly bring me here to ICDA8."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 520.08,
+      "end": 523.08,
+      "text": "So you see, if I put it in incognito too,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 523.08,
+      "end": 526.08,
+      "text": "it will scroll and show me that particular ID."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 526.08,
+      "end": 528.08,
+      "text": "You see, it scrolled and showed me this,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 528.08,
+      "end": 530.08,
+      "text": "instead of showing me this."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 530.08,
+      "end": 532.08,
+      "text": "It scrolled and showed me because it wants to bring me to this ID."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 532.08,
+      "end": 534.08,
+      "text": "So ID also works in linking, friends, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 534.08,
+      "end": 535.08,
+      "text": "Remember this too."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 535.08,
+      "end": 537.08,
+      "text": "Very few people will tell you this,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 537.08,
+      "end": 541.08,
+      "text": "that you can also generate links, you can write # and ID after any link."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 541.08,
+      "end": 545.08,
+      "text": "So when you open that link, it will focus on that ID, just like it's doing in this case."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 545.08,
+      "end": 548.08,
+      "text": "You can see that as soon as I press Enter,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 548.08,
+      "end": 550.08,
+      "text": "so maybe I made a mistake with the ID here, but you got the point, you got the point, okay?"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 550.08,
+      "end": 553.08,
+      "text": "29.29, and I will press Enter,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 553.08,
+      "end": 554.08,
+      "text": "so you see, I came down."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 554.08,
+      "end": 556.08,
+      "text": "If I open an incognito tab or reload it,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 556.08,
+      "end": 557.08,
+      "text": "then you see, I came down."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 557.08,
+      "end": 559.08,
+      "text": "If I scroll up too,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 559.08,
+      "end": 563.08,
+      "text": "and after this, I open a new tab and do this, then you see, it's scrolling and bringing me to the same page where this ID is."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 563.08,
+      "end": 566.08,
+      "text": "So I hope you understood ID and classes through this video."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 566.08,
+      "end": 567.08,
+      "text": "ID means like an Aadhaar card."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 567.08,
+      "end": 568.08,
+      "text": "Class means a property of a person,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 568.08,
+      "end": 570.08,
+      "text": "like he likes red, or what class he is in."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 570.08,
+      "end": 572.08,
+      "text": "Multiple classes can be given to one element."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 572.08,
+      "end": 575.08,
+      "text": "One element can be red in color, its background can be yellow."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 575.08,
+      "end": 578.08,
+      "text": "And another element can also have its color red and background yellow."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 578.08,
+      "end": 580.08,
+      "text": "So red class can also be applied to multiple elements."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 580.08,
+      "end": 583.08,
+      "text": "You can apply red class to only one element if you want."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 583.08,
+      "end": 585.08,
+      "text": "And in one element, you can apply red class also,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 585.08,
+      "end": 586.08,
+      "text": "and BG yellow class also."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 586.08,
+      "end": 587.08,
+      "text": "So I hope you understood, guys."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 587.08,
+      "end": 589.08,
+      "text": "So for now, that's all in this video, guys."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 589.08,
+      "end": 591.08,
+      "text": "I was reading the captions, and I laughed so much reading the captions."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 591.08,
+      "end": 595.08,
+      "text": "So I had said in it, "
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 595.08,
+      "end": 597.08,
+      "text": "Name your village land in my name."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 597.08,
+      "end": 598.08,
+      "text": "I laughed 5-10 times after hearing this."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 598.08,
+      "end": 599.08,
+      "text": "Very loudly."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 599.08,
+      "end": 600.08,
+      "text": "I had said, "
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 600.08,
+      "end": 601.08,
+      "text": "Access, name your village land in my name."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 601.08,
+      "end": 602.08,
+      "text": "So on this note,"
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 602.08,
+      "end": 604.08,
+      "text": "access the playlist, access GitHub too."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 604.08,
+      "end": 607.08,
+      "text": "Keep the video liked, and in the comment section, write #sigmabatchOP."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 607.08,
+      "end": 609.08,
+      "text": "Thank you so much, guys, for watching this video."
+    },
+    {
+      "tutorial_number": 9,
+      "video_title": "Id & Classes in HTML",
+      "start": 609.08,
+      "end": 610.08,
+      "text": "And I will see you next time."
+    }
+  ]
+}

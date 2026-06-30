@@ -1,0 +1,2965 @@
+{
+  "segments": [
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 0.0,
+      "end": 2.37,
+      "text": "In the last video, you all gave a lot of love."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2.37,
+      "end": 5.07,
+      "text": "It's my pleasure to keep this course free, man. A like is due for this free course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 6.5,
+      "end": 10.4,
+      "text": "You know, when I started web development, there was no comprehensive course of this quality."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 10.7,
+      "end": 13.0,
+      "text": "Forget free or paid, there was no such course at all."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 13.4,
+      "end": 17.3,
+      "text": "So I can understand how much it means to some people for this course to be free."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 17.3,
+      "end": 20.0,
+      "text": "And trust me, I'll live up to the expectations."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 20.3,
+      "end": 24.2,
+      "text": "With that said, like this video because in this video we are going to create our first website."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 24.4,
+      "end": 32.0,
+      "text": "And in this video, I am going to order an iPhone 15 Pro Max, why, how, what, we will see all that later in the video."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 32.3,
+      "end": 35.0,
+      "text": "For many of you, this will be the first website of your life."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 35.4,
+      "end": 37.8,
+      "text": "So it's going to be a lot of fun, you guys are excited, right?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 38.1,
+      "end": 43.2,
+      "text": "Write \"I am excited\" in the comments, and I will heart all those comments that write \"I am excited\"."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 43.5,
+      "end": 47.6,
+      "text": "In this video, we will learn how to link an HTML website with CSS and JavaScript."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 47.8,
+      "end": 53.1,
+      "text": "Along with that, in this video, I am going to give you notes, cheat sheets, and many other resources."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 53.3,
+      "end": 100.7,
+      "text": "I will tell you some techniques that I have learned over the years and they will literally 10x your web development speed."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 101.0,
+      "end": 107.3,
+      "text": "In this video, we will also see how to make your VS Code awesome so that your VS Code screen looks absolutely killer."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 107.6,
+      "end": 111.7,
+      "text": "In this video, I will also tell you how to earn money from web development."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 112.1,
+      "end": 115.0,
+      "text": "So let's start with full energy, let's roll the intro."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 124.6,
+      "end": 126.8,
+      "text": "Alright guys, so we have come inside our computer screen."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 127.0,
+      "end": 130.8,
+      "text": "And before moving forward in the video, I want to tell you all to definitely access this playlist."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 131.0,
+      "end": 133.0,
+      "text": "Secondly, we are very close to 5 million subscribers."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 133.3,
+      "end": 136.0,
+      "text": "So if you haven't hit subscribe, please do it."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 136.5,
+      "end": 141.3,
+      "text": "In today's video, we are now going to create our first website, as I already told you."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 142.0,
+      "end": 145.6,
+      "text": "So the first thing we will do is customize our VS Code."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 146.1,
+      "end": 150.4,
+      "text": "So this is the folder where we started our web development series."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 150.8,
+      "end": 155.4,
+      "text": "Now I have to give you the source code of this web development series, so I will configure Git here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 155.9,
+      "end": 158.3,
+      "text": "Right now, it's not at all necessary for you to know Git."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 158.7,
+      "end": 202.2,
+      "text": "But I will fire up GitHub Desktop here. And here, what I will do is add a new repository."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 202.2,
+      "end": 206.7,
+      "text": "And here, what I will do is add a new repository."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 207.3,
+      "end": 210.6,
+      "text": "I will click on add here, click on create new repository."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 211.0,
+      "end": 214.0,
+      "text": "I will name it Sigma Web Dev Course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 214.4,
+      "end": 218.0,
+      "text": "And this is in our folder, so I will select this folder."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 218.4,
+      "end": 223.3,
+      "text": "I will initialize this repository with readme and here I will write source code for Sigma Web Development Course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 223.5,
+      "end": 224.2,
+      "text": "I will click on create repository."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 224.5,
+      "end": 228.4,
+      "text": "Doing this will create a repository here named Sigma Web Dev Course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 228.6,
+      "end": 232.9,
+      "text": "Whatever things were relevant from the first video, I will put them all here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 233.3,
+      "end": 237.2,
+      "text": "So these were the two files relevant from the first video, so I will name it video one."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 237.6,
+      "end": 240.5,
+      "text": "Right click, new folder, I will create a video one here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 240.8,
+      "end": 243.0,
+      "text": "And I will move both these files into the video one folder."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 243.4,
+      "end": 247.8,
+      "text": "I am not pushing all these videos to Git because these are sample videos, you use your own sample videos."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 248.2,
+      "end": 252.7,
+      "text": "So now whatever source code there is, I will keep updating it here and keep pushing it to Git here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 252.9,
+      "end": 258.4,
+      "text": "Now, how to push to Git here, you don't really need to learn this, but this procedure is very simple."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 258.4,
+      "end": 309.6,
+      "text": "I definitely want to tell you why Git is used, Git is used by web developers or general coders when they need to collaborate their code with other people."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 309.9,
+      "end": 316.1,
+      "text": "So what will happen is that you will work with many programmers and those programmers will collaborate with your source code."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 316.4,
+      "end": 321.5,
+      "text": "And to do this kind of collaboration, they will also push some code, you will also push some code."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 321.7,
+      "end": 326.4,
+      "text": "Maybe one person is editing one file, another person is editing another file, so GitHub comes into use here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 326.8,
+      "end": 332.3,
+      "text": "And what is GitHub Desktop? GitHub Desktop is a utility for using Git."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 332.7,
+      "end": 342.9,
+      "text": "The difference between Git and GitHub is that Git is open source, but GitHub is a Microsoft-owned company that helps you host repositories on its web interface using Git."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 343.3,
+      "end": 345.5,
+      "text": "I will tell you more about Git in upcoming videos."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 345.7,
+      "end": 356.4,
+      "text": "But I am pushing this repository to my CodeWithHarry GitHub account, so you will find the link to the repository in the description, so as I keep giving you links, if you follow them, you will get all the code."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 356.6,
+      "end": 403.4,
+      "text": "And I will talk more about this later, I am making this video course impactful in such a way that absolute beginners can follow it."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 404.0,
+      "end": 409.2,
+      "text": "So as soon as I click on publish repository, this code, this folder will sync with my GitHub account."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 409.4,
+      "end": 413.9,
+      "text": "So all the code that I am going to upload here, will go to my GitHub account and keep syncing."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 414.2,
+      "end": 418.6,
+      "text": "Whatever changes are made here will be there, if someone makes changes there, I can pull them here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 418.8,
+      "end": 421.7,
+      "text": "With one click, I can pull by fetching origin here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 422.0,
+      "end": 424.7,
+      "text": "I will teach you all this, we will dedicate a whole video to Git."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 424.7,
+      "end": 428.0,
+      "text": "Don't worry at all, I did this so that I can give you the code."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 428.3,
+      "end": 430.2,
+      "text": "Now I will create a folder named video two here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 430.5,
+      "end": 435.2,
+      "text": "And inside this video two folder, I will go, press shift right click and open with VS Code."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 435.5,
+      "end": 440.5,
+      "text": "So here is open with code, you will get this option if you have installed VS Code as I told you."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 440.8,
+      "end": 446.0,
+      "text": "If you have made some changes and haven't checked those checkboxes that I showed you, then you might face a problem."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 446.3,
+      "end": 448.5,
+      "text": "So we will say no to this, dismiss the notification."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 448.8,
+      "end": 455.5,
+      "text": "Now whatever file I create here, for example, if I create index.html here, that file will also be created here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 455.7,
+      "end": 457.0,
+      "text": "So everyone knows about this now."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 457.3,
+      "end": 505.0,
+      "text": "And I know there are many intermediate people here who are saying that they already know all these things, but I am making this course in such a way that all beginners can also follow along."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 505.4,
+      "end": 508.3,
+      "text": "So I will create three files here, one I created here is index.html."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 508.6,
+      "end": 514.6,
+      "text": "The second file I am going to create is style.css and the third file I am going to create is script.js."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 515.3,
+      "end": 522.0,
+      "text": "And the names of these files can be anything, but I just want to keep these files self-explanatory so that by looking at their names, it's clear what they are doing."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 522.3,
+      "end": 528.2,
+      "text": "Index.html is an HTML file, script.js is a JavaScript file, style.css is a style sheet."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 528.5,
+      "end": 529.7,
+      "text": "So I have created these three files here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 530.1,
+      "end": 537.2,
+      "text": "Now I will go into index.html and put an exclamation mark, and as soon as I put an exclamation mark, you see, this code has appeared here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 537.5,
+      "end": 540.3,
+      "text": "I will click on view word wrap so that you can see this code."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 540.6,
+      "end": 544.6,
+      "text": "With word wrap, the horizontal scroll bar disappears, I checked word wrap here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 544.9,
+      "end": 555.3,
+      "text": "Now here you see that this code, we will understand it, but for now, understand that this code is HTML code, it is used to create a website."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 555.7,
+      "end": 558.2,
+      "text": "Now come to the extensions tab of VS Code."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 558.6,
+      "end": 603.2,
+      "text": "Extensions are used to enhance the functionality of VS Code. We use extensions to make VS Code even better."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 603.2,
+      "end": 607.7,
+      "text": "We use extensions to make VS Code even better."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 608.2,
+      "end": 612.7,
+      "text": "VS Code extensions make it easier for us to write code."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 613.2,
+      "end": 615.0,
+      "text": "Okay, so which extension will we use?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 615.4,
+      "end": 620.3,
+      "text": "First, I will put some extensions here that will make our VS Code absolutely killer."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 620.5,
+      "end": 623.9,
+      "text": "If your friends see it, they will say, \"Dude, this is a hacker, a hacker.\""
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 624.2,
+      "end": 627.3,
+      "text": "Okay, so what I will quickly do here is VS Code icons."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 627.7,
+      "end": 634.3,
+      "text": "Okay, there's an extension called VS Code icons, as soon as I install it, you will know."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 634.6,
+      "end": 636.5,
+      "text": "That whatever file it is, like you see here, its icon has appeared."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 636.7,
+      "end": 641.7,
+      "text": "Earlier this icon was not appearing, if you rewind the video and see, you will find all these nice icons here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 642.1,
+      "end": 644.0,
+      "text": "Thanks for installing VS Code icons."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 644.5,
+      "end": 646.2,
+      "text": "Here I will activate it."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 647.2,
+      "end": 650.0,
+      "text": "And here you can see that our icons look nice."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 650.3,
+      "end": 653.7,
+      "text": "In the coming time, if we create a folder, for example, if I create a folder, an icon like this will appear."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 654.0,
+      "end": 655.2,
+      "text": "So these icons look a bit better."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 655.5,
+      "end": 700.0,
+      "text": "We will come back to the extensions tab and here there are many good themes that you can use."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 700.4,
+      "end": 702.7,
+      "text": "There are some themes, Jellyfish theme."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 703.0,
+      "end": 704.8,
+      "text": "One is GitHub theme, there are many themes."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 705.2,
+      "end": 706.7,
+      "text": "You can use these themes."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 707.6,
+      "end": 709.7,
+      "text": "But I can only apply one theme at a time."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 709.9,
+      "end": 714.2,
+      "text": "This is the default VS Code theme that shows you VS Code like this."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 714.6,
+      "end": 719.0,
+      "text": "Now if I change my theme, my VS Code will look in a different way."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 719.4,
+      "end": 722.7,
+      "text": "I will show you which one I prefer when it comes to theme."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 723.3,
+      "end": 726.7,
+      "text": "First, I will show you the GitHub theme here, how it looks."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 727.3,
+      "end": 731.2,
+      "text": "So GitHub theme is a theme officially provided by GitHub."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 731.5,
+      "end": 736.7,
+      "text": "Now here you see GitHub dark, GitHub light, GitHub dimmed, GitHub color blind."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 737.1,
+      "end": 746.4,
+      "text": "I like this one a bit better because the colors in it are, sorry, not this one, I will choose GitHub dark here because the colors here are highlighted separately."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 746.8,
+      "end": 750.2,
+      "text": "Another popular theme is Jellyfish."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 750.7,
+      "end": 753.3,
+      "text": "And here, many people like the Jellyfish theme."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 753.6,
+      "end": 756.6,
+      "text": "If I install this, your VS Code will look something like this, you can see."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 757.0,
+      "end": 758.4,
+      "text": "Jellyfish, it will look like this."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 758.9,
+      "end": 801.2,
+      "text": "After this, there is a material theme which is also quite popular. And if I use the material theme here, material theme."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 801.2,
+      "end": 804.9,
+      "text": "And if I use the material theme here, material theme."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 805.4,
+      "end": 808.0,
+      "text": "And these are material theme icons, we had to install the material theme."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 808.4,
+      "end": 813.3,
+      "text": "If you have also installed material theme icons, then you can change which extension controls your icons."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 813.6,
+      "end": 816.4,
+      "text": "And here we have installed many extensions."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 816.7,
+      "end": 818.7,
+      "text": "I will also tell you how to delete extensions."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 819.2,
+      "end": 821.6,
+      "text": "Here, VS Code material theme icons are showing like this."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 821.9,
+      "end": 824.3,
+      "text": "And if you want, you can use VS Code icons."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 824.6,
+      "end": 828.0,
+      "text": "If I want the material themes icon to be removed."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 828.4,
+      "end": 830.7,
+      "text": "So I will simply remove it like this here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 831.4,
+      "end": 835.6,
+      "text": "And here all my extensions are visible, like the material theme icon."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 836.4,
+      "end": 841.7,
+      "text": "And suppose I want to use these, I will select it, and if I want, I can also uninstall it."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 842.2,
+      "end": 846.2,
+      "text": "And sometimes when we uninstall anything, reload is required, so I will have to click on reload required."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 846.6,
+      "end": 849.4,
+      "text": "And when I click on reload required, my VS Code will reload."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 850.0,
+      "end": 852.0,
+      "text": "So you can customize your VS Code according to your preference."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 852.4,
+      "end": 858.8,
+      "text": "Here, for my VS Code icons, I will select VS Code icons so that my icons look like this, I like this a bit."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 859.2,
+      "end": 900.6,
+      "text": "I also quite like the Jellyfish theme. After this, there is another extension called Prettier, I will not install it right now."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 900.6,
+      "end": 904.7,
+      "text": "After this, there is another extension called Prettier, I will not install it right now."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 905.3,
+      "end": 907.0,
+      "text": "But I just want to tell you all."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 907.4,
+      "end": 910.4,
+      "text": "There's another extension, ES7, you'll know about it when we do React."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 910.7,
+      "end": 913.5,
+      "text": "And yes, we will do React in this course for all those asking."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 914.0,
+      "end": 916.2,
+      "text": "Sorry for the spoilers, but we are going to do React in this course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 916.6,
+      "end": 922.2,
+      "text": "So here is ES7 + React, Redux, React Native snippets, this is an extension that gives you React snippets."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 922.4,
+      "end": 924.2,
+      "text": "We will use this when we do React."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 924.5,
+      "end": 926.0,
+      "text": "For now, we will not install this."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 926.6,
+      "end": 931.4,
+      "text": "But now, the most important extension we have is called Live Preview."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 931.7,
+      "end": 933.7,
+      "text": "We will install this extension called Live Preview."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 934.0,
+      "end": 935.2,
+      "text": "Because this is a very useful extension."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 935.5,
+      "end": 941.4,
+      "text": "All the extensions I told you about mostly help you change the look and feel of VS Code."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 941.7,
+      "end": 946.2,
+      "text": "But the extension I am telling you about today, Live Preview, will actually be useful to you."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 946.6,
+      "end": 948.4,
+      "text": "Let's come to our HTML CSS JavaScript files."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 948.8,
+      "end": 951.2,
+      "text": "So here are our HTML CSS and JavaScript files."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 951.6,
+      "end": 952.6,
+      "text": "This is the HTML file."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 953.0,
+      "end": 958.3,
+      "text": "This is some code that tells the website how to look."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 958.7,
+      "end": 1001.2,
+      "text": "Okay, so here I am saying that \"document\" should appear in the title. I will write here Harry Bhai's first website."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1001.2,
+      "end": 1004.7,
+      "text": "I will write here Harry Bhai's first website."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1005.8,
+      "end": 1009.6,
+      "text": "Harry Bhai's course's first website, of the course's first website."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1009.9,
+      "end": 1011.2,
+      "text": "Harry Bhai's first website would be a lie."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1011.4,
+      "end": 1013.3,
+      "text": "Your first website, you all write your name in it."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1013.6,
+      "end": 1015.3,
+      "text": "Okay, whatever your name is, your first website."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1015.7,
+      "end": 1019.9,
+      "text": "And if I write inside the body here, hey this is my first website."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1020.3,
+      "end": 1024.5,
+      "text": "And everyone write congratulations in the comments below, all those whose first website this is, write congratulations."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1024.8,
+      "end": 1026.8,
+      "text": "Congratulations for my first website, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1027.2,
+      "end": 1029.9,
+      "text": "And congratulate each other, create a complete atmosphere in the comment section."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1030.4,
+      "end": 1032.6,
+      "text": "I will also come, I will also come to the comment section, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1033.0,
+      "end": 1035.5,
+      "text": "And I give my heart to all of you, wrote hey this is my first website."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1035.8,
+      "end": 1039.2,
+      "text": "Now how do I see this, the biggest question people have."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1039.7,
+      "end": 1044.5,
+      "text": "So look, there are two ways to see it, the extension we installed, Live Server, Live Preview, sorry."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1044.5,
+      "end": 1050.5,
+      "text": "Earlier Live Server was also very popular, but Microsoft released Live Preview, so this is the latest extension. I will recommend this."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1050.9,
+      "end": 1052.0,
+      "text": "Live Server also works."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1052.2,
+      "end": 1054.9,
+      "text": "But I am not going to run Live Server right now, I am going to use Live Preview."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1055.4,
+      "end": 1057.6,
+      "text": "After installing Live Preview, you see this icon here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1057.9,
+      "end": 1101.2,
+      "text": "You see it above, if you click it, your website will look something like this. Now you say that I want to see this website here in the browser because my website will be visible in the browser, right?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1101.2,
+      "end": 1107.3,
+      "text": "Now you say that I want to see this website here in the browser because my website will be visible in the browser, right?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1107.6,
+      "end": 1112.5,
+      "text": "So if you want to see this in the browser, click here, open in browser, it will open in the browser."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1113.0,
+      "end": 1115.2,
+      "text": "And should I tell you something fun, listen to the fun thing too."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1115.6,
+      "end": 1116.5,
+      "text": "You can close it from here now."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1116.8,
+      "end": 1122.0,
+      "text": "And here you can write, Harry Bhai's course is good, suppose you wrote it, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1122.4,
+      "end": 1123.5,
+      "text": "I am praising my course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1124.0,
+      "end": 1126.3,
+      "text": "But yeah, it is what it is, Harry Bhai's course is good."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1126.7,
+      "end": 1129.7,
+      "text": "Okay, I wrote it here and you noticed one thing here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1130.1,
+      "end": 1139.3,
+      "text": "I didn't even reload this website, but even after that, it updated the content here that I had written in this VS Code."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1139.6,
+      "end": 1144.2,
+      "text": "Meaning, whatever I write here, it will be updated here without reloading."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1144.9,
+      "end": 1145.8,
+      "text": "Will it happen or not?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1146.5,
+      "end": 1148.8,
+      "text": "Clap, there should be applause for us, man."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1149.5,
+      "end": 1150.4,
+      "text": "Okay, it will happen."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1151.2,
+      "end": 1155.9,
+      "text": "And here, hey this is my first website, Harry Bhai's course is good."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1156.5,
+      "end": 1159.5,
+      "text": "Now if I write here Sigma Harry Bhai's course is good."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1200.0,
+      "end": 1203.4,
+      "text": "Sigma Harry Bhai's course is good, Sigma Harry Bhai's course is good."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1203.8,
+      "end": 1208.8,
+      "text": "Okay, so here you all saw how this extension will help us."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1209.2,
+      "end": 1212.4,
+      "text": "Even if you reload it, it won't make any difference because it's live reloading."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1213.0,
+      "end": 1216.3,
+      "text": "So there are two things, sometimes we want our page."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1216.5,
+      "end": 1218.0,
+      "text": "That it gets previewed right here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1218.3,
+      "end": 1220.5,
+      "text": "I'll close this so you can see the white code."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1221.2,
+      "end": 1223.7,
+      "text": "Sometimes we want to see our code right here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1224.2,
+      "end": 1226.4,
+      "text": "Because we want to see its live preview."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1226.7,
+      "end": 1232.2,
+      "text": "So suppose I am writing anything, Harry Bhai's course is good and this is Sigma course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1232.5,
+      "end": 1235.0,
+      "text": "And suppose I write something else here, I can write many things here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1235.5,
+      "end": 1236.6,
+      "text": "So I will write here, I will keep looking here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1236.8,
+      "end": 1238.6,
+      "text": "And I can also make it smaller or bigger like this."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1239.0,
+      "end": 1241.0,
+      "text": "So I will see a live update here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1241.5,
+      "end": 1245.7,
+      "text": "If you have ever seen any of my old videos, I have used this extension, Live Server."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1246.5,
+      "end": 1249.8,
+      "text": "Either this extension wasn't available then or I didn't know about it, it is what it is, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1250.3,
+      "end": 1252.3,
+      "text": "Now when something new comes, it takes time to find out."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1252.6,
+      "end": 1254.3,
+      "text": "But this is something that you should use."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1254.7,
+      "end": 1258.9,
+      "text": "Because I use this in my daily life, I do web development, man, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1259.3,
+      "end": 1302.0,
+      "text": "Many people used to ask if I also do web development or just teach it. Oh man, I do it too, I make websites, I don't just make videos, I also work by making websites."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1302.0,
+      "end": 1307.6,
+      "text": "Oh man, I do it too, I make websites, I don't just make videos, I also work by making websites."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1308.0,
+      "end": 1310.5,
+      "text": "And yes, I also earn a lot of money by making websites."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1311.0,
+      "end": 1313.4,
+      "text": "Now all this code that I am writing, you will all find it on GitHub."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1313.7,
+      "end": 1322.7,
+      "text": "So whenever you go to the description of any video, of any video in this course, you will get the code for that corresponding video, you don't have to worry about that."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1323.2,
+      "end": 1326.2,
+      "text": "Now I will close this because my preview is visible here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1326.6,
+      "end": 1333.6,
+      "text": "Now understand HTML CSS JavaScript that we talked about, about which we talked so much in the previous video, now I will tell you how to link all three."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1334.0,
+      "end": 1344.6,
+      "text": "Now you will say, \"Okay, you created index.html, that's great, the title is also visible here, look, Harry Bhai's course's first website,\" suppose I change its name to Sigma Web Development Course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1344.6,
+      "end": 1354.9,
+      "text": "So this will change, Sigma, Sigma Web Development Course, here Sigma Web Development Course is written and you can see here that it has been updated."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1355.7,
+      "end": 1358.0,
+      "text": "So this will keep updating, it will be a live update."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1358.9,
+      "end": 1401.5,
+      "text": "Now I want my background to turn red, okay. Such tasks are done with CSS. So I can write here body and background color red, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1401.5,
+      "end": 1403.2,
+      "text": "Such tasks are done with CSS."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1403.6,
+      "end": 1408.6,
+      "text": "So I can write here body and background color red, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1408.9,
+      "end": 1410.3,
+      "text": "This is the syntax of CSS."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1410.6,
+      "end": 1413.8,
+      "text": "I will teach CSS and I will teach it in such a way that you won't be able to forget it even if you want to."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1414.4,
+      "end": 1418.7,
+      "text": "Don't worry about what's written here, for now, understand that this is CSS which makes the body's color red, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1419.4,
+      "end": 1422.7,
+      "text": "And here you see, will the body's color be red or not?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1422.7,
+      "end": 1423.5,
+      "text": "Tell me in the comment section."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1423.8,
+      "end": 1425.2,
+      "text": "Now let me tell beginners that it won't be red, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1425.6,
+      "end": 1429.3,
+      "text": "Why won't it be? Beginners will think it will turn red, but it won't, the world isn't that good."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1429.7,
+      "end": 1433.2,
+      "text": "This HTML file is currently running, it doesn't know about this CSS file."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1433.5,
+      "end": 1435.6,
+      "text": "Now what's happening in my house, what does my neighbor know, man."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1436.1,
+      "end": 1440.6,
+      "text": "Now suppose I made lentils here and I expect, suppose my neighbor made rice."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1441.0,
+      "end": 1443.0,
+      "text": "And suppose I expect that we eat it together."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1443.4,
+      "end": 1446.5,
+      "text": "It doesn't happen, right? Yes, sometimes we can eat, but you understand what I'm saying, right?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1447.0,
+      "end": 1454.4,
+      "text": "So we will have to link, you will have to link, you will have to go and tell the neighbor that we will eat together, I am making lentils, you make rice."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1454.6,
+      "end": 1455.5,
+      "text": "There will be a handshake here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1456.0,
+      "end": 1456.8,
+      "text": "So how will that handshake happen?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1457.3,
+      "end": 1459.9,
+      "text": "In HTML, you will tell where your CSS file is."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1500.3,
+      "end": 1501.3,
+      "text": "So there is a link tag होता है."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1501.7,
+      "end": 1504.6,
+      "text": "And you will also know the reason for not using Notepad here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1505.0,
+      "end": 1508.8,
+      "text": "As soon as I write link here, look here, link colon CSS, as soon as I select it."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1509.7,
+      "end": 1514.6,
+      "text": "So here, look, it did half my work, it also wrote rel is equal to stylesheet, I would have to type this manually in Notepad."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1514.8,
+      "end": 1516.0,
+      "text": "This is the syntax of HTML."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1516.4,
+      "end": 1520.0,
+      "text": "I would have to write this, but here it has automatically appeared, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1520.4,
+      "end": 1525.0,
+      "text": "Now style.css, it's my luck that its name is also style.css and here also style.css is given."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1525.4,
+      "end": 1528.0,
+      "text": "If its name was Harry.css, I would write Harry.css here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1528.4,
+      "end": 1531.3,
+      "text": "And guess what, now my background is red here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1531.6,
+      "end": 1535.0,
+      "text": "Now if I want the color of my text to be white, then I can make the text color white here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1535.5,
+      "end": 1537.3,
+      "text": "I can write color white here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1537.7,
+      "end": 1538.6,
+      "text": "Now nothing will work here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1538.9,
+      "end": 1541.3,
+      "text": "I wrote color white, so look, it turned white."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1541.7,
+      "end": 1545.3,
+      "text": "Only valid CSS syntax will work and we will talk about this further in this course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1545.7,
+      "end": 1548.2,
+      "text": "So this worked, our CSS."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1548.6,
+      "end": 1549.6,
+      "text": "Now how will this JavaScript run?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1550.3,
+      "end": 1557.6,
+      "text": "If I write alert here and I write welcome to Sigma Web Development Course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1558.4,
+      "end": 1601.0,
+      "text": "Suppose I wrote here welcome to Sigma Web Development Course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1601.6,
+      "end": 1603.0,
+      "text": "So what will happen, will an alert appear here?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1603.3,
+      "end": 1604.2,
+      "text": "Hey, why didn't the alert appear?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1604.6,
+      "end": 1607.4,
+      "text": "Let me tell you that this syntax is absolutely correct."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1607.6,
+      "end": 1608.5,
+      "text": "There is no problem in the syntax."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1608.7,
+      "end": 1610.0,
+      "text": "And I will teach JavaScript very well too."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1610.5,
+      "end": 1611.8,
+      "text": "So don't worry about what's written here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1612.3,
+      "end": 1617.9,
+      "text": "Understand that this is JavaScript code that will flash \"welcome to Sigma Web Development Course\" very simply on the screen."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1618.5,
+      "end": 1619.6,
+      "text": "Why didn't it flash?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1620.3,
+      "end": 1621.5,
+      "text": "Has my computer broken down?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1622.3,
+      "end": 1623.7,
+      "text": "No, brother, my computer is perfectly fine."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1624.3,
+      "end": 1626.3,
+      "text": "I want to tell you that I will have to include the script."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1626.7,
+      "end": 1628.7,
+      "text": "And scripts are included just before the body."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1629.6,
+      "end": 1630.0,
+      "text": "Okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1630.6,
+      "end": 1634.7,
+      "text": "Now as soon as I include the script here, in SRC I will write script.js."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1635.2,
+      "end": 1635.9,
+      "text": "How did I write this?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1636.2,
+      "end": 1637.0,
+      "text": "First I wrote script here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1637.6,
+      "end": 1637.9,
+      "text": "Okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1638.6,
+      "end": 1639.9,
+      "text": "What did I write first here, script."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1641.1,
+      "end": 1642.4,
+      "text": "Emmet abbreviation, what is Emmet?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1643.1,
+      "end": 1648.5,
+      "text": "Emmet is a plugin that is built-in in VS Code, as you select, it will auto-complete."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1648.8,
+      "end": 1654.7,
+      "text": "Now if I am writing script here and selecting the colon SRC one, it means I want to give a source file."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1655.0,
+      "end": 1656.4,
+      "text": "You can also type it manually if you want."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1657.0,
+      "end": 1702.2,
+      "text": "But the suggestions you get here make your coding powers even faster. They make you an amazing developer."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1702.2,
+      "end": 1704.6,
+      "text": "They make you an amazing developer."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1705.1,
+      "end": 1707.0,
+      "text": "And they increase your powers."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1707.4,
+      "end": 1709.2,
+      "text": "So that you don't get into trouble."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1709.5,
+      "end": 1712.5,
+      "text": "And as soon as possible, your soul as a developer can be satisfied."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1713.2,
+      "end": 1717.0,
+      "text": "SRC is equal to script.js, you can see here I have included this."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1717.7,
+      "end": 1721.5,
+      "text": "Now I will come here and you see, here comes welcome to Sigma Web Development Course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1721.8,
+      "end": 1723.7,
+      "text": "Everyone write in the comments, my soul is satisfied."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1724.4,
+      "end": 1726.9,
+      "text": "Write it, because I know your soul is satisfied after seeing this box."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1727.3,
+      "end": 1728.5,
+      "text": "This JavaScript also ran."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1728.8,
+      "end": 1729.7,
+      "text": "CSS was already running."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1730.0,
+      "end": 1731.7,
+      "text": "JavaScript also ran, now your soul is satisfied."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1732.0,
+      "end": 1733.2,
+      "text": "I will reload it, it will come again."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1733.4,
+      "end": 1734.0,
+      "text": "I will click OK, it will close."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1734.4,
+      "end": 1738.3,
+      "text": "So as I visit this website, I will see an alert here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1738.5,
+      "end": 1739.6,
+      "text": "This is called an alert in JavaScript."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1739.9,
+      "end": 1741.2,
+      "text": "I will tell you later what happens in JavaScript."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1741.6,
+      "end": 1743.2,
+      "text": "Don't say you didn't tell about alert."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1743.7,
+      "end": 1746.7,
+      "text": "I don't want to start weirdly, I will finish HTML, then CSS, then JavaScript."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1747.2,
+      "end": 1748.4,
+      "text": "So don't worry at all."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1748.9,
+      "end": 1754.0,
+      "text": "And along with this, whatever best practices I am telling you, keep them in mind."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1754.3,
+      "end": 1759.9,
+      "text": "Because what I am telling you comes from my experience, from a lot of experience, and it will definitely help you."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1800.2,
+      "end": 1802.5,
+      "text": "As I said Live Server, you can use it if you want."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1802.9,
+      "end": 1803.7,
+      "text": "Nothing wrong in that."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1804.1,
+      "end": 1805.7,
+      "text": "Use Live Preview, it's from Microsoft."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1806.0,
+      "end": 1806.5,
+      "text": "Okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1806.5,
+      "end": 1806.9,
+      "text": "Awesome."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1807.2,
+      "end": 1809.4,
+      "text": "Now I want all of you to write Sigma Batch OP in the comments."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1809.7,
+      "end": 1814.0,
+      "text": "Everyone, if you are enjoying the course, then put Sigma Batch OP in the comments, it will be absolutely fun to see."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1814.3,
+      "end": 1819.8,
+      "text": "Yeah man, this is a batch, so what if it's a free course, it's a batch, so write Sigma Course OP with a hashtag, it will be fun."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1820.3,
+      "end": 1824.3,
+      "text": "Now many people commented in the previous video on how to do this mouse wheel thing."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1824.6,
+      "end": 1827.5,
+      "text": "So you simply have to go to settings, write mouse wheel here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1828.0,
+      "end": 1830.7,
+      "text": "And here you have to check the editor mouse wheel zoom."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1830.7,
+      "end": 1837.7,
+      "text": "Then you press control and with the mouse wheel, I have pressed control here, as soon as I do this with the mouse wheel, I will be able to zoom in."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1838.4,
+      "end": 1842.6,
+      "text": "And if I right-click here and do command palette, then I can also toggle screencast mode here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1842.8,
+      "end": 1845.2,
+      "text": "Then whatever I write here, you will get to see it."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1845.5,
+      "end": 1849.8,
+      "text": "I didn't toggle screencast mode in this video because you already know what I'm typing, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1850.2,
+      "end": 1855.5,
+      "text": "So I can also toggle screencast mode like this, meaning I can turn it on so that you can see all the things I'm doing below."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1855.9,
+      "end": 1903.3,
+      "text": "In the previous video, we talked about how websites work, and you understood what we talked about very well. Now I will take the example of iPhone 15 Pro Max and show you by placing an order how client-server interaction happens whenever a user orders an iPhone, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1903.3,
+      "end": 1914.6,
+      "text": "Now I will take the example of iPhone 15 Pro Max and show you by placing an order how client-server interaction happens whenever a user orders an iPhone, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1915.0,
+      "end": 1917.0,
+      "text": "So you will find it interesting, I will show you here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1917.7,
+      "end": 1922.0,
+      "text": "So guys, to explain how a website works, I have come to apple.com."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1922.4,
+      "end": 1927.6,
+      "text": "Now look, apple.com is a website, okay, data must have come from their server till here, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1927.8,
+      "end": 1929.2,
+      "text": "Whatever these HTML files are."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1929.5,
+      "end": 1931.5,
+      "text": "I will quickly click on pre-order here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1932.3,
+      "end": 1938.0,
+      "text": "And after this, I will simply, when I am recording, this hasn't even arrived by the way, they are saying that it will arrive on September 22nd."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1938.4,
+      "end": 1939.6,
+      "text": "I will select 15 Pro Max."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1940.1,
+      "end": 1943.0,
+      "text": "Color, let's just take anything, let's take black titanium, what's the harm."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1943.5,
+      "end": 1944.5,
+      "text": "Let's take 256 GB."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1944.8,
+      "end": 1945.7,
+      "text": "Let's take no trade-in."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1945.9,
+      "end": 1947.0,
+      "text": "No Apple coverage."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1947.5,
+      "end": 1952.4,
+      "text": "After this, you see here what they did, communication with their server is ongoing, ongoing, ongoing."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1952.7,
+      "end": 1955.4,
+      "text": "So the bottom line is, the HTML CSS JavaScript is."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 1955.9,
+      "end": 2000.0,
+      "text": "You can see, I viewed its page source here, so it is visible to me like this here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2000.5,
+      "end": 2003.2,
+      "text": "And here is our original website, meaning the one we were working on."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2003.6,
+      "end": 2006.6,
+      "text": "Now I will quickly checkout here, continue as guest."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2007.1,
+      "end": 2014.0,
+      "text": "I'll show you something fun, as soon as I click on inspect and then on network, you see two-way communication is happening with Apple's servers."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2014.5,
+      "end": 2024.6,
+      "text": "Which means that here, as I keep performing actions, JavaScript is communicating with the server and the server is taking appropriate actions and sending me data."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2025.2,
+      "end": 2028.2,
+      "text": "I will say here I would like to be delivered, continue to shipping address."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2028.5,
+      "end": 2029.4,
+      "text": "I will put in name etc."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2029.8,
+      "end": 2031.3,
+      "text": "It will deliver on 19th October."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2031.6,
+      "end": 2034.3,
+      "text": "Shipping, when it arrives, I will tell you, I will keep you updated, okay."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2034.7,
+      "end": 2039.2,
+      "text": "Yes, everything is fine, I have read the terms and conditions, I completely agree, place your order."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2039.7,
+      "end": 2041.3,
+      "text": "Oh, I agreed, place your order."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2041.7,
+      "end": 2045.2,
+      "text": "Like the video because I even order iPhones to explain web development to you all."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2045.7,
+      "end": 2048.6,
+      "text": "Here we have the OTP, I will confirm the OTP."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2049.2,
+      "end": 2051.5,
+      "text": "And my purchase is done here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2052.2,
+      "end": 2102.6,
+      "text": "In total, what happened was that I made a request to the apple.com server, I said, \"Dude, give me an iPhone 15 Pro Max,\" apple.com said, \"Take it, brother.\""
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2102.9,
+      "end": 2108.9,
+      "text": "So this kind of communication between the server and the client happens through JavaScript, without loading the page."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2109.2,
+      "end": 2117.8,
+      "text": "As you saw, I selected iPhone here, then I clicked on different things, so all those things, how they happen, they happen with the help of JavaScript."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2118.1,
+      "end": 2120.0,
+      "text": "The styling, how does it happen, with the help of CSS."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2120.5,
+      "end": 2122.4,
+      "text": "And all that is written is HTML."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2122.9,
+      "end": 2124.6,
+      "text": "I hope you remember this example."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2125.0,
+      "end": 2126.3,
+      "text": "And when the phone arrives, I will definitely show you."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2126.7,
+      "end": 2129.3,
+      "text": "Otherwise, many people will say, \"Oh, this is fake, this is fake, this is fake.\""
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2129.6,
+      "end": 2132.2,
+      "text": "Oh, I will show you, when this phone arrives, I will unbox it right in front of you."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2132.6,
+      "end": 2135.9,
+      "text": "So this is how your websites work, how a client communicates with a server."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2136.2,
+      "end": 2138.3,
+      "text": "I hope you understood with this example."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2138.6,
+      "end": 2142.2,
+      "text": "Now tell me in the comment section, if I want to giveaway this iPhone."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2142.2,
+      "end": 2150.3,
+      "text": "So what would be the best thing so that you all also know that I did a genuine giveaway and I can also do a giveaway, tell me in the comment section, I don't know much about all this."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2150.6,
+      "end": 2152.0,
+      "text": "So if you have knowledge about this, tell me."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2152.5,
+      "end": 2155.7,
+      "text": "Now I want to tell you where you will find notes and cheat sheets."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2156.0,
+      "end": 2203.3,
+      "text": "If you go to codewithharry.com/notes, you will find notes and you can download notes here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2203.6,
+      "end": 2206.0,
+      "text": "Along with that, below you will find cheat sheets."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2206.4,
+      "end": 2212.6,
+      "text": "For example, if I want to access the HTML cheat sheet, then I can access the cheat sheet here, all the elements are here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2213.0,
+      "end": 2216.5,
+      "text": "But for now, stay in this course, I will tell you about all the elements."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2217.2,
+      "end": 2222.7,
+      "text": "Along with that, if you want to download my handwritten HTML notes, then you can download PDF notes from here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2223.2,
+      "end": 2225.8,
+      "text": "I have written these by hand, you will enjoy reading them."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2226.3,
+      "end": 2230.8,
+      "text": "In this course, I will tell you everything, but if you download these notes, you will enjoy it even more."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2231.1,
+      "end": 2234.9,
+      "text": "I will make your learning experience so smooth that you will also say, \"It was amazing, boss.\""
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2235.5,
+      "end": 2241.2,
+      "text": "Now I want all of you to do one thing, put an initial review of this course in this first video."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2241.5,
+      "end": 2247.3,
+      "text": "I want all of you to go to this video and in this video, go to the comment section and post an initial review."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2247.7,
+      "end": 2254.7,
+      "text": "I want you all to write in the comment section below this first video how you liked this course and give me stars out of five."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2255.0,
+      "end": 2257.7,
+      "text": "Give it a star rating and tell me, we are talking about the initial review."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2258.0,
+      "end": 2259.7,
+      "text": "I know the course hasn't progressed much yet."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2300.0,
+      "end": 2304.0,
+      "text": "But looking at the quality and all these things, you have to comment below in the first video."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2304.4,
+      "end": 2306.4,
+      "text": "So if you all do this, I will genuinely feel good."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2306.7,
+      "end": 2308.4,
+      "text": "Go to the first video and rate this course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2308.8,
+      "end": 2313.2,
+      "text": "Now we will talk about how you can earn money after doing this course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2313.6,
+      "end": 2316.6,
+      "text": "So the first way to earn money from web development is very simple, you freelance."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2317.2,
+      "end": 2318.5,
+      "text": "Freelance as a web developer."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2318.8,
+      "end": 2319.8,
+      "text": "You all make websites."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2320.2,
+      "end": 2324.8,
+      "text": "There are many websites that you can create and by creating them, you will earn a lot of money."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2325.2,
+      "end": 2330.9,
+      "text": "Many people get APIs integrated and by integrating APIs, many people earn a lot of money."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2331.4,
+      "end": 2336.7,
+      "text": "Many people say that ChatGPT has arrived, now that ChatGPT has arrived, nothing will be possible, ChatGPT does everything, but this is not true."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2337.1,
+      "end": 2340.3,
+      "text": "ChatGPT makes building websites even easier for you, in my opinion."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2340.6,
+      "end": 2345.0,
+      "text": "And when you use ChatGPT, you become a giga chat developer."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2349.3,
+      "end": 2353.2,
+      "text": "So use ChatGPT as much as possible and you can save your time."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2353.5,
+      "end": 2358.2,
+      "text": "In fact, to tell you the truth, ever since ChatGPT came, I have been able to deliver more to my freelancing clients."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2358.7,
+      "end": 2407.4,
+      "text": "As many websites as I had to build from scratch, I get more than half the work done by ChatGPT, and the work that ChatGPT cannot do, I do, finally package and deliver it."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2407.7,
+      "end": 2411.9,
+      "text": "And I don't have to answer anyone whether I used ChatGPT or did it without ChatGPT."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2412.4,
+      "end": 2415.7,
+      "text": "You can deliver everything very easily, use ChatGPT."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2416.5,
+      "end": 2423.3,
+      "text": "ChatGPT cannot do everything, you have to use ChatGPT and then create websites and deliver them to freelance clients."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2423.7,
+      "end": 2425.0,
+      "text": "Where will you find freelancing clients?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2425.4,
+      "end": 2427.3,
+      "text": "You can go to a website like Fiverr."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2427.6,
+      "end": 2429.8,
+      "text": "Yes, I know it's a bit difficult to get work on Fiverr."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2430.3,
+      "end": 2434.4,
+      "text": "But you can go to buyer requests here, Fiverr has a buyer request option, do some research."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2434.9,
+      "end": 2437.6,
+      "text": "Now if you go here, you can match with buyers here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2438.2,
+      "end": 2440.9,
+      "text": "If I show you images, then buyer requests appear like this here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2441.3,
+      "end": 2445.7,
+      "text": "You can give your pitch to these people, saying, \"Hey, I have done these things and I am suitable for this work.\""
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2445.9,
+      "end": 2447.3,
+      "text": "So you will start getting work from here."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2447.7,
+      "end": 2452.1,
+      "text": "As your gig gets good reviews, you will earn more money."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2452.5,
+      "end": 2458.3,
+      "text": "For example, suppose you have a Fiverr gig, and no one has ever ordered from it, then you will never easily get work."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2458.8,
+      "end": 2505.2,
+      "text": "But if, say, five or six people ordered on one of your gigs and everyone gave you five stars, then things become easier for you from there."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2505.6,
+      "end": 2511.7,
+      "text": "Because buyers, they want that the people they are getting work done from should have good credibility because they also need work, right?"
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2512.0,
+      "end": 2515.8,
+      "text": "And they are also paying money, so they also want that since they are paying money, their money should not be wasted."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2516.2,
+      "end": 2520.4,
+      "text": "So here are Fiverr, Upwork, and many other freelancing websites where you can try."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2520.7,
+      "end": 2523.3,
+      "text": "But even before trying, you should know how to build good websites."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2523.7,
+      "end": 2531.0,
+      "text": "And today, you will get tasks like responsive, using cutting-edge technologies, suppose you want to integrate ChatGPT API."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2531.4,
+      "end": 2535.8,
+      "text": "No one will tell you to create a design for them, or a simple navbar."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2536.2,
+      "end": 2539.3,
+      "text": "I'm saying most clients don't get these tasks done, nowadays ChatGPT does all this."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2539.7,
+      "end": 2543.4,
+      "text": "You can earn more money by building complex websites."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2544.0,
+      "end": 2546.0,
+      "text": "Then the second thing is, get a job as a web developer."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2546.4,
+      "end": 2550.9,
+      "text": "If you get a job as a web developer, which you will if you become a good web developer."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2551.1,
+      "end": 2551.8,
+      "text": "Then you will get a job."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2552.0,
+      "end": 2552.9,
+      "text": "And it's not like jobs have decreased."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2553.2,
+      "end": 2600.5,
+      "text": "In fact, the demand for senior developers is increasing and their packages are also increasing, and people are earning more money in coding than they used to."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2600.8,
+      "end": 2604.2,
+      "text": "If you are a very basic developer, then yes, ChatGPT will replace you."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2604.6,
+      "end": 2606.3,
+      "text": "After this, you can sell your services."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2606.6,
+      "end": 2608.2,
+      "text": "By creating an Instagram account."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2608.6,
+      "end": 2618.4,
+      "text": "In an Instagram account, if you upload any kind of images and you get a little bit of attraction where you talk about websites and all these things, then clients start approaching you."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2618.7,
+      "end": 2621.7,
+      "text": "Many clients approach me and tell me, \"Dude, I want a website built.\""
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2622.0,
+      "end": 2626.2,
+      "text": "I'm not saying you need a lot of followers, you can start with a very small following too."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2626.7,
+      "end": 2632.2,
+      "text": "After this, you can give one-to-one help to people, you will also find clients for this on Instagram or other social media."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2632.6,
+      "end": 2642.4,
+      "text": "You can say at the end of your reel that if you want to learn anything, come to my DMs, I will tell you, and you can easily find clients here, trust me if you know the work."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2642.8,
+      "end": 2643.9,
+      "text": "After this, you can sell courses."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2644.4,
+      "end": 2648.7,
+      "text": "Which I was probably going to sell this course, I have uploaded it for free now."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2648.9,
+      "end": 2656.6,
+      "text": "But this course was going to be paid for you all, that's the truth, and if you had gotten this course paid, everyone would have definitely paid for this course."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2657.0,
+      "end": 2709.9,
+      "text": "Now it's not necessary that you have to create a web development course, there are many things within web development, like how to use ChatGPT API, make a course on that, make a ChatGPT course, if you know how to build websites, then selling courses will be easy for you."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2710.4,
+      "end": 2711.4,
+      "text": "The course economy is very huge."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2711.7,
+      "end": 2717.3,
+      "text": "Many people contacted me to buy this course, asking me to launch this course as a paid course on their platform."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2717.6,
+      "end": 2722.7,
+      "text": "But I didn't do it because I wanted to give this course for free, I had decided, I had also posted it."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2723.1,
+      "end": 2727.4,
+      "text": "Until the last moment, people contacted me saying, \"Dude, please don't put the course for free,\" but I put it."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2727.8,
+      "end": 2729.9,
+      "text": "So you will have to write Sigma Batch OP in the comment section now."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2730.5,
+      "end": 2731.4,
+      "text": "And you will have to like it too."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2732.2,
+      "end": 2741.6,
+      "text": "Now, overall, many course sellers have suffered losses due to this course being uploaded for free, because when iPhone 15, 16, 19 Pro Max is available for free, then who will ask for BlackBerry, that too a paid BlackBerry."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2741.9,
+      "end": 2746.9,
+      "text": "And I am saying this because of how much effort I have put into it and how much of my experience I have put into it."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2747.3,
+      "end": 2749.4,
+      "text": "Only I know that, you will also know in the upcoming videos."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2749.7,
+      "end": 2754.4,
+      "text": "So stay tuned, you are going to get a lot of things in this course in the upcoming videos."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2755.0,
+      "end": 2757.5,
+      "text": "I am aware of the fact that we are taking a very slow start."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2757.7,
+      "end": 2759.7,
+      "text": "But remember my words, we'll raise the bar like anything."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2800.3,
+      "end": 2803.6,
+      "text": "So access the playlist, like the video, transfer your village land to my name."
+    },
+    {
+      "tutorial_number": 2,
+      "video_title": "Your First HTML Website",
+      "start": 2803.9,
+      "end": 2807.9,
+      "text": "Thank you so much guys for watching this video and I will see you next time."
+    }
+  ]
+}

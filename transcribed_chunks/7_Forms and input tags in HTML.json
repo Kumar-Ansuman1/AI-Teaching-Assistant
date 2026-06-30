@@ -1,0 +1,1264 @@
+{
+  "segments": [
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 0.0,
+      "end": 4.6,
+      "text": "In this video, we will learn what forms are and what an input tag is inside a form."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 4.6,
+      "end": 11.1,
+      "text": "Using a form is a very important element of some websites because it is through forms that you submit data from client to server."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 11.1,
+      "end": 15.9,
+      "text": "These are the forms that you see on contact pages, Google Forms, or inquiry forms."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 15.9,
+      "end": 22.8,
+      "text": "The date and time, where to go from and to, all these details that we enter on a flight or railway ticket are also submitted through HTML forms."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 22.8,
+      "end": 30.9,
+      "text": "In the last video, very few people liked it, I request you all to definitely like this video with high energy so that we can maintain high energy throughout the course."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 30.9,
+      "end": 35.9,
+      "text": "So let's go to the computer screen, we will look at forms, input tags, and some best practices."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 35.9,
+      "end": 37.2,
+      "text": "Let's roll the intro."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 46.6,
+      "end": 58.4,
+      "text": "So guys, I've come to my computer screen and now see, I'm quickly going to create a folder here, which I'm going to name Video Six because this is the sixth video, I'll right-click, open with code, I've already told you all this."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 58.4,
+      "end": 68.7,
+      "text": "And here I'm quickly going to create index.html and inside it, by putting an exclamation mark, what I'll do is, I'll view word wrap, turn on screen cast mode, and you'll see here I'll write forms."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 68.7,
+      "end": 72.3,
+      "text": "Let's learn it, okay."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 72.3,
+      "end": 79.9,
+      "text": "So I have set the title here for this forms page, and by setting the title, the title will actually be visible on our page."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 80.0,
+      "end": 88.9,
+      "text": "Here I want to tell you about a very important setting, the show preview one. Many of you had also pointed out in the comments that you have to click so many times, so can we do something about it?"
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 88.9,
+      "end": 95.9,
+      "text": "Yes, you can. Click on the gear here, then click on settings below, and after clicking on settings, simply do this."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 95.9,
+      "end": 99.5,
+      "text": "Here, write live preview, live preview."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 99.5,
+      "end": 105.7,
+      "text": "And we can actually set it such that whenever we click, it opens in an external browser, okay."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 105.7,
+      "end": 110.4,
+      "text": "So now look, I'll close everything, as soon as I click here, it will open in an external browser."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 110.4,
+      "end": 118.9,
+      "text": "And I'll go to my browser, and definitely access the Sigma Web Development course playlist by clicking on the star and bookmarking it here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 118.9,
+      "end": 122.4,
+      "text": "But right now I want to tell you that as soon as we click here, look, it opened."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 122.4,
+      "end": 124.4,
+      "text": "So if you want that, do it."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 124.4,
+      "end": 132.0,
+      "text": "But sometimes what happens is that you might prefer a side-by-side view, and you'd want to do that when you're actually working on a design using HTML CSS."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 132.0,
+      "end": 137.0,
+      "text": "So whenever you're working on a design, you'll definitely want to see its live preview here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 137.0,
+      "end": 143.7,
+      "text": "Which is why this extension was made, and it was made different from live server precisely so that you can see the preview on the side."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 143.7,
+      "end": 146.3,
+      "text": "Now here we will learn about forms."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 146.3,
+      "end": 153.3,
+      "text": "What is a form? You know the name, a form means, like a railway form, we fill it out and our reservation is done."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 153.3,
+      "end": 161.5,
+      "text": "Along with that, we fill out IIT JEE forms, NEET forms, forms for any exam, so that our data can reach those who need it, okay."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 161.5,
+      "end": 162.8,
+      "text": "So this is a form."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 163.0,
+      "end": 169.0,
+      "text": "There is an HTML form tag, as soon as you write form, press enter, it will ask you the first question: what is the action of your form, GET or POST."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 169.0,
+      "end": 176.5,
+      "text": "I'll tell you a very quick difference between GET request and POST request. You're saying we'll look at this later when we study backend."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 176.5,
+      "end": 183.9,
+      "text": "A GET request is a very simple request, and we send POST requests in most cases when we also need to provide a lot of data."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 183.9,
+      "end": 188.7,
+      "text": "For example, whenever our form is posted, we will use a POST request in most cases."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 188.7,
+      "end": 197.9,
+      "text": "And what is a GET request? It's a very simple request, just to tell the server something, and that's it, or to hit the server with a request, that's it."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 197.9,
+      "end": 203.7,
+      "text": "But if you haven't understood this yet, that should be fine, there's no problem because we're going to do this in detail later."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 203.7,
+      "end": 208.8,
+      "text": "So I wrote form action = post here, now I can show some input tags inside it."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 208.8,
+      "end": 226.7,
+      "text": "I'll tell you what input tags are: what elements will come inside your form, such as you can enter a date, you can enter a name in the form, you can ask for a phone number, you can ask for your age, which can only be a number. You'd want to put such things in the form."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 226.7,
+      "end": 235.0,
+      "text": "So here I want to tell you that the input tag that you put inside the form, and there is a label tag that is used to label that input."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 235.0,
+      "end": 239.7,
+      "text": "So what I'll do here, you see, the simplest input tag is type equals text."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 239.7,
+      "end": 245.2,
+      "text": "So I'll put the input with type equals text here, and you can see here if I zoom out and show you."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 245.2,
+      "end": 251.5,
+      "text": "So look, input type is equal to text, name is equal to username, placeholder is enter your username, and it will actually look something like this."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 251.5,
+      "end": 257.4,
+      "text": "That means you can say \"Enter your username\" here, and the user on the other side will have to enter their username."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 257.4,
+      "end": 278.7,
+      "text": "I'll write an H1 here and I'll write, say, \"Form to Apply for TA for Sigma Web Dev TA, Sigma Web Development Course TA.\" Suppose we are hiring Teaching Assistants for the Sigma Web Development course, then we can write something like this here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 278.7,
+      "end": 282.9,
+      "text": "By the way, I've added subtitles. If you haven't accessed the playlist, make sure to access it."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 282.9,
+      "end": 287.6,
+      "text": "And along with that, I'll show you one more thing, so these subtitles are quite funny, I'll show you here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 287.6,
+      "end": 289.4,
+      "text": "Write Sigma Batch OP and your village land."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 289.4,
+      "end": 299.9,
+      "text": "\"And give your village land to me.\" I mean, if some English person is watching this, or someone who doesn't know Hindi at all, they'll say, \"Brother, this was fine until here, what happened? 'And give your village land to me.'\" I found this quite funny."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 299.9,
+      "end": 306.3,
+      "text": "Anyway, now you can see that I have put the H1 here, which is our heading, this is our main heading."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 306.3,
+      "end": 308.7,
+      "text": "Enter your username, this is our input tag."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 308.7,
+      "end": 312.0,
+      "text": "Along with the input tag, we use the label tag."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 312.0,
+      "end": 314.4,
+      "text": "Now whose label is this? So for equals, I will write its ID."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 314.4,
+      "end": 318.9,
+      "text": "Suppose I write its ID as username, and for equals, what will I do? For equals, I will put its ID."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 319.6,
+      "end": 321.3,
+      "text": "Now, what is this ID?"
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 321.3,
+      "end": 324.2,
+      "text": "I'll tell you this later, for now, just understand that it's a unique identifier for an element."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 324.2,
+      "end": 329.4,
+      "text": "To uniquely identify this element, just like your Aadhaar number cannot belong to anyone else."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 329.4,
+      "end": 333.7,
+      "text": "Similarly, this ID username has been assigned to it, and now it cannot be assigned to anyone else; this is what an ID is."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 333.7,
+      "end": 335.9,
+      "text": "I'll explain more in detail later, but for now, understand this much."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 335.9,
+      "end": 338.6,
+      "text": "So I wrote label for = username, and this input."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 338.6,
+      "end": 342.2,
+      "text": "And you can see here that the label will appear here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 342.2,
+      "end": 345.3,
+      "text": "So here I see I haven't actually put anything inside the label."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 345.3,
+      "end": 348.5,
+      "text": "So I'll put \"Enter your username.\""
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 348.5,
+      "end": 354.2,
+      "text": "And you can see that as soon as I put this here, you'll see \"Enter your username,\" and after that, you can enter your username here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 354.2,
+      "end": 357.6,
+      "text": "Along with that, you can enter your expertise here, or anything else."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 357.6,
+      "end": 360.0,
+      "text": "Suppose I want to ask here what your gender is."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 360.0,
+      "end": 362.0,
+      "text": "So I can do something like this here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 362.0,
+      "end": 367.6,
+      "text": "And you see, \"Enter your gender,\" and as soon as I did this, I can ask you here whether it's male or female."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 367.6,
+      "end": 370.9,
+      "text": "Now what happens here is that sometimes we wrap it in a div."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 370.9,
+      "end": 374.6,
+      "text": "What is a div? A div is our block element, okay."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 374.6,
+      "end": 380.8,
+      "text": "And what are inline and block elements, I haven't told you yet in this course, but I will tell you in upcoming videos."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 380.8,
+      "end": 384.0,
+      "text": "So for now, just understand that I'm putting it in a div to give it a new space, okay."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 384.0,
+      "end": 386.6,
+      "text": "So as soon as I put it in a div, it will come in a new space."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 386.6,
+      "end": 388.2,
+      "text": "Yes, there's also a BR tag, okay."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 388.2,
+      "end": 390.6,
+      "text": "There's also a BR tag, which creates a line break."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 390.6,
+      "end": 396.9,
+      "text": "But I don't prefer the BR tag, and you will get to know why we would never want to pollute our HTML with the BR tag."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 396.9,
+      "end": 399.4,
+      "text": "You will find this out in upcoming videos."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 399.4,
+      "end": 404.0,
+      "text": "Now look here, \"Enter your username,\" here, what is male or female?"
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 404.0,
+      "end": 407.4,
+      "text": "Now look here, as soon as I click on female, this radio button gets selected."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 407.4,
+      "end": 409.4,
+      "text": "I'm clicking on male, and it's getting selected."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 409.4,
+      "end": 414.8,
+      "text": "Why is this happening? Because for its label, I set \"for equals female\" and put \"ID female\" here, do you see?"
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 414.8,
+      "end": 418.3,
+      "text": "And along with that, you see, I have put the same names for both of them."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 418.3,
+      "end": 425.0,
+      "text": "So here, I put name equals gender for this input tag, and also for this input radio tag."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 425.0,
+      "end": 435.7,
+      "text": "And as soon as we wrote type equals radio here, it means it's a radio button, and if we made their names the same, then only one of these two can be selected at a time. That means if I select this, only this will be selected, if I select that, only that will be selected."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 435.7,
+      "end": 436.7,
+      "text": "Now I'll show you something."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 436.7,
+      "end": 444.2,
+      "text": "If I mess up the ID in the label's form, and here too, in the form's ID, let's say I don't mess up the first one, but I mess up the second one."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 444.2,
+      "end": 448.8,
+      "text": "So when I click on the female of the second one, look, it won't select. I'm clicking, but it's not selecting."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 448.8,
+      "end": 449.9,
+      "text": "I'm clicking on male, and it's selecting."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 449.9,
+      "end": 453.9,
+      "text": "So to select female, I'll have to click here like this."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 453.9,
+      "end": 459.0,
+      "text": "You see, what I should always do is put the ID of the input tag for \"for equals\"."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 459.0,
+      "end": 462.3,
+      "text": "So you can see here that I have put label for = female."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 462.3,
+      "end": 466.4,
+      "text": "Along with that, we have an input tag which is type equals checkbox."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 466.4,
+      "end": 469.6,
+      "text": "Now look here, if I put an input of type equals checkbox."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 469.6,
+      "end": 478.9,
+      "text": "I'll do this by putting it inside a div. As soon as I right-click and format the document, our document will become very good, meaning its formatting and indents will become very good."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 478.9,
+      "end": 483.5,
+      "text": "Now look here, \"Subscribe to Newsletter,\" I can check this here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 483.5,
+      "end": 488.3,
+      "text": "And the difference between a radio button and a checkbox is that you can check different checkboxes."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 488.3,
+      "end": 493.6,
+      "text": "Here, if you want to give one of the options like male or female, or any other options, you can select it like this."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 493.6,
+      "end": 496.6,
+      "text": "After this, we have a text area and a select tag."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 496.6,
+      "end": 498.9,
+      "text": "And I'll show you what that is too."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 498.9,
+      "end": 502.0,
+      "text": "So the text area and select tag work something like this."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 502.0,
+      "end": 506.0,
+      "text": "Now, as soon as you copy the text area here, I'll show you by pasting it here, the actual text area."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 506.0,
+      "end": 513.7,
+      "text": "So, a text area works for input type equals text, but it has row and column attributes that help you resize it."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 513.7,
+      "end": 517.6,
+      "text": "Now look here, the placeholder inside it that I've given is \"Enter your comment here.\""
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 517.6,
+      "end": 519.8,
+      "text": "So I've given \"Enter your comment here\" as the text inside it."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 519.8,
+      "end": 524.0,
+      "text": "Ideally, what we'll do is keep it empty, or at least we won't give it a new line."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 524.0,
+      "end": 526.3,
+      "text": "So I'll just paste it here, \"Enter your comment here.\""
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 526.3,
+      "end": 528.8,
+      "text": "And now it will go completely to the left side."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 528.8,
+      "end": 529.7,
+      "text": "I'll show you."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 529.7,
+      "end": 534.8,
+      "text": "So it has reached completely to the left side, look, \"Enter your comment here,\" and here any user can put their comment."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 534.8,
+      "end": 538.2,
+      "text": "Now look, I've put the content of the text area as \"Enter your comment here.\""
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 538.2,
+      "end": 541.9,
+      "text": "So ideally, you wouldn't want to do this; you'd want to keep the text area empty."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 541.9,
+      "end": 548.7,
+      "text": "And you'd want to put a label, and you can say label for equals comment, and we'll definitely put an ID here whenever we put \"for\"."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 548.7,
+      "end": 553.4,
+      "text": "So inside \"for\" is the ID of the element it's for, okay."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 553.4,
+      "end": 557.7,
+      "text": "Now look here, if I write \"Enter your comment\" here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 557.7,
+      "end": 562.8,
+      "text": "So what will happen? If I write \"Enter your comment,\" then \"Enter your comment\" will appear here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 562.8,
+      "end": 568.7,
+      "text": "Now you'll say, \"Hey, this isn't styled properly.\" It's not styled properly because we'll style it with CSS later."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 568.7,
+      "end": 577.6,
+      "text": "For now, I'll just put a BR tag, but I don't recommend the BR tag. I'm telling you this again, I absolutely do not recommend the BR tag because BR tags cause problems."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 577.6,
+      "end": 581.7,
+      "text": "By the way, you should know that the BR tag is a line break tag; it creates a line break like this."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 581.7,
+      "end": 585.0,
+      "text": "Right now, everything might seem fine to you, and you might be thinking, \"What's the problem with the BR tag?\""
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 585.0,
+      "end": 588.4,
+      "text": "But I'll tell you, the BR tag is something that I don't recommend, okay."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 588.4,
+      "end": 591.7,
+      "text": "It's not that you shouldn't use it at all, but I don't recommend using it all the time."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 591.7,
+      "end": 596.5,
+      "text": "What happens is, people think the easiest thing to do is just put a BR tag and keep adding new spaces."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 596.5,
+      "end": 598.1,
+      "text": "I strongly oppose this."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 598.1,
+      "end": 601.8,
+      "text": "So I'll copy this, and I'll show you the select tag like this."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 601.8,
+      "end": 606.0,
+      "text": "And you see here that as soon as I put the select tag here, I put it inside a div."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 606.0,
+      "end": 608.7,
+      "text": "So in select, you get some options."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 608.7,
+      "end": 615.0,
+      "text": "The syntax for select is something like this: you can use any one of the three options: apple, banana, and cherry."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 615.0,
+      "end": 617.7,
+      "text": "Now look here, any one of the three can be used."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 617.7,
+      "end": 627.5,
+      "text": "And here, what I did was, I set value equals apple, first created a select tag, gave it name equals fruits, then option value equals apple, option value equals banana, option value equals cherry."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 627.5,
+      "end": 634.7,
+      "text": "When we parse the data of this form, I will tell you in the JavaScript part how to take this data and send it to the server."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 634.7,
+      "end": 638.5,
+      "text": "So there are still many things remaining about forms that I'm going to tell you."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 638.5,
+      "end": 640.0,
+      "text": "So stay tuned for that, okay."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 640.0,
+      "end": 648.0,
+      "text": "This was about forms. I had to tell you all the elements of a form in this video, and along with that, I told you about the select tag and all these things."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 648.0,
+      "end": 657.8,
+      "text": "Regarding forms, these other attributes, like action, as I told you, you can submit the form to any page using action, where it will handle the form, so you can provide that data here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 657.8,
+      "end": 660.6,
+      "text": "Then there's the method, whether it's a GET request or a POST request."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 660.6,
+      "end": 664.0,
+      "text": "I'll tell you the difference between these two in upcoming videos, but I've told you in a very rough way."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 664.0,
+      "end": 669.4,
+      "text": "That a GET request is a very simple request, a POST request is used when a large amount of data needs to be sent to the server."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 669.4,
+      "end": 673.4,
+      "text": "Because a GET request has a limit, you can send a lot of data in a POST request."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 673.4,
+      "end": 678.4,
+      "text": "Okay, we never send passwords in a GET request; we always send them with the help of a POST request."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 678.4,
+      "end": 681.4,
+      "text": "Okay, now I've explained the method here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 681.4,
+      "end": 689.0,
+      "text": "What happens in name? Name equals username means we mark it with a name. When we mark it with a name, the server will know which key this value corresponds to."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 689.0,
+      "end": 693.3,
+      "text": "So the key-value pair that the server needs will go according to the name; its name and value will go, okay."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 693.3,
+      "end": 695.7,
+      "text": "So we'll also see this when we do server-side processing."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 695.7,
+      "end": 699.3,
+      "text": "What does placeholder mean? Placeholder means what will be written inside it."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 699.3,
+      "end": 701.6,
+      "text": "For example, here, \"Enter your username\" is a placeholder."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 701.6,
+      "end": 706.9,
+      "text": "If I click on it, \"Enter your username\" is not actually written inside it. If I type anything, look, it appears."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 706.9,
+      "end": 711.6,
+      "text": "But \"Enter your username\" is just telling me here that I need to enter a username inside it."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 711.6,
+      "end": 718.0,
+      "text": "Then, what does \"required\" mean? It means you will have to make it required, you will have to enter its value, otherwise your form will not be submitted."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 718.0,
+      "end": 719.5,
+      "text": "So we will use this a lot."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 719.5,
+      "end": 722.0,
+      "text": "Then after this, we have autofocus."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 722.0,
+      "end": 728.0,
+      "text": "What does autofocus do? Autofocus automatically focuses the cursor, so I'll show you the magic of autofocus here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 728.0,
+      "end": 731.0,
+      "text": "So if you've written autofocus inside the input tag here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 731.0,
+      "end": 732.0,
+      "text": "Okay."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 732.0,
+      "end": 734.0,
+      "text": "So I wrote autofocus in \"Enter your username.\""
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 734.0,
+      "end": 738.5,
+      "text": "Now I'll reload it, and you'll see that when I type on it, it will automatically stay focused, okay."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 738.5,
+      "end": 743.7,
+      "text": "So, by using autofocus, whenever you type, it will be typed right here, okay."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 743.7,
+      "end": 746.2,
+      "text": "I hope you're understanding these things."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 746.2,
+      "end": 749.4,
+      "text": "Now, regarding validation attributes, I've already told you about \"required.\""
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 749.4,
+      "end": 752.7,
+      "text": "You can give a pattern where you can give a regular expression pattern."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 752.7,
+      "end": 757.4,
+      "text": "Now don't get confused, don't say, \"Hey, what kind of talk is this? We don't know regular expressions.\""
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 757.4,
+      "end": 759.7,
+      "text": "So that's why I'm here, I'll teach you everything."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 759.7,
+      "end": 766.9,
+      "text": "Just understand that we will only accept a particular pattern. If we put pattern equals this, then you cannot put anything other than this pattern."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 766.9,
+      "end": 770.6,
+      "text": "Okay, so you should know this here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 770.6,
+      "end": 773.9,
+      "text": "So I hope you guys are enjoying this video."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 773.9,
+      "end": 777.5,
+      "text": "And along with that, please write \"Sigma Batch OP\" in the comment section."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 777.5,
+      "end": 780.2,
+      "text": "And go to the first video and please review this course."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 780.2,
+      "end": 784.0,
+      "text": "Because many people still ask me whether they should do this course or not."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 784.0,
+      "end": 786.0,
+      "text": "When it's a free course, people don't value it."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 786.0,
+      "end": 790.0,
+      "text": "They say, \"Hey, this course is free, so should we watch it or take a paid course?\""
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 790.0,
+      "end": 803.0,
+      "text": "And I also want to give a note to those who told me, \"Hey, we've taken a paid course, what should we do now? Should we get our money's worth or join the Sigma Batch?\" Guys, join the Sigma Batch, cut your losses and join the Sigma Batch."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 803.0,
+      "end": 807.7,
+      "text": "Because, look, I don't think I need to tell you about the quality of this course."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 807.7,
+      "end": 812.0,
+      "text": "So you guys come and do this, and you'll get everything here."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 812.0,
+      "end": 816.0,
+      "text": "I'm telling you, don't misunderstand \"free\" to mean that I was going to sell you this very course for ₹10,000."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 816.0,
+      "end": 817.9,
+      "text": "Yes, that was the amount we had fixed."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 817.9,
+      "end": 820.4,
+      "text": "I was going to sell you this course for ₹10,000."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 820.4,
+      "end": 822.6,
+      "text": "And I think there is nothing wrong in selling any course."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 822.6,
+      "end": 825.2,
+      "text": "If anyone is selling, there is nothing wrong in selling any course."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 825.2,
+      "end": 837.9,
+      "text": "But the thing is, if you've bought another course and you still feel from your heart that Sigma is a great course, which it is, then you should join, cut your losses and join, because once you build your career, all these things will seem like nothing to you in the future."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 837.9,
+      "end": 845.7,
+      "text": "In the future, when you look back, you'll also say, \"Yes, we took a paid course, and then we took a free course, which helped us understand.\""
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 845.7,
+      "end": 848.9,
+      "text": "And once your career is made, all these things won't even matter in the future, man."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 848.9,
+      "end": 853.4,
+      "text": "So do what is right for you, and work understanding your right and wrong."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 853.4,
+      "end": 855.5,
+      "text": "I hope you guys are understanding things."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 855.5,
+      "end": 864.9,
+      "text": "So like the video, access the playlist, subscribe to the channel, and in the comment section below, write \"Sigma Batch OP\" and transfer the land of both your village and uncle to my name."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 864.9,
+      "end": 865.9,
+      "text": "That's all for this video for now, guys."
+    },
+    {
+      "tutorial_number": 7,
+      "video_title": "Forms and input tags in HTML",
+      "start": 865.9,
+      "end": 870.9,
+      "text": "Thank you so much guys for watching this video and I will see you next time."
+    }
+  ]
+}

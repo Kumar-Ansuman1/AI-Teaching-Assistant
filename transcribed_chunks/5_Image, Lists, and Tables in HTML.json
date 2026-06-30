@@ -1,0 +1,2027 @@
+{
+  "segments": [
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 0.0,
+      "end": 5.0,
+      "text": "In this video, we will see how images are created in HTML, lists are created, and tables are created."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 5.0,
+      "end": 15.3,
+      "text": "So, please like the video. I know very few people like videos on YouTube. But if you do, thanks from the bottom of my heart. It's because of your support that I get the motivation to bring such free courses."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 15.5,
+      "end": 21.0,
+      "text": "So, let's go to the computer screen. Starting the fifth video of the Sigma Web Development course, let's roll the intro."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 30.3,
+      "end": 32.6,
+      "text": "So guys, I have come to my computer screen, as you can see."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 32.8,
+      "end": 37.2,
+      "text": "Now, first of all, I want to tell you that you should bookmark github.com/codewithharry."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 37.4,
+      "end": 40.7,
+      "text": "In fact, bookmark this repository so that you get all the code."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 41.2,
+      "end": 44.0,
+      "text": "Secondly, you can bookmark the playlist by clicking here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 44.2,
+      "end": 46.4,
+      "text": "Click here on the star and click here to save it."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 46.4,
+      "end": 47.3,
+      "text": "This playlist will be yours."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 47.6,
+      "end": 52.2,
+      "text": "Now, the first thing I will tell you here is about images, what an image is inside HTML."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 52.5,
+      "end": 59.2,
+      "text": "So what we will do here is quickly create a folder, named video 5, new folder, and here video 5."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 59.2,
+      "end": 59.9,
+      "text": "You must know this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 100.0,
+      "end": 103.3,
+      "text": "Right-clicking and opening with code, I will do it very fast this time, because I have already told you many times."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 103.5,
+      "end": 109.2,
+      "text": "If you don't want to see this welcome page repeatedly, then uncheck 'show welcome page on startup' here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 109.4,
+      "end": 111.2,
+      "text": "And you won't see this repeatedly."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 111.5,
+      "end": 112.3,
+      "text": "But what do we have to do?"
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 112.6,
+      "end": 114.0,
+      "text": "We will create index.html."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 114.2,
+      "end": 116.3,
+      "text": "We will zoom in a bit using the control mouse wheel."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 116.5,
+      "end": 122.1,
+      "text": "We will toggle screencast mode so that you know which button I am pressing and when, and why."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 122.5,
+      "end": 125.0,
+      "text": "Now I will bring the Emmet abbreviation here by typing an exclamation mark."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 125.5,
+      "end": 127.1,
+      "text": "And here I will do view word wrap."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 127.4,
+      "end": 132.6,
+      "text": "It takes a lot of effort, you can see here that your word wrap is now off, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 133.3,
+      "end": 135.7,
+      "text": "So now what will happen here is that the horizontal scroll bar will not appear, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 136.3,
+      "end": 138.2,
+      "text": "Now what I will do is write images here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 138.8,
+      "end": 140.2,
+      "text": "First, I will write images here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 140.6,
+      "end": 143.0,
+      "text": "And I will simply bring an image here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 143.3,
+      "end": 144.3,
+      "text": "Now you can get an image from the internet."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 144.5,
+      "end": 148.3,
+      "text": "I will write here, let's say we want to bring an image of a train."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 148.7,
+      "end": 150.0,
+      "text": "Okay, train images."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 150.2,
+      "end": 152.0,
+      "text": "Because we have run a lot of trains in this course."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 152.2,
+      "end": 154.6,
+      "text": "So we will bring train images, why would we bring any other image?"
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 154.9,
+      "end": 155.7,
+      "text": "I will do save image as."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 156.0,
+      "end": 200.0,
+      "text": "And here, inside the Sigma Web Development course, in the video number 5 folder."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 200.0,
+      "end": 201.0,
+      "text": "This is a CMS file."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 201.3,
+      "end": 203.0,
+      "text": "In fact, I'll do one thing, I'll cancel this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 203.2,
+      "end": 206.7,
+      "text": "I'll take a snip of it, because this is a CMS extension, I want it in PNG."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 207.2,
+      "end": 209.5,
+      "text": "So I pressed Windows, Shift, and S here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 209.8,
+      "end": 211.4,
+      "text": "It's a shortcut for the snipping tool, if you don't know."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 211.6,
+      "end": 220.0,
+      "text": "So now, through this Sigma Web Development course, you know that if you press Windows, Shift, and S, your snipping tool opens in Windows."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 220.3,
+      "end": 223.0,
+      "text": "Who all didn't know this, tell me honestly in the comment section, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 223.4,
+      "end": 227.4,
+      "text": "Now what we will do here, I had already done Windows Shift S, and then I got caught up in talking."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 228.0,
+      "end": 233.5,
+      "text": "So click here and save it here, click on this floppy disk save option here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 234.2,
+      "end": 240.9,
+      "text": "And go to downloads, then to Sigma Web Development course, and save it in video 5 as image, okay, saved as image."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 242.0,
+      "end": 247.4,
+      "text": "Now, in HTML, there is an IMG tag. As soon as you type IMG, both SRC and ALT are its required attributes."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 247.7,
+      "end": 251.5,
+      "text": "In fact, even if you don't write ALT, it will work, but it's recommended. I will tell you what happens with these two attributes."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 251.8,
+      "end": 257.3,
+      "text": "First, if you write image.png inside SRC, you can see this image is here, so image.png."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 257.5,
+      "end": 259.7,
+      "text": "And in ALT, I will put train image, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 300.2,
+      "end": 303.0,
+      "text": "Now if I show you this by previewing it in the browser."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 303.4,
+      "end": 306.3,
+      "text": "So look, it looks something like this, this is our page and the train image is visible here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 306.7,
+      "end": 309.3,
+      "text": "What happened by doing this, where did the ALT we wrote go?"
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 309.6,
+      "end": 315.8,
+      "text": "You might ask, I'll tell you where the content we put inside ALT went. So, the thing we put inside ALT, we didn't see it yet."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 316.3,
+      "end": 319.0,
+      "text": "Suppose for some reason the server is unable to show you the image, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 319.3,
+      "end": 320.0,
+      "text": "Then what will happen?"
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 320.3,
+      "end": 321.2,
+      "text": "Suppose I accidentally wrote image 2."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 321.5,
+      "end": 323.4,
+      "text": "Now, there is no file named image2.png here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 323.9,
+      "end": 326.0,
+      "text": "So will there be an error, what will happen, I'll show you what will happen."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 326.6,
+      "end": 331.4,
+      "text": "So here, the ALT will be displayed, and an error image like this will be displayed."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 331.7,
+      "end": 339.7,
+      "text": "Which will tell you that, hey, the image you've put, fix it, you've messed something up, or the image doesn't even exist on the server URL you provided, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 339.9,
+      "end": 342.3,
+      "text": "Such things are shown like this, and the ALT is visible there."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 342.6,
+      "end": 345.5,
+      "text": "So the user gets to know what the purpose of this image is, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 345.9,
+      "end": 349.8,
+      "text": "And now if I come back here, you can add ALT to the image like this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 350.3,
+      "end": 351.7,
+      "text": "If I don't even put ALT, will anything happen?"
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 352.0,
+      "end": 355.0,
+      "text": "Oh, if I don't put ALT, then the ALT text that was appearing won't appear, and nothing else will happen."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 355.3,
+      "end": 358.0,
+      "text": "So you wouldn't want the user to see this image when there's an error on your server."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 358.3,
+      "end": 404.7,
+      "text": "You would want the scenario to be such that the user sees something like this, 'train image' written, like this, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 405.2,
+      "end": 406.1,
+      "text": "I hope you understood this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 406.5,
+      "end": 407.6,
+      "text": "So image is very straightforward."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 408.2,
+      "end": 412.1,
+      "text": "It has two more attributes that are very important, one is width, which is width in pixels."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 412.4,
+      "end": 414.7,
+      "text": "If I set width equal to 23, then you can see."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 415.2,
+      "end": 418.0,
+      "text": "In fact, I will fix the image first, I accidentally wrote image 2."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 418.5,
+      "end": 422.2,
+      "text": "It's image.png, so here you can see I took 23 pixels, which is very small."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 422.4,
+      "end": 423.6,
+      "text": "So I will make it 230 pixels."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 424.3,
+      "end": 426.0,
+      "text": "You don't need to write 'px' in this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 426.3,
+      "end": 434.2,
+      "text": "In CSS, when we write width, we will see there that we need to write 'px', here we just write the number inside double quotes for width, as you can see, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 434.7,
+      "end": 438.7,
+      "text": "So if I bring it here, you see that we got a small image with width."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 439.3,
+      "end": 441.3,
+      "text": "If I also give it a height, suppose I give it a height."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 442.0,
+      "end": 445.0,
+      "text": "I say, keep its height at 230 as well, then its aspect ratio will get distorted."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 445.3,
+      "end": 450.0,
+      "text": "So it will stretch a bit, because it made its width 230 and height 230, as you can see."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 450.6,
+      "end": 455.3,
+      "text": "Now if you want its height to be 230 and width to adjust automatically, then just use the height attribute."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 455.6,
+      "end": 456.7,
+      "text": "You remove the width one here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 457.2,
+      "end": 505.6,
+      "text": "So its height will be 230 pixels, and it will take as much width as it can, it will adjust automatically, you see, it adjusted automatically in width and took this in height."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 506.2,
+      "end": 508.8,
+      "text": "Now, width and height can also be adjusted through CSS."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 509.2,
+      "end": 515.7,
+      "text": "And in the CSS section, we will see why we should always set this width and height; we should always set at least one of width or height."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 516.2,
+      "end": 521.9,
+      "text": "Such that when our page is loading, the image inside our page doesn't suddenly appear on the page."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 522.3,
+      "end": 524.3,
+      "text": "I will tell you this in upcoming videos."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 524.6,
+      "end": 532.0,
+      "text": "But for now, understand that these width and height attributes, I have heard many people say that they are deprecated and should not be used now."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 532.2,
+      "end": 539.0,
+      "text": "But I say they should be used for SEO purposes. Why they should be used, I will tell you in upcoming videos, where I will tell you about Core Web Vitals and SEO."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 539.7,
+      "end": 546.2,
+      "text": "For now, understand that width gives width to the image, height gives height to the image. If you apply one of them, the other one automatically gets set."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 546.6,
+      "end": 552.9,
+      "text": "And these values are in pixels and you don't have to write px or pixel, you just have to write this number and that's it."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 553.3,
+      "end": 557.3,
+      "text": "This is one attribute, height, and there's an SRC attribute, an ALT attribute."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 557.6,
+      "end": 602.8,
+      "text": "In this, you can also use the style attribute. In fact, you can use the style attribute with almost all tags."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 603.2,
+      "end": 603.9,
+      "text": "So this was about images."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 604.3,
+      "end": 606.2,
+      "text": "Now, let's quickly talk about tables in HTML."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 606.8,
+      "end": 609.2,
+      "text": "Inside HTML, the table tag is very useful."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 609.6,
+      "end": 611.3,
+      "text": "What happens with the table tag, I'll tell you."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 611.9,
+      "end": 613.7,
+      "text": "With the table tag, you get to see a table."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 614.1,
+      "end": 620.0,
+      "text": "Now I will copy this table from here, and when I copy this table from here, you will see that my page will look something like this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 620.0,
+      "end": 626.5,
+      "text": "So this HTML table, where is my preview page, here it is, here you see name, Harry, age, 100, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 626.8,
+      "end": 632.0,
+      "text": "Now if I add many more things here, suppose I add something like this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 632.3,
+      "end": 633.2,
+      "text": "Suppose I add name."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 633.5,
+      "end": 638.3,
+      "text": "And here I add, let us say, designation, Harry's designation, suppose I add programmer."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 638.6,
+      "end": 640.6,
+      "text": "And let's say I want to add more things."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 641.0,
+      "end": 644.6,
+      "text": "I will use Alt Shift bottom arrow key, I will use Alt Shift bottom arrow key."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 645.2,
+      "end": 653.4,
+      "text": "And here, let's say I want to write favorite language and I want to write, suppose, JavaScript, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 654.0,
+      "end": 658.8,
+      "text": "And now you can see here that this table will be created like this: name, destination, favorite language, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 659.2,
+      "end": 701.4,
+      "text": "So what is this, how does it work, I'll tell you."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 701.7,
+      "end": 706.3,
+      "text": "So here, you see that we used a table tag, inside the table tag there is a TR tag, which is a table row."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 706.6,
+      "end": 709.0,
+      "text": "What all will come inside this row, you will see."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 709.5,
+      "end": 718.7,
+      "text": "Now, if you want to use this as a table heading, you say that this is my table row, meaning this row, this row, where name, destination, and your favorite language are written."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 718.9,
+      "end": 722.0,
+      "text": "What all will come inside this row and what will those things be?"
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 722.4,
+      "end": 723.7,
+      "text": "Here you can see that it will be a heading."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 724.2,
+      "end": 726.2,
+      "text": "So that's why I will use TH, TH means table heading."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 726.5,
+      "end": 730.5,
+      "text": "And we will write that only once, so inside the first TR, we will write TH."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 730.8,
+      "end": 733.2,
+      "text": "Once we have put the heading above, then we will put the data."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 733.9,
+      "end": 737.4,
+      "text": "So we will put TD inside the table row, which stands for table data."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 737.7,
+      "end": 742.2,
+      "text": "And here, as many such rows you put inside TR, your rows will keep getting added."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 742.7,
+      "end": 749.2,
+      "text": "So here, suppose I write Sam, and he is also a programmer, and suppose Java is his favorite language."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 749.4,
+      "end": 754.2,
+      "text": "So these rows will keep getting added below the table, you can see here that these rows are getting added, getting added, getting added."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 754.6,
+      "end": 758.0,
+      "text": "With CSS, we will see how to give it a border, how to style it."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 758.3,
+      "end": 800.3,
+      "text": "But by default, it looks like this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 800.6,
+      "end": 805.5,
+      "text": "And yes, I know it's ugly, but for now, just understand that the table works something like this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 806.0,
+      "end": 808.0,
+      "text": "Now there are rowspan and colspan attributes."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 808.4,
+      "end": 812.8,
+      "text": "Now you see here that rowspan means how many rows your TD will span."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 813.2,
+      "end": 813.9,
+      "text": "For example."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 814.4,
+      "end": 820.6,
+      "text": "Let us say I write here, I want Sam and programmer, earlier they were taking one cell each, Sam was taking one cell, programmer was taking one cell."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 820.8,
+      "end": 823.3,
+      "text": "I want to write Sam in two cells."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 823.7,
+      "end": 826.3,
+      "text": "So I would want not to write programmer, just Sam."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 827.2,
+      "end": 829.5,
+      "text": "And I want to write here that colspan is equal to 2."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 830.2,
+      "end": 834.5,
+      "text": "So colspan equal to 2 means that Sam will now take up two columns."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 835.0,
+      "end": 837.2,
+      "text": "What does this mean, Sam will now take up two columns."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 837.7,
+      "end": 839.6,
+      "text": "Meaning Sam will look something like this, I'll show you."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 840.6,
+      "end": 842.8,
+      "text": "Something like this, so it took up the entire column, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 843.7,
+      "end": 847.0,
+      "text": "So colspan means how many columns will be occupied."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 847.3,
+      "end": 851.3,
+      "text": "By default, one cell will occupy only one column, but sometimes one cell will occupy two columns."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 851.7,
+      "end": 853.9,
+      "text": "To demonstrate this, I will explain it to you using Excel."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 854.5,
+      "end": 856.4,
+      "text": "In Excel, understand that this is our HTML table."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 856.7,
+      "end": 859.3,
+      "text": "Sometimes I will want one data to span two columns."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 859.8,
+      "end": 903.9,
+      "text": "So here we use merge cell and here suppose I write Sam."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 904.3,
+      "end": 906.7,
+      "text": "In HTML, this is done using colspan."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 907.2,
+      "end": 909.0,
+      "text": "Sometimes we also want to merge vertically."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 909.3,
+      "end": 911.0,
+      "text": "Meaning, suppose I want to merge these two cells."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 911.5,
+      "end": 913.2,
+      "text": "There we use rowspan."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 913.5,
+      "end": 919.0,
+      "text": "And with whom will we use rowspan, we will obviously use rowspan with TD, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 919.5,
+      "end": 922.0,
+      "text": "So with TD, we were using colspan as well as rowspan."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 922.3,
+      "end": 925.0,
+      "text": "If we use rowspan, it will span two rows like this, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 925.7,
+      "end": 931.6,
+      "text": "So I hope you understood this, and when we create tables, create HTML projects, then you will understand it even better."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 932.0,
+      "end": 934.0,
+      "text": "But I will quickly show you what rowspan is here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 934.5,
+      "end": 938.4,
+      "text": "So if I write rowspan equal to 2 here and then write another TR here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 938.7,
+      "end": 942.0,
+      "text": "Then you will see that my table looks something like this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 942.5,
+      "end": 945.0,
+      "text": "Now, to better explain this, I will put a CSS style here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 945.5,
+      "end": 949.9,
+      "text": "What I will do here is add a stylesheet, and I am going to name this stylesheet style.css."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 950.4,
+      "end": 953.3,
+      "text": "So in style.css, and you don't need to understand CSS at all right now."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 953.6,
+      "end": 955.0,
+      "text": "Let me tell you already."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 955.4,
+      "end": 959.9,
+      "text": "Inside TD, I will write border 2 pixel solid black."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1000.2,
+      "end": 1005.2,
+      "text": "And I will tell you all how this works, but for now, understand that I have put this to explain it to you."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1005.7,
+      "end": 1009.4,
+      "text": "So I said that this row will have Harry, programmer, and JavaScript."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1009.8,
+      "end": 1013.0,
+      "text": "Then I said that this Sam, what will be its rowspan?"
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1013.3,
+      "end": 1014.4,
+      "text": "Where did I give rowspan two?"
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1014.7,
+      "end": 1019.7,
+      "text": "First, I said that my Java will have rowspan 2."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1020.0,
+      "end": 1022.5,
+      "text": "So how many rows will Java take, obviously two, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1022.9,
+      "end": 1024.4,
+      "text": "So here Java will take two rows."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1025.3,
+      "end": 1026.8,
+      "text": "So here you can see Java took two rows."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1027.3,
+      "end": 1032.8,
+      "text": "So when Java took two rows, it means I don't need to write Java in the next one, because its row is already occupied, so I won't write Java in the next one, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1033.3,
+      "end": 1034.6,
+      "text": "So you see, I won't write Java here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1035.1,
+      "end": 1036.0,
+      "text": "I made its colspan 2."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1036.3,
+      "end": 1037.2,
+      "text": "I made its rowspan 2."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1037.6,
+      "end": 1041.0,
+      "text": "So what happened by doing this, you can see it was Harry, programmer, JavaScript."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1041.5,
+      "end": 1046.8,
+      "text": "Then I said that this Sam, make its colspan 2, meaning it will occupy two columns."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1047.4,
+      "end": 1049.0,
+      "text": "This Sam will also occupy two columns."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1049.4,
+      "end": 1050.4,
+      "text": "And this Java will occupy two rows."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1050.8,
+      "end": 1054.7,
+      "text": "So you can see here exactly that happened, it occupied two rows, it occupied two columns."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1055.2,
+      "end": 1058.2,
+      "text": "So this is how rowspan and colspan can be used inside HTML."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1058.7,
+      "end": 1101.0,
+      "text": "Inside an HTML table, we can also add captions."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1101.3,
+      "end": 1104.4,
+      "text": "And to add captions, we can use the caption tag like this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1104.7,
+      "end": 1110.6,
+      "text": "So I'll show you that if we use caption inside the table, student details, here I'll say employee details."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1111.0,
+      "end": 1116.0,
+      "text": "Then your page will look something like this, you can see here that the employee details caption will be added here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1116.4,
+      "end": 1125.0,
+      "text": "Now, with CSS, this can also be changed, its font, its font size, but for now, by default, it looks something like this, the caption comes at the top, employee details will appear like this to you."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1125.5,
+      "end": 1129.3,
+      "text": "Along with that, you can also give header and footer, you can give T head and T foot here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1129.7,
+      "end": 1137.9,
+      "text": "For example, if I put some content inside T head and T foot, like this, if I put header here and suppose I put footer here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1138.3,
+      "end": 1142.4,
+      "text": "Then you will see T head and T foot like this, you see header here, footer here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1142.8,
+      "end": 1146.2,
+      "text": "Now I will tell you about one more tag here, which is the BR tag, which adds a line break."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1146.5,
+      "end": 1149.3,
+      "text": "So after the image, there will be a line break here, you can see everything came down."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1149.7,
+      "end": 1153.5,
+      "text": "So this is the header, and after this, I will obviously add the footer below. I will not add it here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1154.5,
+      "end": 1157.2,
+      "text": "So I will add everything after my table, at the end."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1157.6,
+      "end": 1158.7,
+      "text": "So this is my table footer."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1159.2,
+      "end": 1201.0,
+      "text": "Now I can change this with CSS."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1201.4,
+      "end": 1206.0,
+      "text": "Now here, I can group the content of my header and footer with T head and T foot like this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1206.5,
+      "end": 1211.9,
+      "text": "So what will be the header of my table, this TH that I have written here, I can group it, I can put it inside T head."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1212.4,
+      "end": 1216.6,
+      "text": "Along with that, the content inside the table will come inside T body."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1217.1,
+      "end": 1221.7,
+      "text": "So what will come inside T body, my table content will come something like this, as you can see."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1222.2,
+      "end": 1229.7,
+      "text": "And after this, if I write T foot here and I want to, at the end, suppose I want to put some data, then I will put another TR, as you can see."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1230.0,
+      "end": 1233.2,
+      "text": "I will right-click and format the document, so it will be formatted a bit better."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1233.7,
+      "end": 1237.2,
+      "text": "Suppose I want to put this kind of TR and I want to group it in T foot."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1237.6,
+      "end": 1239.0,
+      "text": "So this is just a way to group."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1239.3,
+      "end": 1247.4,
+      "text": "Meaning I put some TRs inside T foot, I put my main body inside T body, and I put my table header inside T head."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1247.7,
+      "end": 1250.0,
+      "text": "And obviously, nothing will change with this, I have only done grouping."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1250.5,
+      "end": 1254.7,
+      "text": "Here, look, our, I'll do one thing, I'll write footer here, so that you know this is the footer."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1255.3,
+      "end": 1256.4,
+      "text": "I'll write footer here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1257.0,
+      "end": 1259.3,
+      "text": "And you can see here that our last row is the foot."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1259.6,
+      "end": 1300.0,
+      "text": "Now you will say, what was the benefit of doing this?"
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1300.6,
+      "end": 1303.6,
+      "text": "We have only done grouping so that we can target it further with CSS."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1304.2,
+      "end": 1307.7,
+      "text": "So you will use this very rarely, but you can do grouping like this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1308.2,
+      "end": 1311.4,
+      "text": "Your entire table, head content will come here, foot content will come here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1312.0,
+      "end": 1316.7,
+      "text": "And body content actually comes in between the head and foot, but you can write it here in any way."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1317.3,
+      "end": 1319.9,
+      "text": "But ideally, head, body, and then foot comes."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1320.3,
+      "end": 1321.7,
+      "text": "Okay, I hope you understood this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1322.3,
+      "end": 1326.7,
+      "text": "So that's all about HTML tables, you don't need to know more than this right now."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1327.4,
+      "end": 1329.5,
+      "text": "And now we will talk about lists here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1330.0,
+      "end": 1333.3,
+      "text": "Lists are very important in HTML, because we will use lists a lot."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1333.7,
+      "end": 1338.9,
+      "text": "There are three types of lists in HTML: we have an ordered list, an unordered list, and a definition list."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1339.4,
+      "end": 1341.4,
+      "text": "The most commonly used are unordered and ordered lists."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1341.7,
+      "end": 1343.2,
+      "text": "First, let's look at the unordered list."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1343.7,
+      "end": 1346.3,
+      "text": "Whenever we want to have unordered data."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1346.7,
+      "end": 1348.3,
+      "text": "Like if I write UL here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1349.2,
+      "end": 1351.7,
+      "text": "So as soon as I write UL here, it means unordered list."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1352.2,
+      "end": 1353.3,
+      "text": "Inside it, I can write LI."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1353.7,
+      "end": 1354.7,
+      "text": "And I can write Harry."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1355.4,
+      "end": 1356.8,
+      "text": "And after this, I can write Rohan, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1357.5,
+      "end": 1359.8,
+      "text": "And after this, I can write Shubham, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1401.0,
+      "end": 1405.3,
+      "text": "So here, when I write Harry, Rohan, Shubham, and I do this UL, it will appear like this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1405.6,
+      "end": 1406.5,
+      "text": "This is an unordered list."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1406.7,
+      "end": 1408.0,
+      "text": "Look, Harry, Rohan, Shubham appeared here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1408.4,
+      "end": 1409.3,
+      "text": "They have no order."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1409.6,
+      "end": 1410.8,
+      "text": "1, 2, 3, 4 did not appear in it."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1411.4,
+      "end": 1414.7,
+      "text": "But if I want it to be ordered, then I can write the same thing with the help of OL."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1415.4,
+      "end": 1419.3,
+      "text": "So if I make its opening and closing tag OL and keep other things the same."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1419.6,
+      "end": 1421.0,
+      "text": "Then it will become an ordered list, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1422.0,
+      "end": 1423.4,
+      "text": "So here it will have 1, 2, 3."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1423.8,
+      "end": 1428.6,
+      "text": "You can make this 1, 2, 3 into ABC, you can also make it capital ABC, you can also make it Roman numbers."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1429.0,
+      "end": 1431.6,
+      "text": "You can also do it with the help of CSS, and there are other ways to do it."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1432.3,
+      "end": 1436.0,
+      "text": "You can see here in this image that when LI was done inside UL, it appeared like this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1436.6,
+      "end": 1440.4,
+      "text": "In this image, you can see here that when LI was done inside OL, it came as 1, 2, 3."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1440.6,
+      "end": 1441.7,
+      "text": "This became an example of an ordered list."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1441.9,
+      "end": 1443.0,
+      "text": "And this became an example of a definition list."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1443.5,
+      "end": 1445.0,
+      "text": "Definition list is used very rarely."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1445.3,
+      "end": 1446.6,
+      "text": "Its preview looks something like this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1447.5,
+      "end": 1450.6,
+      "text": "Here, first I put a heading, then after that I wrote DL."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1451.3,
+      "end": 1452.5,
+      "text": "DL means definition list."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1453.0,
+      "end": 1454.9,
+      "text": "After this, DT and then DD."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1455.5,
+      "end": 1458.9,
+      "text": "So here there is a definition term, and then there is the definition of its definition."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1459.5,
+      "end": 1500.0,
+      "text": "So it comes something like this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1500.3,
+      "end": 1501.6,
+      "text": "And you can also change it with CSS."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1501.9,
+      "end": 1505.5,
+      "text": "It's used very rarely, but you should know about it for interviews."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1505.8,
+      "end": 1507.6,
+      "text": "Interviewers sometimes ask what a definition list is."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1508.2,
+      "end": 1510.5,
+      "text": "So this kind of code is previewed like this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1510.8,
+      "end": 1513.5,
+      "text": "I am also not writing it out for the sake of time, but try it out, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1514.5,
+      "end": 1516.7,
+      "text": "And here, first we will look at the unordered list."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1517.4,
+      "end": 1520.3,
+      "text": "I have told you about unordered lists, it's very simple and straightforward."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1520.8,
+      "end": 1524.2,
+      "text": "You can customize its bullet points using the type attribute."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1524.7,
+      "end": 1526.7,
+      "text": "For example, if I make type equal to square here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1527.7,
+      "end": 1532.2,
+      "text": "I say here type is equal to and suppose I write square here, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1532.6,
+      "end": 1536.7,
+      "text": "So I wrote type equal to square inside UL, so look, it has appeared like a square."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1537.5,
+      "end": 1542.8,
+      "text": "Similarly, here inside UL, I can make its type circle, square, or disc."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1543.2,
+      "end": 1546.4,
+      "text": "Disc is by default, meaning the circle that appears is visible by default, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1546.7,
+      "end": 1549.4,
+      "text": "I can make it square, I can also make it circle, okay."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1550.3,
+      "end": 1555.2,
+      "text": "Along with that, you can add any number of other list items inside its list items."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1555.8,
+      "end": 1558.0,
+      "text": "Now let's look at the ordered list a bit more closely."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1558.6,
+      "end": 1601.7,
+      "text": "In an ordered list, if you write LI here, it will appear as 1, 2, 3."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1601.9,
+      "end": 1607.4,
+      "text": "But you can use type equal to I. When you use type equal to I, you will get uppercase Roman numbers."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1607.6,
+      "end": 1609.7,
+      "text": "If you do type equal to small I, you will get lowercase Roman numbers."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1610.5,
+      "end": 1613.6,
+      "text": "Type equal to 1 is the default, you don't need to do this."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1614.3,
+      "end": 1619.6,
+      "text": "If you do small A, you will get alphabetical, and if you do capital A, you will get uppercase alphabetical."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1620.0,
+      "end": 1620.9,
+      "text": "So let's try this once."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1621.2,
+      "end": 1623.7,
+      "text": "So here I will make its type equal to capital A."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1624.1,
+      "end": 1631.3,
+      "text": "Now look, VS Code is giving us examples, suggestions, and it becomes easy for us to see what its possible values are."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1631.7,
+      "end": 1632.8,
+      "text": "So VS Code has many benefits."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1633.3,
+      "end": 1636.2,
+      "text": "And many people are using old editors that were used a long time ago."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1636.6,
+      "end": 1639.5,
+      "text": "If you know their correct plugins, and you are very used to them, then you will do it."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1639.7,
+      "end": 1641.2,
+      "text": "VS Code is modern, switch to VS Code."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1641.6,
+      "end": 1645.6,
+      "text": "Everyone uses VS Code, you will see all the big developers using VS Code."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1646.0,
+      "end": 1648.0,
+      "text": "If you want to do coding on mobile, I recommend Replit."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1648.3,
+      "end": 1649.4,
+      "text": "There's an app called Replit."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1650.3,
+      "end": 1655.3,
+      "text": "And I would like to give a shoutout to replit.com here, because I use it quite a lot and I find it quite good."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1656.0,
+      "end": 1701.0,
+      "text": "So you can also use replit.com on your mobile, if your computer's compute power is not that high, then you can use it."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1701.3,
+      "end": 1702.6,
+      "text": "You get templates and stuff in it."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1702.9,
+      "end": 1704.2,
+      "text": "We will cover more of this in upcoming videos."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1704.6,
+      "end": 1706.0,
+      "text": "But for now, I will stick to VS Code."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1706.5,
+      "end": 1710.0,
+      "text": "I hope you understood ordered list, unordered list, definition list here."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1710.5,
+      "end": 1712.7,
+      "text": "Now look, we have completed five videos in the Sigma Web Development series."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1713.0,
+      "end": 1717.0,
+      "text": "I want you all to go to the first video and leave a comment about how you are finding this course."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1717.3,
+      "end": 1722.4,
+      "text": "Give me stars out of five stars, what is the initial review of this course, according to the five videos you have watched."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1722.8,
+      "end": 1729.4,
+      "text": "I know that this public, who would scold a Swiggy Zomato delivery rider for being one minute late, doesn't comment much on YouTube these days."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1729.7,
+      "end": 1734.5,
+      "text": "But still, I want your comment, please comment below, tell me how the course is going by going to the first video."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1735.0,
+      "end": 1738.6,
+      "text": "And keep writing 'Sigma batch OP' in the comments, it gives a lot of motivation."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1739.1,
+      "end": 1744.3,
+      "text": "This way we will have a two-way interaction. If you keep commenting, I will keep seeing it, I feel very good from the heart, it feels like a two-way interaction."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1744.8,
+      "end": 1747.0,
+      "text": "So I will give the source code in the description, access it."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1747.3,
+      "end": 1749.0,
+      "text": "Here is the playlist, access it."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1749.3,
+      "end": 1753.6,
+      "text": "Like the video, write 'Sigma batch OP' in the comments, and transfer your village land to my name."
+    },
+    {
+      "tutorial_number": 5,
+      "video_title": "Image, Lists, and Tables in HTML",
+      "start": 1753.9,
+      "end": 1757.7,
+      "text": "Thank you so much guys for watching this video and I will see you next time."
+    }
+  ]
+}

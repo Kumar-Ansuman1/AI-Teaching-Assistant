@@ -1,0 +1,1117 @@
+{
+  "segments": [
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 0.0,
+      "end": 3.56,
+      "text": "Wow, you guys are back in the Sigma web development course."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 3.56,
+      "end": 7.0,
+      "text": "I'm really very happy that you all have given so much love to this course."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 7.0,
+      "end": 9.2,
+      "text": "Like it with high energy, guys."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 9.2,
+      "end": 12.9,
+      "text": "Because for the Sigma free course, a like for Sigma chats is a must."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 13.2,
+      "end": 17.4,
+      "text": "In today's video, I will explain to you the basic structure of a website, how it looks."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 17.4,
+      "end": 25.2,
+      "text": "Along with that, I will tell you a mobile trick that will let you know how you can preview your websites on your phone."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 25.6,
+      "end": 30.6,
+      "text": "I have a request for you all, please tell me in the comment section if you know HTML or not."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 30.6,
+      "end": 32.6,
+      "text": "That will help me structure this course better."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 32.8,
+      "end": 35.2,
+      "text": "In this video, I will tell you about the impact of ChatGPT."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 35.2,
+      "end": 38.2,
+      "text": "Because there's a lot of talk about ChatGPT nowadays."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 38.4,
+      "end": 44.0,
+      "text": "In the upcoming videos, I will also be conducting quizzes, so understand this video very carefully and learn all the concepts."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 44.3,
+      "end": 46.7,
+      "text": "Let's go to the computer screen. Let's roll the intro."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 55.6,
+      "end": 64.3,
+      "text": "So guys, I have come inside my computer screen and now we will talk about how opening tags, closing tags, basically form the structure of a website."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 64.5,
+      "end": 67.6,
+      "text": "So here, in my folder, I will create a folder named Video 3."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 67.6,
+      "end": 73.4,
+      "text": "New folder, Video 3, and inside Video 3, I will shift right-click and open with code."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 73.8,
+      "end": 77.2,
+      "text": "And here you can see that my theme is blue."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 77.2,
+      "end": 79.4,
+      "text": "And many people said that the blue theme is not good."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 79.4,
+      "end": 81.9,
+      "text": "Now look, the theme is a matter of personal choice."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 81.9,
+      "end": 86.6,
+      "text": "If you want to change the color theme, you can change your color theme."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 86.6,
+      "end": 89.7,
+      "text": "I want to use GitHub's dark theme, I can use GitHub's dark."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 89.7,
+      "end": 90.5,
+      "text": "It's your choice."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 90.8,
+      "end": 93.6,
+      "text": "To create a new file, I will put index.html here."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 93.9,
+      "end": 102.9,
+      "text": "We already talked about this, that if I write the title of the page here and content here, and then using the link tag, by using Emmet, I can link style.css here."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 102.9,
+      "end": 105.0,
+      "text": "I'm doing it so fast because we've already discussed this in the previous video."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 105.0,
+      "end": 109.9,
+      "text": "And here, if I write script.js here and then write, let's say, alert hello."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 109.9,
+      "end": 116.4,
+      "text": "So I won't keep telling you that if I put a script tag here just before the body, and then after that, by putting script colon SRC, I made it script.js."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 116.4,
+      "end": 122.3,
+      "text": "And then if I click here and open with browser, this 'hello' will appear, and if I make the body's background red, it will become red."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 122.3,
+      "end": 125.6,
+      "text": "I won't tell you all this, because I've already told you."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 126.0,
+      "end": 130.4,
+      "text": "Now I will tell you what this structure means, why it's written so big."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 130.4,
+      "end": 135.9,
+      "text": "This is a doubt a beginner has, that why can't we directly write this title and this content, what's the need to write so much."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 135.9,
+      "end": 138.4,
+      "text": "So I will tell you what the need is to write so much."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 138.8,
+      "end": 144.9,
+      "text": "I will reload it, see, our content appeared here and it turned red here."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 145.2,
+      "end": 147.8,
+      "text": "Now here you saw that I needed to reload the page."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 147.8,
+      "end": 151.9,
+      "text": "Many of you might ask why it needed to be reloaded when it already live reloads."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 152.1,
+      "end": 153.8,
+      "text": "So look, I changed the CSS file."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 153.8,
+      "end": 157.4,
+      "text": "When I change the CSS file, at times we need to reload."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 157.4,
+      "end": 162.9,
+      "text": "If you are making changes in an HTML file, you won't need to reload HTML file changes like this."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 163.6,
+      "end": 168.0,
+      "text": "Now here, what I will do is come back and explain to you."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 168.2,
+      "end": 170.8,
+      "text": "This is a basic structure of any HTML website."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 171.1,
+      "end": 174.7,
+      "text": "First we write doctype HTML, then we write the HTML tag."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 174.7,
+      "end": 178.2,
+      "text": "Now look, this is the opening tag of the HTML tag, and this is the closing tag."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 178.2,
+      "end": 180.8,
+      "text": "This is the opening tag of the body, and this is the closing tag."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 180.8,
+      "end": 183.4,
+      "text": "This is the opening tag of the head, and this is the closing tag."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 183.4,
+      "end": 186.0,
+      "text": "Meaning, whatever content is inside it, is the content of the head."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 186.0,
+      "end": 189.0,
+      "text": "Whatever content is inside HTML, what is it? It's HTML content."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 189.4,
+      "end": 192.4,
+      "text": "Accordingly, whatever is inside the title is the title's content."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 192.7,
+      "end": 194.2,
+      "text": "Now you will say, what is the content of meta then?"
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 194.6,
+      "end": 196.7,
+      "text": "So meta is a self-closing tag."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 196.9,
+      "end": 200.6,
+      "text": "There are two types of tags in HTML, one is a self-closing tag and the other is a paired tag."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 200.6,
+      "end": 204.0,
+      "text": "In a paired tag, you have an opening tag and a closing tag."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 204.3,
+      "end": 206.4,
+      "text": "So this is the basic structure of an HTML website."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 206.7,
+      "end": 208.5,
+      "text": "Now here you saw that the background turned red."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 208.5,
+      "end": 211.5,
+      "text": "Whose doing is this red background? It's because of CSS."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 211.5,
+      "end": 215.4,
+      "text": "Now if I remove CSS from here and tell CSS to quickly move away from here."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 215.4,
+      "end": 218.4,
+      "text": "What will I tell CSS? Quickly move away from here."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 218.4,
+      "end": 225.2,
+      "text": "And as soon as I tell CSS to quickly move away from here, it will have to move, I will reload the page and you can see it's gone from here."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 225.4,
+      "end": 228.4,
+      "text": "Similarly, can I tell JavaScript too? Quickly move away from there."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 228.8,
+      "end": 231.5,
+      "text": "Now see, when I said that, the alert will also stop appearing, okay."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 231.9,
+      "end": 234.6,
+      "text": "So you see, if I reload now, the alert will also stop appearing."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 234.9,
+      "end": 245.0,
+      "text": "So the CSS and JavaScript that I added inside this HTML content, we used them to additionally link the functionalities of CSS and JavaScript with this HTML page."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 245.6,
+      "end": 249.4,
+      "text": "Now, about the title tag, I already told you, it's used to set the page's title."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 249.8,
+      "end": 252.7,
+      "text": "Now, it doesn't just mean that you see the title up here."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 253.0,
+      "end": 255.6,
+      "text": "Search engines also use it."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 255.6,
+      "end": 261.9,
+      "text": "Meaning, search engines like Google, if you write 'code with Harry HTML' for example."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 261.9,
+      "end": 266.4,
+      "text": "Then Code with Harry's HTML introduction, HTML working, all these titles I have put on the page."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 266.4,
+      "end": 269.7,
+      "text": "You see here above, HTML introduction, this is the page's title."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 270.0,
+      "end": 274.2,
+      "text": "So these page titles are used and parsed by search engines."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 274.5,
+      "end": 278.5,
+      "text": "Now if I change the page here, its title became HTML working."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 279.0,
+      "end": 282.6,
+      "text": "Now I will change the page again, you see here its title became HTML installation."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 282.9,
+      "end": 284.9,
+      "text": "So titles keep changing."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 284.9,
+      "end": 299.7,
+      "text": "Along with that, as I keep changing it, it will keep changing, as you can see. Okay. So the title of HTML pages doesn't just mean that you see this up here."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 300.0,
+      "end": 302.0,
+      "text": "They are also very useful in SEO."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 302.3,
+      "end": 304.9,
+      "text": "And they tell what the content inside the page is."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 305.2,
+      "end": 307.5,
+      "text": "So this describes the page's content."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 307.5,
+      "end": 310.0,
+      "text": "For example, here I know what HTML execution is."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 310.0,
+      "end": 319.0,
+      "text": "HTML execution means how HTML is being executed, I am being told about this page. So changing the page title is a very good SEO practice."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 319.0,
+      "end": 325.0,
+      "text": "So with any framework we build a website, we will keep changing the page title. Now here, this head section, inside the head section, there is page metadata."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 325.0,
+      "end": 333.9,
+      "text": "Like the title, and which script you want to link with, that's there."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 334.2,
+      "end": 338.0,
+      "text": "Along with that, there are other meta tags about which I will tell you later."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 338.3,
+      "end": 343.0,
+      "text": "Meta tags basically mean what the HTML document is like, it's described."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 343.0,
+      "end": 345.0,
+      "text": "Keywords are added, descriptions are added."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 345.3,
+      "end": 349.0,
+      "text": "Meta description is a very important keyword for SEO."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 349.0,
+      "end": 351.9,
+      "text": "Meaning, what this page is about, you can write it here."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 352.2,
+      "end": 358.0,
+      "text": "If you go to my website, you will see in the view page source that a meta description tag is applied."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 358.0,
+      "end": 360.2,
+      "text": "This is compressed HTML, so don't get confused by it."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 360.2,
+      "end": 364.3,
+      "text": "But here you can see that a meta description tag is applied which describes this page."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 364.5,
+      "end": 367.6,
+      "text": "If we talk about Google, Google shows the meta description here."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 367.8,
+      "end": 377.5,
+      "text": "Now here I want to show you that doctype HTML, after that inside the head, there are page meta tags, title tags, script tags, and link tags too."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 377.9,
+      "end": 381.4,
+      "text": "So now, the script tag, you can put it just before the body and also above."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 381.4,
+      "end": 384.0,
+      "text": "And what is the difference in this, we will talk about it later in the course."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 384.0,
+      "end": 388.0,
+      "text": "But here you can see I used link to add CSS again."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 388.3,
+      "end": 393.0,
+      "text": "Then after this, the body is the main content of the website which you see on this page, on this page."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 393.3,
+      "end": 396.0,
+      "text": "So what you see on this page will be the body."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 396.0,
+      "end": 396.7,
+      "text": "Okay."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 397.0,
+      "end": 399.0,
+      "text": "Whatever you put inside the body will be visible here."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 400.0,
+      "end": 402.0,
+      "text": "And whatever script you put, it will execute."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 402.3,
+      "end": 408.0,
+      "text": "Now, what will happen by putting script here and by putting script in the head, I will tell you later in the course."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 408.0,
+      "end": 410.7,
+      "text": "But this is a basic structure of an HTML website."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 411.0,
+      "end": 412.9,
+      "text": "Lang equals EN is an attribute."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 412.9,
+      "end": 418.9,
+      "text": "If you put lang equals EN inside any tag, then lang is an attribute whose value is EN."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 418.9,
+      "end": 422.0,
+      "text": "So these key-value pairs are used which tell about this tag."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 422.3,
+      "end": 424.7,
+      "text": "For example, inside the meta tag, name equals description is used."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 424.7,
+      "end": 427.0,
+      "text": "So name equals description is an attribute."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 427.0,
+      "end": 430.0,
+      "text": "And if you hover in VS Code, it will tell you many things about it."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 430.0,
+      "end": 435.9,
+      "text": "See, I hovered over 'name' and it's telling about this entire attribute, why, what, and how this attribute is used."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 436.3,
+      "end": 441.0,
+      "text": "Now, most of the content inside the body, the raw HTML, you will mostly copy it."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 441.0,
+      "end": 443.0,
+      "text": "Mostly from a website like codewithharry.com."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 443.0,
+      "end": 445.6,
+      "text": "You will come here and copy whatever source code is there."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 445.6,
+      "end": 452.9,
+      "text": "For example, if I talk about forms, you will come to this HTML forms page, copy it from here, and start making your form and modify it."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 453.2,
+      "end": 455.7,
+      "text": "So copying and pasting is very important according to me."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 456.0,
+      "end": 460.4,
+      "text": "As a senior developer, you should know where to copy-paste from and when to do it."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 460.4,
+      "end": 461.9,
+      "text": "And I'm not saying this sarcastically."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 462.2,
+      "end": 463.6,
+      "text": "Okay, I'm not saying it sarcastically."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 463.9,
+      "end": 465.4,
+      "text": "This thing will always remain the same."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 465.4,
+      "end": 467.0,
+      "text": "Now you can type it or copy-paste it."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 467.3,
+      "end": 470.4,
+      "text": "Obviously, you will prefer to copy-paste it because it's not going to change."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 470.4,
+      "end": 471.9,
+      "text": "The form that is, will remain the form."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 472.2,
+      "end": 475.0,
+      "text": "And if you copy-paste and all, your time will be saved."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 475.3,
+      "end": 478.4,
+      "text": "Then you have to apply your mind to innovation where things cannot be copy-pasted."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 478.8,
+      "end": 485.0,
+      "text": "So consider this as a Sigma rule that you will copy-paste that thing which has to be copy-pasted."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 485.0,
+      "end": 489.0,
+      "text": "And where you need to apply your mind, it cannot be copy-pasted, so there you will save time and apply your mind."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 491.5,
+      "end": 500.9,
+      "text": "The most important part of being a senior software developer is to where to copy-paste from, which Stack Overflow question to copy-paste from, and how to paste it from where copyright CodeWithHarry 2024, 25, 26, whatever it is, you understand."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 500.9,
+      "end": 506.0,
+      "text": "I have given my copyright statement, but this statement has a lot of power."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 506.4,
+      "end": 511.0,
+      "text": "Now I will tell you about a technique by which you will be able to see whatever we develop on this website, on this mobile."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 511.3,
+      "end": 513.0,
+      "text": "Now listen carefully to the steps."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 513.0,
+      "end": 515.9,
+      "text": "Right-click, open terminal, and type IP config."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 516.2,
+      "end": 519.9,
+      "text": "If you are on an older version, you can also open command prompt or PowerShell."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 520.2,
+      "end": 526.0,
+      "text": "As soon as you type IP config and press enter, you will see the IPV4 address here: 192.168.1.199."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 526.3,
+      "end": 529.0,
+      "text": "Now, this IP address that we got here, I will copy it."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 529.0,
+      "end": 531.0,
+      "text": "So this is the IPV4 address, I will copy it."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 531.4,
+      "end": 533.9,
+      "text": "And in my settings, I will write live preview."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 534.2,
+      "end": 541.0,
+      "text": "This 'local IP host address to host your files on' that is written, in its place I will write my IP address."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 541.3,
+      "end": 543.6,
+      "text": "And after doing this, I will restart my VS Code."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 544.0,
+      "end": 549.0,
+      "text": "You will also need to ensure one more thing: that you go into your Wi-Fi settings and make your network a private network."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 549.0,
+      "end": 551.0,
+      "text": "It shouldn't be a public network, it should be a private network."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 551.0,
+      "end": 555.0,
+      "text": "Network and internet, Wi-Fi, whichever Wi-Fi you are connected to, make it a private network."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 555.0,
+      "end": 560.0,
+      "text": "And now if you right-click and show preview, you will see your IP address here: /index.html."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 560.3,
+      "end": 562.4,
+      "text": "I can now also use this on my phone."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 562.4,
+      "end": 564.7,
+      "text": "So I will quickly enter this IP address here."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 564.7,
+      "end": 569.0,
+      "text": "So I entered 192.168.1.199:5000."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 569.0,
+      "end": 572.0,
+      "text": "Yours could be 3000, whatever your port is, enter that."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 572.0,
+      "end": 575.0,
+      "text": "And here you can see, my website has been previewed on mobile."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 575.5,
+      "end": 580.0,
+      "text": "This trick comes in very handy when we want to preview on our mobile."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 580.0,
+      "end": 582.5,
+      "text": "Because nowadays most websites are viewed on phones."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 582.5,
+      "end": 588.0,
+      "text": "So we would want our phone users to be able to enjoy our website properly."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 588.0,
+      "end": 591.0,
+      "text": "And we are already doing development on the computer, so that testing will be done."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 591.0,
+      "end": 597.0,
+      "text": "Now, if you haven't left your review in the first video, I would request you all to go to the first video and review the course."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 597.0,
+      "end": 599.0,
+      "text": "I told you in the previous video, please review it."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 599.0,
+      "end": 602.0,
+      "text": "Put an initial review, like how you felt after watching this much of the course."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 602.0,
+      "end": 604.0,
+      "text": "You can write 'initial review' there."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 604.0,
+      "end": 608.0,
+      "text": "As soon as you write 'initial review', people will know what the initial review of this course is."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 608.0,
+      "end": 610.0,
+      "text": "Give me stars out of 5."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 610.0,
+      "end": 613.9,
+      "text": "Along with that, make sure to access this playlist from the description."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 613.9,
+      "end": 620.0,
+      "text": "Click here to bookmark it, or if you click on the star, it will be bookmarked and will start showing in your bookmarks."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 620.0,
+      "end": 624.0,
+      "text": "I have bookmarked the Sigma web development course here, and by clicking here, you can also save it."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 624.0,
+      "end": 628.0,
+      "text": "Very few people have accessed the playlist, so I want everyone to access this playlist."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 628.0,
+      "end": 630.0,
+      "text": "Bookmark and save this playlist."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 630.0,
+      "end": 635.0,
+      "text": "So access the playlist, like the video, and transfer the land of both your village and your uncle to my name."
+    },
+    {
+      "tutorial_number": 3,
+      "video_title": "Basic Structure of an HTML Website",
+      "start": 635.0,
+      "end": 638.9,
+      "text": "Thank you so much guys for watching this video and I will see you next time."
+    }
+  ]
+}

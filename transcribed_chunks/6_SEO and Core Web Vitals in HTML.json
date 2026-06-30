@@ -1,0 +1,900 @@
+{
+  "segments": [
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 0.0,
+      "end": 5.26,
+      "text": "In today's video, we will learn about Core Web Vitals and why Core Web Vitals are important."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 5.26,
+      "end": 7.66,
+      "text": "Do like this video and maintain high energy."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 8.26,
+      "end": 15.96,
+      "text": "The thing is that your website should run on all devices like iPad, iPhone, your Android phone, Surface Pro 4."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 15.96,
+      "end": 20.06,
+      "text": "Because through our website, we have to give a good overall experience to all users."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 20.46,
+      "end": 28.26,
+      "text": "In this video, we will also learn that there is a hidden tool inside Chrome called Lighthouse and how you can use it to enhance your website."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 28.56,
+      "end": 31.36,
+      "text": "So, write Sigma Batch OP in the comment section below."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 31.56,
+      "end": 34.06,
+      "text": "Let's go to the computer screen, let's roll the intro."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 43.26,
+      "end": 48.26,
+      "text": "So guys, I have come to my computer screen here and now I will create a new folder named Video Six."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 49.16,
+      "end": 54.06,
+      "text": "Video Six and inside Video Six, I will open VS Code as always."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 54.56,
+      "end": 58.66,
+      "text": "And what I am going to tell you today is very important from an SEO aspect."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 59.26,
+      "end": 103.06,
+      "text": "First, let me tell you what SEO is, SEO stands for Search Engine Optimization. Whenever you see any website, it has SEO done on it. Let's take the example of amazon.in, I opened amazon.in, so amazon.in would want this website to load as quickly as possible so that its products can appear in search. Google is a search engine, Google's responsibility is to show the best possible pages to users. So Google will only want to show those pages that are fast, present information very well, and at the same time, have some things that give the user the best possible experience. For example, let's say there are two pages, one page talks about dog food, the other page also talks exactly about dog food, but out of these two, page two loads very fast, loads well, so Google will give it more preference."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 103.06,
+      "end": 106.26,
+      "text": "Whenever you see any website, it has SEO done on it."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 106.46,
+      "end": 116.16,
+      "text": "Let's take the example of amazon.in, I opened amazon.in, so amazon.in would want this website to load as quickly as possible so that its products can appear in search."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 116.56,
+      "end": 120.96,
+      "text": "Google is a search engine, Google's responsibility is to show the best possible pages to users."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 121.36,
+      "end": 131.46,
+      "text": "So Google will only want to show those pages that are fast, present information very well, and at the same time, have some things that give the user the best possible experience."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 131.66,
+      "end": 142.66,
+      "text": "For example, let's say there are two pages, one page talks about dog food, the other page also talks exactly about dog food, but out of these two, page two loads very fast, loads well, so Google will give it more preference."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 143.06,
+      "end": 147.66,
+      "text": "Along with that, there are Core Web Vitals that Google considers for ranking two pages."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 148.26,
+      "end": 155.46,
+      "text": "First of all, there is content, content is the most important thing, what is on your page, if your content is good, then maybe your website can rank even without Core Web Vitals."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 155.66,
+      "end": 207.76,
+      "text": "But if you are competing with a page that has presented almost similar quality content, then your Core Web Vitals will be looked at, and if your Core Web Vitals are good, then you will be given preference."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 208.06,
+      "end": 210.76,
+      "text": "So, in Core Web Vitals, the first thing that comes is your CLS."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 211.16,
+      "end": 227.66,
+      "text": "Look at this video here, which I have played from the web.dev website, you see that someone comes to your website and tries to cancel an order, and by mistake, in the time it took him to cancel, this thing above became visible and it shifted the layout, and the order was completed, but the user wanted the order not to be completed, he wanted to click on no."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 227.86,
+      "end": 233.66,
+      "text": "In such a case, the user experience becomes very bad, and as you saw in this video, this should not happen, so our CLS should be minimal."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 234.06,
+      "end": 239.46,
+      "text": "Now, what is the definition of CLS? Cumulative Layout Shift means how much a page shifts while loading."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 239.66,
+      "end": 247.96,
+      "text": "Suppose you loaded a page and first you see this, it was initially at the top, and then when the key term part loaded, everything shifted down."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 248.36,
+      "end": 252.16,
+      "text": "Layout should not shift, if you set width and height in images, then layout will not shift."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 252.56,
+      "end": 257.46,
+      "text": "The next metric we are going to talk about is LCP, and LCP stands for Largest Contentful Paint."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 257.76,
+      "end": 305.06,
+      "text": "This means that if a user is viewing a page, how long does it take for the largest element on it, for example, the largest part here is this image, to load. Meaning, the entire page will load, but how long does it take for the largest visible element, which is the most important, to load."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 305.06,
+      "end": 311.26,
+      "text": "Meaning, the entire page will load, but how long does it take for the largest visible element, which is the most important, to load."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 311.46,
+      "end": 318.36,
+      "text": "According to web.dev and Google, a good LCP score should be 2.5 seconds, meaning the largest element of the page should load within 2.5 seconds."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 318.76,
+      "end": 323.26,
+      "text": "After this comes the third metric, which is FID, which stands for First Input Delay."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 323.46,
+      "end": 335.66,
+      "text": "First Input Delay means that if any user clicks on an input element, like a button, or gives any kind of input on a page, how long does it take for that input to be processed? For example, if you click on a button, how long does the browser take to process that button click?"
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 336.06,
+      "end": 341.36,
+      "text": "And according to Google and web.dev, your input should start processing in less than 100 milliseconds."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 341.66,
+      "end": 344.06,
+      "text": "So these were the three Core Web Vitals which are very important."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 344.46,
+      "end": 350.36,
+      "text": "For your information, these Core Web Vitals keep updating, but these three are very important and you should know them."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 350.66,
+      "end": 356.66,
+      "text": "Now I will show you what a Lighthouse report is, why it is generated, and how you will get the values of these three Core Web Vitals from there."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 357.36,
+      "end": 409.76,
+      "text": "So I'll tell you here, if you right-click and inspect, and it might be appearing on the right side for you, you can click here to bring it down, or click here to bring it back up, and click here to bring it down."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 409.76,
+      "end": 413.26,
+      "text": "I prefer it at the bottom because I'm used to seeing it at the bottom from the start."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 413.56,
+      "end": 422.06,
+      "text": "Now here you can see the Lighthouse option, Lighthouse basically generates a report for you and tells you what things can be improved in your HTML page."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 422.46,
+      "end": 436.86,
+      "text": "For example, if I want to see how my website looks to mobile users, I will click on mobile, or I will click on desktop, I will close this tab, I will click on mobile and then click on 'Analyze page load', and Lighthouse will generate a report for me."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 437.56,
+      "end": 443.86,
+      "text": "You can see here that a report has been generated, it shows performance, accessibility, best practices, SEO, and PWA."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 444.36,
+      "end": 449.26,
+      "text": "Now here you can see that some things are shown in red, meaning there is scope for improvement on the page."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 449.66,
+      "end": 454.76,
+      "text": "Now here you see it's saying to properly size your images, your website can load 2.7 seconds faster."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 455.06,
+      "end": 505.96,
+      "text": "So all these suggestions are given to you by Lighthouse, and if you incorporate these suggestions, your website will load much better and give a good experience to the user."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 506.26,
+      "end": 509.26,
+      "text": "Now you can see here it says 'Image elements do not have explicit width and height'."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 509.66,
+      "end": 521.86,
+      "text": "So you should give width and height, the width and height attribute of the image, which we studied in the previous video, should be used so that space is reserved in your browser when we set width and height in HTML, space gets reserved in the browser."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 522.16,
+      "end": 532.36,
+      "text": "Otherwise, if we don't set height and width, what will happen is that our browser won't know how much space to reserve, and as soon as the CSS loads, the entire page will suddenly shift downwards."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 532.66,
+      "end": 534.76,
+      "text": "So we don't want our page to shift during loading time."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 535.26,
+      "end": 552.56,
+      "text": "If our page starts shifting, then if we are going to click here, for example, by mistake, when it shifts down, we might end up clicking here. Suppose an image was going to appear here, I am going to click here, and in the time I clicked, that image loaded, and all this content shifted down, and by mistake, instead of clicking here, I will click on the image."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 553.06,
+      "end": 554.46,
+      "text": "This is called Cumulative Layout Shift."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 554.76,
+      "end": 600.26,
+      "text": "So this kind of shift is not preferred at all, Google does not prefer it at all, and it should be minimal. You can see that this page has a very low Cumulative Layout Shift, so we need to keep the Cumulative Layout Shift to a minimum so that our user can get a very good experience."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 600.26,
+      "end": 607.36,
+      "text": "You can see that this page has a very low Cumulative Layout Shift, so we need to keep the Cumulative Layout Shift to a minimum so that our user can get a very good experience."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 607.86,
+      "end": 611.26,
+      "text": "So here you get many more suggestions, and this is for our mobile."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 611.46,
+      "end": 614.26,
+      "text": "Now we can generate a desktop report, so a desktop report will be generated."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 614.66,
+      "end": 623.36,
+      "text": "So as you can see, it has generated a report, 92 marks in performance, 82 out of 100 in accessibility, 75 in best practices, 75 in SEO."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 623.66,
+      "end": 628.76,
+      "text": "Now here you can see that all the good things are mentioned here, and Lighthouse tells you about the scopes of improvement."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 628.96,
+      "end": 631.86,
+      "text": "So this is a hidden tool that all of us should use."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 632.26,
+      "end": 634.56,
+      "text": "Now I want to tell you about meta tags and meta descriptions."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 635.06,
+      "end": 643.46,
+      "text": "So what I will do here is create a new file, name it index.html, and after creating an HTML file, the first SEO element I want to tell you about is the title."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 643.76,
+      "end": 648.76,
+      "text": "If your title reflects the content of your page, then this is a very good SEO practice."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 649.06,
+      "end": 653.26,
+      "text": "Whenever your page is changing, you will create the title in such a way that it reflects the content of your page."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 653.56,
+      "end": 700.76,
+      "text": "Because if you want your website on Google, it will appear according to the title, which is Google's index, for example, if you write 'Code with Harry' here."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 701.26,
+      "end": 706.36,
+      "text": "Okay, and if you write like this, then this thing is the title of the page, and this is the title of the page that YouTube people have put."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 706.66,
+      "end": 710.96,
+      "text": "This is the title of the page that Instagram people have put, this is the title of the page that GitHub people have put."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 711.26,
+      "end": 720.06,
+      "text": "So if the title is on the page and the title actually truly reflects the content of your page, then your website will rank very well."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 720.66,
+      "end": 730.76,
+      "text": "Now suppose I put content here and I put an H1 and write Harry here, and after that, suppose I write a paragraph here and write Lorem 45 here."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 731.16,
+      "end": 735.66,
+      "text": "Now why did I write Lorem 45, I'll do view word wrap, why only 45, that's a very good question."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 735.96,
+      "end": 740.06,
+      "text": "I wrote 45 because I'm lazy and four and five are close to each other, so I pressed four and five."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 740.56,
+      "end": 742.36,
+      "text": "I also write 23 because they are also close."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 742.56,
+      "end": 743.46,
+      "text": "Okay, so there's no other reason."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 743.76,
+      "end": 745.16,
+      "text": "Now I will quickly preview it here."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 745.66,
+      "end": 748.06,
+      "text": "I will open it in the browser here, so look, it looks something like this."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 748.46,
+      "end": 751.56,
+      "text": "Now it says 'Document', if I leave it like this, it won't be a good SEO practice."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 752.16,
+      "end": 756.36,
+      "text": "I will write 'About Harry' here, for example, and 'Code with Harry' here, whatever my website is."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 756.66,
+      "end": 761.26,
+      "text": "Okay, and by doing this, my title will reflect here, as you can see."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 761.66,
+      "end": 767.26,
+      "text": "So doing this kind of work will increase the chances of my website appearing on Google."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 767.66,
+      "end": 771.36,
+      "text": "By inspecting, I will also generate its Lighthouse report and see what are the scopes of improvements."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 771.66,
+      "end": 776.26,
+      "text": "Right now, its Lighthouse report will be very good because there is nothing in it that I should improve."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 776.46,
+      "end": 780.86,
+      "text": "But when I add images and so on, I will get suggestions like adding width, adding height."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 781.46,
+      "end": 787.36,
+      "text": "Along with that, I'll tell you another trick, which will let you know how your website looks on any mobile device."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 787.76,
+      "end": 791.06,
+      "text": "So you click here, you see 'Computer' here, click on it."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 791.56,
+      "end": 840.86,
+      "text": "And after that, if you choose 'Responsive' here, you can see how your website will look on any type of device, so you can check if your website is responsive or not like this."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 841.36,
+      "end": 847.96,
+      "text": "If you want to see it on a specific device, like iPhone 12 Pro, your website will look something like this in the iPhone 12 Pro's resolution."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 848.36,
+      "end": 853.76,
+      "text": "Now don't say why there's no 15, no 16, bro, 12 Pro means a big iPhone device, understand."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 854.16,
+      "end": 859.96,
+      "text": "Okay, on such a big device, on such a big device, how your website will look, that's simply what you're being told."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 860.36,
+      "end": 904.76,
+      "text": "Okay, so now here you can see how it will look on Surface Pro 7, by clicking here. You can also find out how it will look on Google phones. And if you want to get a general view of how your website will look on a responsive device, on any type of device, say an iPad, then if your device is not listed here, you can choose responsive and find the approximate width of your device. Overall, your website should look good on all width devices."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 904.76,
+      "end": 908.76,
+      "text": "You can also find out how it will look on Google phones."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 909.26,
+      "end": 921.46,
+      "text": "And if you want to get a general view of how your website will look on a responsive device, on any type of device, say an iPad, then if your device is not listed here, you can choose responsive and find the approximate width of your device."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 921.66,
+      "end": 924.86,
+      "text": "Overall, your website should look good on all width devices."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 925.26,
+      "end": 927.26,
+      "text": "How this happens, I will also tell you further in this course."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 927.66,
+      "end": 931.46,
+      "text": "Now if you click here again, it closes, this responsive view closes."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 931.76,
+      "end": 933.76,
+      "text": "And as soon as it closes, your website appears like this."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 934.36,
+      "end": 935.06,
+      "text": "I will close this."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 935.56,
+      "end": 937.56,
+      "text": "I'll come back here and now I'll tell you about meta tags."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 938.36,
+      "end": 945.36,
+      "text": "Here, as soon as I type 'meta', you see 'meta DESC' appears, okay, I'll click on 'meta DESC' and here I can give my page's description."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 945.76,
+      "end": 955.86,
+      "text": "Suppose I give, 'This is the page, this is a page about, this is a page which contains description about Harry'."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 957.26,
+      "end": 1000.26,
+      "text": "Okay, and here you write whatever your page content is, whatever you want. For example, let me show you, suppose you write 'What is SEO'."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1000.26,
+      "end": 1003.46,
+      "text": "For example, let me show you, suppose you write 'What is SEO'."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1004.46,
+      "end": 1009.96,
+      "text": "You wrote 'What is SEO' and here, look, this page has put this meta description, 'SEO stands for this in simple terms'."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1010.36,
+      "end": 1013.36,
+      "text": "Now it's not necessary that a search engine will parse your meta DESC or not."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1013.66,
+      "end": 1016.56,
+      "text": "If it likes it, it will parse and put your meta DESC here."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1017.06,
+      "end": 1020.96,
+      "text": "If you haven't put meta DESC, then meta DESC can also be generated from your content."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1021.36,
+      "end": 1024.76,
+      "text": "So this is the search engine's responsibility, we don't know what Bing will do, what Google will do."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1025.16,
+      "end": 1032.06,
+      "text": "But from our side, our page should be absolutely to the point, especially if we are writing a blog and we want our page to rank organically."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1032.46,
+      "end": 1034.76,
+      "text": "So here you can see that I applied meta DESC."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1035.26,
+      "end": 1037.26,
+      "text": "Now, a meta keyword used to be very popular before."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1037.56,
+      "end": 1043.36,
+      "text": "But now the meta keyword has been deprecated, meta keyword is not used at all anymore."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1044.06,
+      "end": 1049.26,
+      "text": "The code for meta keywords looks something like this, but it is believed that meta keywords do not rank at all in SEO."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1049.46,
+      "end": 1056.76,
+      "text": "Because people abuse it more, suppose you have written a page about pets and you wrote 'What is SEO' in the meta keyword, it doesn't mean your page will rank."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1057.16,
+      "end": 1059.26,
+      "text": "I'll fix these incorrect double quotes here."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1059.66,
+      "end": 1103.26,
+      "text": "So if I put meta keywords here, it's not necessary that the search engine will consider it. Some search engines don't even consider meta keywords, they say, 'We don't want to see your meta keywords, don't even put them'. So meta keywords used to be very popular before, but not anymore. Now your page's content is parsed, and with the advent of AI, your content will be understood even more, what value your content is providing will be understood, and it will be ranked accordingly."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1103.26,
+      "end": 1108.46,
+      "text": "Some search engines don't even consider meta keywords, they say, 'We don't want to see your meta keywords, don't even put them'."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1108.66,
+      "end": 1110.96,
+      "text": "So meta keywords used to be very popular before, but not anymore."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1111.16,
+      "end": 1119.96,
+      "text": "Now your page's content is parsed, and with the advent of AI, your content will be understood even more, what value your content is providing will be understood, and it will be ranked accordingly."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1120.56,
+      "end": 1130.26,
+      "text": "Now, if you want to know exactly about these Core Web Vitals, for example, if I right-click and inspect, go to Lighthouse, and generate a Lighthouse report for desktop, then some Core Web Vitals appear."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1130.66,
+      "end": 1134.96,
+      "text": "Such as LCP comes, then FCP comes, First Contentful Paint."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1135.46,
+      "end": 1137.46,
+      "text": "Now you can see everything is 100, 100, 100, 100 here."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1137.86,
+      "end": 1145.26,
+      "text": "Look here, there wasn't much in this content right now, but here you can see it's saying that you need to make sure pages with web sockets cannot enter back-forward cache."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1145.56,
+      "end": 1149.56,
+      "text": "It has web sockets because we are using this extension, Live Preview."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1149.76,
+      "end": 1152.96,
+      "text": "Otherwise, it's perfectly fine, accessibility is also 100, everything is 100, this is a very good page."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1153.36,
+      "end": 1156.26,
+      "text": "PWA stands for Progressive Web Apps, which we will not create right now."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1156.56,
+      "end": 1202.96,
+      "text": "But here you see First Contentful Paint, Largest Contentful Paint, Total Blocking Time, Cumulative Layout Shift, Speed Index."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1203.26,
+      "end": 1209.56,
+      "text": "If you want to know about all these, for example, what is First Contentful Paint, it's how long it takes for what the user is going to see to be painted on the browser."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1209.86,
+      "end": 1216.66,
+      "text": "So if you want to see this, you will have to go to web.dev, web.dev is a very good website that talks about all these things."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1217.06,
+      "end": 1229.56,
+      "text": "And here you can see that they keep talking about it, you can learn about all these things here, what is what, if you want to learn PWA, you can learn PWA, there is a lot of good content about all these things here."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1229.86,
+      "end": 1233.76,
+      "text": "But in this course, we will focus on HTML, CSS, JavaScript, and building websites."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1234.06,
+      "end": 1237.36,
+      "text": "According to me, you should have known this, which is why I told you about it."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1237.66,
+      "end": 1247.56,
+      "text": "If you haven't accessed the Sigma Web Development series yet, then definitely access it, access the playlist and bookmark it by clicking on the star here and saving it by clicking here."
+    },
+    {
+      "tutorial_number": 6,
+      "video_title": "SEO and Core Web Vitals in HTML",
+      "start": 1247.86,
+      "end": 1252.76,
+      "text": "That's all for this video for now, guys. Thank you so much, guys, for watching this video, and I will see you next time."
+    }
+  ]
+}
